@@ -243,7 +243,7 @@ The prototype assumes:
 ```bash
 git clone <https://github.com/abhaysinghiit/Financial-Risk-Signal-Aggregator>
 
-cd Financial-Risk-Signal-Aggregator
+cd financial-risk-signal-aggregator-app
 ```
 
 ## Install dependencies
