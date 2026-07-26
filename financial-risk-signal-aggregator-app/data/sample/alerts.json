@@ -1,0 +1,371 @@
+[
+  {
+    "AlertID": "A001",
+    "CustomerID": "C026",
+    "AlertType": "AML Investigation",
+    "Severity": "Medium",
+    "Source": "Fraud Detection System",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-06-12T23:43:52.653322"
+  },
+  {
+    "AlertID": "A002",
+    "CustomerID": "C035",
+    "AlertType": "High Cash Activity",
+    "Severity": "High",
+    "Source": "Fraud Detection System",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-05-06T11:46:46.653347"
+  },
+  {
+    "AlertID": "A003",
+    "CustomerID": "C097",
+    "AlertType": "AML Investigation",
+    "Severity": "Medium",
+    "Source": "Compliance Team",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-05-15T19:47:13.653367"
+  },
+  {
+    "AlertID": "A004",
+    "CustomerID": "C056",
+    "AlertType": "AML Investigation",
+    "Severity": "Low",
+    "Source": "Internal AML Engine",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-06-16T13:43:07.653385"
+  },
+  {
+    "AlertID": "A005",
+    "CustomerID": "C044",
+    "AlertType": "AML Investigation",
+    "Severity": "High",
+    "Source": "Internal AML Engine",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-06-29T14:35:18.653402"
+  },
+  {
+    "AlertID": "A006",
+    "CustomerID": "C088",
+    "AlertType": "Device Change",
+    "Severity": "Medium",
+    "Source": "Compliance Team",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-06-27T20:31:35.653418"
+  },
+  {
+    "AlertID": "A007",
+    "CustomerID": "C083",
+    "AlertType": "High Cash Activity",
+    "Severity": "Low",
+    "Source": "Fraud Detection System",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-06-12T04:34:34.653434"
+  },
+  {
+    "AlertID": "A008",
+    "CustomerID": "C056",
+    "AlertType": "Suspicious Transfers",
+    "Severity": "Medium",
+    "Source": "Fraud Detection System",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-05-12T03:49:28.653449"
+  },
+  {
+    "AlertID": "A009",
+    "CustomerID": "C017",
+    "AlertType": "Chargeback Spike",
+    "Severity": "Low",
+    "Source": "Compliance Team",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-06-08T06:14:01.653465"
+  },
+  {
+    "AlertID": "A010",
+    "CustomerID": "C038",
+    "AlertType": "High Cash Activity",
+    "Severity": "Low",
+    "Source": "Compliance Team",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-05-05T03:52:48.653480"
+  },
+  {
+    "AlertID": "A011",
+    "CustomerID": "C006",
+    "AlertType": "High Cash Activity",
+    "Severity": "Low",
+    "Source": "Compliance Team",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-06-07T23:39:59.653495"
+  },
+  {
+    "AlertID": "A012",
+    "CustomerID": "C053",
+    "AlertType": "Suspicious Transfers",
+    "Severity": "Medium",
+    "Source": "Compliance Team",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-07-06T15:59:25.653511"
+  },
+  {
+    "AlertID": "A013",
+    "CustomerID": "C073",
+    "AlertType": "Chargeback Spike",
+    "Severity": "Medium",
+    "Source": "Fraud Detection System",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-06-23T14:01:06.653526"
+  },
+  {
+    "AlertID": "A014",
+    "CustomerID": "C011",
+    "AlertType": "High Cash Activity",
+    "Severity": "Low",
+    "Source": "Internal AML Engine",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-07-08T15:04:26.653541"
+  },
+  {
+    "AlertID": "A015",
+    "CustomerID": "C085",
+    "AlertType": "AML Investigation",
+    "Severity": "Low",
+    "Source": "Internal AML Engine",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-07-18T13:40:07.653556"
+  },
+  {
+    "AlertID": "A016",
+    "CustomerID": "C051",
+    "AlertType": "Suspicious Transfers",
+    "Severity": "Low",
+    "Source": "Fraud Detection System",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-07-21T20:32:03.653571"
+  },
+  {
+    "AlertID": "A017",
+    "CustomerID": "C091",
+    "AlertType": "Chargeback Spike",
+    "Severity": "Medium",
+    "Source": "Compliance Team",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-07-07T00:48:33.653586"
+  },
+  {
+    "AlertID": "A018",
+    "CustomerID": "C059",
+    "AlertType": "AML Investigation",
+    "Severity": "High",
+    "Source": "Fraud Detection System",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-05-30T20:54:47.653601"
+  },
+  {
+    "AlertID": "A019",
+    "CustomerID": "C024",
+    "AlertType": "Device Change",
+    "Severity": "Low",
+    "Source": "Internal AML Engine",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-07-09T06:15:03.653616"
+  },
+  {
+    "AlertID": "A020",
+    "CustomerID": "C078",
+    "AlertType": "Chargeback Spike",
+    "Severity": "High",
+    "Source": "Internal AML Engine",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-06-08T20:22:16.653631"
+  },
+  {
+    "AlertID": "A021",
+    "CustomerID": "C069",
+    "AlertType": "Suspicious Transfers",
+    "Severity": "Low",
+    "Source": "Fraud Detection System",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-05-09T01:25:35.653645"
+  },
+  {
+    "AlertID": "A022",
+    "CustomerID": "C002",
+    "AlertType": "Device Change",
+    "Severity": "High",
+    "Source": "Fraud Detection System",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-06-11T09:48:14.653660"
+  },
+  {
+    "AlertID": "A023",
+    "CustomerID": "C089",
+    "AlertType": "AML Investigation",
+    "Severity": "High",
+    "Source": "Compliance Team",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-06-25T04:02:44.653674"
+  },
+  {
+    "AlertID": "A024",
+    "CustomerID": "C093",
+    "AlertType": "AML Investigation",
+    "Severity": "Medium",
+    "Source": "Compliance Team",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-07-15T16:16:56.653689"
+  },
+  {
+    "AlertID": "A025",
+    "CustomerID": "C079",
+    "AlertType": "Chargeback Spike",
+    "Severity": "High",
+    "Source": "Compliance Team",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-07-03T18:02:47.653703"
+  },
+  {
+    "AlertID": "A026",
+    "CustomerID": "C087",
+    "AlertType": "AML Investigation",
+    "Severity": "Medium",
+    "Source": "Internal AML Engine",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-05-09T21:01:33.653718"
+  },
+  {
+    "AlertID": "A027",
+    "CustomerID": "C018",
+    "AlertType": "Suspicious Transfers",
+    "Severity": "Low",
+    "Source": "Internal AML Engine",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-07-15T22:53:24.653733"
+  },
+  {
+    "AlertID": "A028",
+    "CustomerID": "C003",
+    "AlertType": "Device Change",
+    "Severity": "Low",
+    "Source": "Internal AML Engine",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-06-13T10:37:50.653747"
+  },
+  {
+    "AlertID": "A029",
+    "CustomerID": "C084",
+    "AlertType": "Device Change",
+    "Severity": "High",
+    "Source": "Internal AML Engine",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-06-09T01:00:25.653762"
+  },
+  {
+    "AlertID": "A030",
+    "CustomerID": "C081",
+    "AlertType": "High Cash Activity",
+    "Severity": "Low",
+    "Source": "Internal AML Engine",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-05-26T22:44:09.653777"
+  },
+  {
+    "AlertID": "A031",
+    "CustomerID": "C099",
+    "AlertType": "AML Investigation",
+    "Severity": "Low",
+    "Source": "Fraud Detection System",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-06-07T16:35:46.653791"
+  },
+  {
+    "AlertID": "A032",
+    "CustomerID": "C003",
+    "AlertType": "Suspicious Transfers",
+    "Severity": "Low",
+    "Source": "Internal AML Engine",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-07-08T11:01:52.653806"
+  },
+  {
+    "AlertID": "A033",
+    "CustomerID": "C090",
+    "AlertType": "AML Investigation",
+    "Severity": "Medium",
+    "Source": "Fraud Detection System",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-04-29T15:16:56.653820"
+  },
+  {
+    "AlertID": "A034",
+    "CustomerID": "C058",
+    "AlertType": "High Cash Activity",
+    "Severity": "Low",
+    "Source": "Internal AML Engine",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-05-26T08:33:12.653834"
+  },
+  {
+    "AlertID": "A035",
+    "CustomerID": "C073",
+    "AlertType": "AML Investigation",
+    "Severity": "Low",
+    "Source": "Fraud Detection System",
+    "Description": "Automatically generated alert.",
+    "Timestamp": "2026-04-28T11:53:41.653848"
+  },
+  {
+    "AlertID": "A036",
+    "CustomerID": "C005",
+    "AlertType": "Sanction Match",
+    "Severity": "Critical",
+    "Source": "OFAC",
+    "Description": "Customer matched sanctions list.",
+    "Timestamp": "2026-07-01T17:09:29.653852"
+  },
+  {
+    "AlertID": "A037",
+    "CustomerID": "C005",
+    "AlertType": "PEP Match",
+    "Severity": "High",
+    "Source": "Compliance Team",
+    "Description": "Politically exposed person.",
+    "Timestamp": "2026-07-17T16:36:56.653854"
+  },
+  {
+    "AlertID": "A038",
+    "CustomerID": "C018",
+    "AlertType": "Suspicious Transfers",
+    "Severity": "High",
+    "Source": "Internal AML Engine",
+    "Description": "Large transfers to high-risk jurisdiction.",
+    "Timestamp": "2026-07-16T21:51:20.653856"
+  },
+  {
+    "AlertID": "A039",
+    "CustomerID": "C031",
+    "AlertType": "Multiple Failed Transactions",
+    "Severity": "High",
+    "Source": "Fraud Detection System",
+    "Description": "Repeated failed card attempts.",
+    "Timestamp": "2026-07-20T19:04:56.653857"
+  },
+  {
+    "AlertID": "A040",
+    "CustomerID": "C052",
+    "AlertType": "High Cash Activity",
+    "Severity": "High",
+    "Source": "Internal AML Engine",
+    "Description": "Transactions just below reporting threshold.",
+    "Timestamp": "2026-07-24T19:44:08.653859"
+  },
+  {
+    "AlertID": "A041",
+    "CustomerID": "C070",
+    "AlertType": "Dormant Account Reactivated",
+    "Severity": "High",
+    "Source": "Compliance Team",
+    "Description": "Inactive account became active.",
+    "Timestamp": "2026-07-25T15:44:59.653860"
+  }
+]

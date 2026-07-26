@@ -1,0 +1,1060 @@
+TransactionID,CustomerID,Timestamp,Amount,Currency,Merchant,MerchantCategory,Country,DeviceID,PaymentMethod,Status
+ce668bfc-61d0-44d5-a051-ba3858e18446,C073,2026-03-27T17:31:21.646723,115.24,USD,Apple,Electronics,Canada,IPH-25525,Wallet,Success
+b8cee7fe-2866-49b0-881d-eb6562d866bc,C077,2026-06-30T06:39:56.646752,65.08,USD,Quick Transfer,Money Transfer,Germany,WEB-59856,Bank Transfer,Success
+fd9c3a2e-e9d9-4f6c-883b-7ed9e8e973cf,C076,2026-04-21T00:02:17.646763,132.02,USD,Starbucks,Food,Singapore,WEB-91399,Card,Success
+815a3051-0fc8-400e-b469-c0a85ba3c0d5,C098,2026-03-09T01:54:29.646771,290.25,USD,Walmart,Retail,Germany,AND-96563,Card,Success
+9f7b5853-f7a9-487b-a223-94c3589cefc0,C071,2026-02-11T07:22:26.646777,59.7,USD,Apple,Electronics,United Kingdom,IPH-63545,Bank Transfer,Success
+af50f67b-e602-469d-bcd0-d79523fd7ccb,C038,2026-02-03T01:39:32.646784,59.7,USD,Global Electronics,Electronics,Germany,AND-47056,Wallet,Success
+de7d36a7-b532-4fbb-8bb0-a01ce607f7fa,C088,2026-03-14T01:22:48.646790,305.3,USD,Walmart,Retail,Singapore,WEB-87304,Wallet,Success
+af5e14b8-f674-4cf2-83ce-778323f7e46c,C055,2026-02-19T00:26:33.646797,147.04,USD,Shell,Fuel,United Arab Emirates,IPH-94886,Card,Success
+cbffbc05-0c7a-40c4-ab19-ef0b56f60a3c,C010,2026-02-08T07:28:47.646802,48.3,USD,Apple,Electronics,United Kingdom,AND-87993,Wallet,Success
+7a8cd068-3e44-4551-9d1e-e758a13f27e0,C057,2026-02-20T21:04:35.646808,120.1,USD,Starbucks,Food,Russia,WEB-49857,Wallet,Success
+8fa64a6c-510f-40bd-8e07-657d18ead349,C065,2026-05-12T14:02:34.646814,48.57,USD,Starbucks,Food,Russia,AND-20543,Wallet,Success
+bac4757c-0fee-4324-9a75-44b8753e84d1,C095,2026-03-31T07:40:25.646819,48.47,USD,Lucky Spin Casino,Casino,Singapore,IPH-21970,Card,Failed
+f200e165-1dea-47d0-a907-f18ec509a26b,C076,2026-01-31T18:13:37.646825,91.63,USD,Quick Transfer,Money Transfer,Singapore,WEB-15273,Card,Success
+0e202a8d-1b16-43a7-abef-9edf49cff584,C036,2026-03-03T23:20:49.646832,13.17,USD,Global Electronics,Electronics,Nigeria,WEB-74451,Card,Success
+5fae40c7-4047-4c5e-aeb5-b016b8c748cf,C043,2026-03-31T01:47:10.646837,15.6,USD,Lucky Spin Casino,Casino,Canada,IPH-53228,Bank Transfer,Success
+88edb238-4f1f-425f-963c-352ec93b7b5c,C085,2026-04-15T11:47:20.646843,44.43,USD,Starbucks,Food,United Arab Emirates,IPH-69614,Card,Success
+b16ab820-b505-4ed8-80bd-c1d4eca016be,C015,2026-06-26T17:52:50.646849,29.62,USD,Alpha Crypto Exchange,Crypto,Nigeria,WEB-10150,Wallet,Success
+029ce447-92e8-4fa7-b1ea-06986872f292,C053,2026-02-07T06:09:20.646854,97.79,USD,Global Electronics,Electronics,Germany,WEB-57419,Wallet,Success
+fd7acef9-43da-48bb-8693-af760bff2933,C098,2026-02-06T18:04:28.646860,32.55,USD,Global Electronics,Electronics,Germany,AND-81987,Card,Success
+00d5a887-e552-4f4e-8460-c7169f67bba2,C090,2026-05-01T20:28:01.646866,20.68,USD,Global Electronics,Electronics,Canada,IPH-92578,Wallet,Success
+b2659517-a48e-4a9f-819b-5d4c5bcde560,C040,2026-05-14T16:38:32.646872,275.64,USD,Apple,Electronics,United States,WEB-63476,Card,Success
+3d1d7a51-ac56-4163-8818-234f8a3d74a4,C060,2026-02-19T12:58:41.646877,60.15,USD,Walmart,Retail,United Kingdom,AND-48254,Wallet,Success
+65f67158-505a-41da-987e-a5cc80b0f98d,C062,2026-04-29T10:15:00.646883,78.32,USD,Lucky Spin Casino,Casino,Germany,AND-82255,Card,Success
+bf64e21f-e844-4ba7-9f42-c3f373ebf1eb,C066,2026-06-21T15:31:18.646889,20.44,USD,Quick Transfer,Money Transfer,United Kingdom,IPH-46208,Bank Transfer,Success
+f01c249e-03fd-4471-b015-fc18d6c08804,C035,2026-07-06T01:35:02.646894,45.15,USD,Travel Hub,Travel,United States,AND-49132,Wallet,Success
+fe5cbca1-39ce-47b4-bac6-8ba7799592e2,C020,2026-04-24T10:36:29.646900,81.44,USD,Global Electronics,Electronics,United Arab Emirates,AND-55236,Bank Transfer,Success
+9b53b97c-512d-433c-a3b5-d33ac4fd96bb,C049,2026-04-26T03:36:21.646906,26.16,USD,Travel Hub,Travel,India,IPH-41300,Wallet,Success
+ae211bf0-c863-4626-99cc-ae89def7de61,C006,2026-03-30T12:21:19.646911,103.35,USD,Lucky Spin Casino,Casino,Russia,WEB-59968,Bank Transfer,Failed
+6a7cf764-56d3-4263-a04a-57a5c5490c89,C064,2026-02-03T22:04:13.646917,42.92,USD,Apple,Electronics,United Kingdom,WEB-87356,Bank Transfer,Success
+cda9167d-fa1f-4680-8ad9-81b3209901ca,C013,2026-05-09T20:39:21.646923,56.68,USD,Global Electronics,Electronics,Russia,IPH-28894,Bank Transfer,Success
+0675358b-73e5-434f-8260-269fbcc1d8b4,C010,2026-04-28T21:31:52.646928,42.88,USD,Apple,Electronics,Singapore,AND-91691,Wallet,Success
+0e063305-3687-4e93-90dc-d4de0a6fd5f0,C043,2026-07-12T05:44:41.646934,390.35,USD,Walmart,Retail,United Arab Emirates,AND-51505,Wallet,Success
+afced05c-341d-4848-b971-54aaf83d35c8,C070,2026-02-03T16:50:53.646939,72.81,USD,Global Electronics,Electronics,Canada,IPH-92727,Wallet,Success
+7297a081-55ad-4f3e-9849-04d04e88586a,C096,2026-02-14T06:44:40.646944,28.45,USD,Shell,Fuel,Nigeria,IPH-93066,Wallet,Success
+7efaaf65-ec95-4004-a96d-15500b2eab00,C022,2026-06-11T11:49:34.646950,154.51,USD,Global Electronics,Electronics,Singapore,IPH-16028,Bank Transfer,Success
+d3455d5c-08c3-4ad2-bc25-a179cd6e0f70,C046,2026-04-10T12:25:56.646956,24.56,USD,Starbucks,Food,Nigeria,IPH-42007,Wallet,Success
+3145d3a7-c107-4c10-a8eb-b271f46ad725,C022,2026-03-02T17:25:43.646961,88.94,USD,Apple,Electronics,Canada,WEB-60140,Wallet,Success
+cc8f74fa-5399-4447-a040-5c4e0e7a23f0,C075,2026-02-24T12:31:23.646967,12.63,USD,Global Electronics,Electronics,Germany,AND-93611,Bank Transfer,Success
+81722062-7980-43ba-be79-0a53b484246d,C060,2026-07-21T17:29:12.646973,22.3,USD,Amazon,Retail,Singapore,WEB-81643,Card,Success
+05c27e42-56fe-4607-9b31-f82150d8c562,C076,2026-03-26T19:42:22.646978,87.99,USD,Alpha Crypto Exchange,Crypto,Nigeria,WEB-42780,Bank Transfer,Success
+87a3c7f9-c7d7-4242-87a5-c6ad2d09c89c,C050,2026-07-12T10:22:40.646984,143.25,USD,Shell,Fuel,Russia,IPH-41091,Bank Transfer,Success
+fa385aa3-fb54-41aa-bf3f-be37268f155d,C038,2026-06-12T12:25:23.646989,85.99,USD,Quick Transfer,Money Transfer,Singapore,IPH-96275,Bank Transfer,Success
+96452103-90b6-4646-93ad-b5a9375b0e54,C088,2026-06-27T20:44:29.646994,66.41,USD,Quick Transfer,Money Transfer,United States,WEB-75107,Bank Transfer,Success
+8c6aee25-b5f7-4ca2-a9d6-375e62317f88,C078,2026-07-02T10:49:12.647000,56.21,USD,Shell,Fuel,India,IPH-93442,Card,Success
+85886db8-40d7-4e0f-97ab-75b970627203,C081,2026-02-15T14:21:47.647005,19.48,USD,Apple,Electronics,United States,AND-67779,Card,Success
+5e92a0b5-d1e2-4877-8392-2b5ddb59f6d9,C012,2026-07-23T08:43:09.647011,38.56,USD,Apple,Electronics,Singapore,AND-64460,Card,Success
+e23df49d-65db-4dd6-b0fb-ed9524f9c25d,C047,2026-05-10T19:29:51.647016,48.69,USD,Travel Hub,Travel,United Arab Emirates,AND-31567,Bank Transfer,Success
+e75269d6-f2cf-40b7-9791-c74934596167,C038,2026-06-21T16:45:54.647022,190.84,USD,Global Electronics,Electronics,India,IPH-71385,Card,Success
+64ced5eb-3579-4168-8c4d-705b221af281,C087,2026-06-17T08:38:27.647028,100.41,USD,Shell,Fuel,Nigeria,WEB-57942,Card,Success
+00272fad-ff15-4d9a-a62b-4f3ee2c718a9,C034,2026-05-11T22:09:16.647033,15.08,USD,Amazon,Retail,Canada,AND-58311,Wallet,Success
+eb90e85f-dd67-4aaa-8ddd-3ae5716a8a24,C075,2026-04-11T17:15:14.647039,98.66,USD,Starbucks,Food,India,IPH-98452,Card,Success
+152341b6-9b27-4f37-8b7e-20f124ed88b6,C072,2026-04-01T10:09:59.647044,52.11,USD,Quick Transfer,Money Transfer,Germany,WEB-18285,Wallet,Success
+a92e16fb-9ee8-491a-b2dc-e8047dbc90a4,C084,2026-04-17T00:20:34.647049,40.08,USD,Starbucks,Food,Canada,IPH-15943,Card,Success
+82229553-2260-496f-87be-b82fc062c881,C015,2026-02-15T14:29:38.647055,127.81,USD,Global Electronics,Electronics,Germany,WEB-27781,Bank Transfer,Success
+92ce476e-ea9c-45cc-95d7-31d4a9b669e9,C054,2026-05-21T18:45:02.647060,186.4,USD,Travel Hub,Travel,United Kingdom,AND-95841,Card,Success
+0b891d94-8587-4819-9335-af94c9c8eb1d,C053,2026-03-23T01:13:47.647066,170.4,USD,Quick Transfer,Money Transfer,United States,WEB-58566,Card,Success
+bf2566b2-e9b9-4118-a140-05e746b24323,C047,2026-02-16T00:34:20.647072,34.63,USD,Shell,Fuel,India,WEB-94518,Bank Transfer,Success
+bcd21351-c809-42ea-bfc0-40bf9aa6f239,C025,2026-02-20T10:51:06.647077,55.8,USD,Starbucks,Food,Russia,IPH-96870,Card,Success
+1f6c441a-3724-42cb-87ef-a5747f3f82f1,C003,2026-02-06T13:15:33.647083,99.3,USD,Quick Transfer,Money Transfer,India,IPH-26505,Wallet,Success
+cde2aee9-3fd5-48fe-afad-9a4f4ea9c3da,C027,2026-05-21T14:17:22.647089,177.33,USD,Travel Hub,Travel,Germany,IPH-53064,Card,Success
+2946d3f9-ad9c-4c86-b96a-847e766745a8,C001,2026-03-22T13:44:26.647095,47.88,USD,Quick Transfer,Money Transfer,United Kingdom,IPH-80807,Bank Transfer,Success
+35216ebe-d3b4-46c2-8dce-92b5a7523071,C085,2026-07-14T23:29:10.647100,62.36,USD,Walmart,Retail,United States,IPH-11947,Bank Transfer,Success
+45bf6ed3-30dc-4bab-a978-bdb13e3fa532,C076,2026-03-31T14:25:50.647106,27.23,USD,Shell,Fuel,United States,IPH-44782,Card,Success
+3afa6863-52ca-44aa-bb2b-528ce0f4cb8e,C068,2026-02-18T19:11:25.647111,25.11,USD,Lucky Spin Casino,Casino,Canada,AND-68756,Bank Transfer,Success
+5b0752be-0a71-453d-8a2e-36bf7d68271e,C058,2026-05-05T13:36:17.647117,153.13,USD,Walmart,Retail,Germany,WEB-15683,Wallet,Success
+25d0cf5e-9e52-4841-9866-833d03c7221b,C039,2026-04-26T16:10:45.647122,249.79,USD,Travel Hub,Travel,United States,IPH-72781,Bank Transfer,Success
+9b149c26-85e5-4743-a352-42529e77bbfd,C063,2026-06-15T01:34:37.647128,69.07,USD,Walmart,Retail,Russia,IPH-20589,Bank Transfer,Success
+616af158-8cae-445a-aeaf-fbf889164623,C017,2026-03-22T03:12:49.647133,181.85,USD,Walmart,Retail,United Arab Emirates,WEB-52622,Bank Transfer,Failed
+43481c6d-6b6e-4e40-bd1f-4331bbc477b3,C038,2026-04-25T20:00:48.647139,102.05,USD,Travel Hub,Travel,United Arab Emirates,WEB-66387,Card,Success
+aa61959b-f7f8-43cc-9a55-76a0817bce1c,C084,2026-06-03T03:02:16.647144,41.24,USD,Walmart,Retail,United Arab Emirates,WEB-38183,Bank Transfer,Success
+90816c35-3d54-4c30-8a3c-e2652ed4b810,C053,2026-04-03T13:04:55.647149,102.03,USD,Shell,Fuel,Russia,AND-64524,Wallet,Success
+d6d74b2a-7e48-4e03-b41a-983c172c5295,C041,2026-06-05T21:10:25.647155,294.19,USD,Lucky Spin Casino,Casino,Singapore,AND-30006,Wallet,Success
+8637f3df-6db3-4a1d-b5bd-f8bfa67e2351,C012,2026-07-08T05:53:03.647160,71.36,USD,Walmart,Retail,Canada,IPH-66606,Card,Success
+6c84bd2b-c73f-4ab2-9c81-6b2fbe3ca5b3,C017,2026-05-15T18:25:19.647165,301.32,USD,Alpha Crypto Exchange,Crypto,United States,WEB-83608,Wallet,Success
+30320dc8-60ae-447d-91a6-723cb9b66d4d,C053,2026-04-06T09:25:58.647170,6.97,USD,Walmart,Retail,Nigeria,WEB-16743,Bank Transfer,Success
+1448cb0d-e0f3-42c7-bdc9-b89963f7e782,C014,2026-05-19T22:50:30.647176,154.43,USD,Alpha Crypto Exchange,Crypto,United Arab Emirates,IPH-30280,Wallet,Success
+62a3ae83-6472-4636-9520-890e341c4675,C045,2026-07-10T21:16:19.647181,79.71,USD,Walmart,Retail,United Arab Emirates,AND-25058,Bank Transfer,Success
+06e92579-8d54-4325-8b07-bbee27e84742,C072,2026-06-25T18:02:28.647187,56.31,USD,Lucky Spin Casino,Casino,United Arab Emirates,IPH-89822,Wallet,Success
+2b30ce50-89fc-4105-b67f-58538e47c296,C004,2026-03-03T18:20:46.647197,80.04,USD,Starbucks,Food,Singapore,WEB-50499,Bank Transfer,Success
+3de998ba-2eb7-4f00-a692-bc13026db6ef,C019,2026-05-17T16:47:38.647202,12.32,USD,Apple,Electronics,Nigeria,IPH-28595,Wallet,Success
+fe9d1837-f8f6-451c-a364-3047249b7e25,C012,2026-06-21T14:40:45.647208,60.48,USD,Amazon,Retail,United Arab Emirates,IPH-59308,Bank Transfer,Success
+2b2cb00a-838e-4413-ae88-35f1f6cbf3da,C048,2026-03-29T05:52:54.647213,101.64,USD,Apple,Electronics,India,WEB-88148,Card,Success
+10b56b9a-981f-4997-93c4-391e39e657bd,C021,2026-06-23T05:28:20.647218,278.69,USD,Apple,Electronics,United States,WEB-20693,Bank Transfer,Success
+30761c83-0bf3-4722-b5a4-9f8ea4959cc6,C063,2026-05-25T14:43:32.647223,46.23,USD,Lucky Spin Casino,Casino,Russia,AND-45804,Card,Success
+f3546dba-2a7a-47e8-ab0d-d75dbd157f43,C045,2026-04-21T05:05:20.647229,35.6,USD,Walmart,Retail,Canada,AND-98895,Wallet,Success
+e08567ca-b536-4ba8-a51e-2d13898333a2,C086,2026-03-28T14:53:05.647234,46.92,USD,Travel Hub,Travel,United States,IPH-61807,Wallet,Success
+e9f9680e-4807-4fa0-9b87-e34fc7a761b7,C039,2026-03-09T17:58:05.647239,167.98,USD,Shell,Fuel,United Kingdom,AND-47938,Bank Transfer,Success
+835a589e-9d64-4ae5-a9c7-063418d16ae8,C096,2026-04-21T08:32:39.647245,99.07,USD,Global Electronics,Electronics,United Kingdom,IPH-59834,Wallet,Success
+4f7c939a-1be5-43b4-9d07-963db7809310,C072,2026-07-08T13:15:30.647250,45.75,USD,Travel Hub,Travel,India,IPH-62044,Wallet,Success
+91f0a849-c57a-458b-8c5f-d8bb75e95ff8,C059,2026-07-25T14:28:28.647255,116.97,USD,Amazon,Retail,Canada,AND-85465,Bank Transfer,Success
+652ff648-7dfd-48d7-868d-c5f718cbeae1,C038,2026-02-19T02:17:35.647261,80.43,USD,Lucky Spin Casino,Casino,Nigeria,IPH-52568,Card,Success
+d44d5c7c-87ba-48b0-9db7-e69191fcf641,C059,2026-07-08T07:04:05.647266,176.23,USD,Quick Transfer,Money Transfer,India,IPH-67240,Card,Success
+58f5cb74-4bc6-4436-af73-d93d308d21e6,C052,2026-05-09T11:23:19.647271,39.18,USD,Quick Transfer,Money Transfer,Canada,AND-50668,Wallet,Success
+45d2dff9-386b-423c-a2c6-56800efc0c3e,C100,2026-03-01T09:06:05.647277,54.88,USD,Alpha Crypto Exchange,Crypto,Canada,WEB-92998,Card,Success
+fe11475a-9e20-4575-a3c6-6acb7c9f4480,C100,2026-04-05T13:45:11.647282,51.79,USD,Shell,Fuel,India,WEB-94599,Card,Success
+24b0cbc5-7fd8-415f-b1c4-c7ac68abdff7,C033,2026-03-07T00:53:58.647287,19.74,USD,Apple,Electronics,United Kingdom,WEB-30036,Wallet,Success
+5d5699b2-11e0-42a3-9f80-28ef0374718a,C060,2026-06-23T05:31:07.647293,96.21,USD,Global Electronics,Electronics,Russia,WEB-83989,Wallet,Success
+c2fde3e6-2277-4960-a83f-9f7035cca1d9,C042,2026-07-14T13:13:43.647298,93.22,USD,Quick Transfer,Money Transfer,India,IPH-67640,Card,Success
+7913ff06-8f91-45fe-917e-41a5cf591e41,C036,2026-05-22T13:45:44.647303,74.04,USD,Starbucks,Food,United States,AND-76497,Card,Success
+f577e423-dd5f-486c-b4d2-7277d99de643,C005,2026-02-07T18:40:23.647309,59.67,USD,Global Electronics,Electronics,India,AND-20057,Wallet,Success
+f06db823-1c11-4f83-95d4-e1493789c38d,C079,2026-05-23T02:09:32.647314,20.62,USD,Walmart,Retail,United Arab Emirates,AND-70648,Wallet,Success
+641356ef-78e3-4382-add7-6a1e802cfefd,C058,2026-07-23T06:01:34.647320,50.47,USD,Amazon,Retail,Germany,AND-89299,Bank Transfer,Success
+10898ae1-daac-46a7-baad-4cf998f1b183,C058,2026-02-16T19:54:00.647325,54.14,USD,Amazon,Retail,India,WEB-21053,Wallet,Success
+06b5cff9-4641-4a66-a7a3-7921551be5de,C032,2026-06-14T03:18:09.647330,35.8,USD,Amazon,Retail,Russia,AND-78690,Wallet,Success
+bb4fc391-68ee-4eba-abe2-b66622b5ad93,C048,2026-07-24T23:26:30.647336,63.74,USD,Alpha Crypto Exchange,Crypto,Singapore,AND-63578,Bank Transfer,Success
+2976b632-69c4-4b93-ae5d-18299af406c4,C081,2026-06-02T10:12:28.647341,106.02,USD,Amazon,Retail,India,IPH-53213,Card,Success
+6d2bb7b9-93e4-4ce4-8a35-fc07ab048ad3,C037,2026-03-17T15:55:54.647346,402.45,USD,Lucky Spin Casino,Casino,United Kingdom,AND-20682,Wallet,Success
+9b55d00a-8ce1-45bd-96c5-b27da97682ed,C040,2026-06-04T02:58:58.647352,86.24,USD,Alpha Crypto Exchange,Crypto,Nigeria,IPH-87993,Wallet,Success
+5c8fd482-fc82-4120-96ce-6b71adf3514d,C072,2026-04-10T20:59:57.647357,92.93,USD,Starbucks,Food,India,IPH-97833,Wallet,Success
+f53ff89a-6dca-434b-b434-9981e321271c,C012,2026-06-02T04:14:24.647363,68.92,USD,Travel Hub,Travel,Nigeria,WEB-57425,Card,Success
+0676c1f0-e029-4c80-bb43-54979e55e726,C028,2026-04-04T02:08:04.647368,13.11,USD,Apple,Electronics,Russia,IPH-39693,Card,Success
+c1b28735-fa42-48b3-847e-dbba32654559,C013,2026-05-06T07:33:06.647373,71.96,USD,Starbucks,Food,United Arab Emirates,WEB-79013,Card,Success
+ce4a34be-6b7c-4f3e-9119-a89eab9c7139,C017,2026-05-23T16:54:59.647379,77.81,USD,Quick Transfer,Money Transfer,Nigeria,IPH-31266,Card,Success
+2f031d75-74a7-47ab-ab8a-b82ac408f530,C022,2026-06-16T18:30:09.647384,676.49,USD,Quick Transfer,Money Transfer,Russia,IPH-63852,Bank Transfer,Success
+27bdb992-5cbe-4d4a-a379-0b9e5e91e98a,C057,2026-05-26T07:07:38.647389,61.98,USD,Shell,Fuel,Singapore,WEB-68841,Card,Success
+541fc07b-beca-4213-a7bf-d8c6b5862d45,C061,2026-07-22T06:22:19.647395,96.68,USD,Starbucks,Food,Germany,AND-98907,Wallet,Failed
+b7dc1e02-1f82-4d00-b206-712c3d3f0d7b,C099,2026-03-23T10:41:52.647400,71.43,USD,Global Electronics,Electronics,Nigeria,WEB-79135,Bank Transfer,Failed
+fabff289-e053-4764-850f-75bc2d3298d7,C078,2026-02-23T14:31:49.647405,25.74,USD,Shell,Fuel,Singapore,IPH-94040,Bank Transfer,Success
+a4e03a8d-642e-4480-ba62-d371c076fa9b,C014,2026-06-14T20:54:54.647412,206.14,USD,Travel Hub,Travel,United Arab Emirates,IPH-47363,Card,Success
+c545f7ef-25fe-409d-b6f7-31a9717a8797,C058,2026-07-22T12:34:44.647417,145.0,USD,Starbucks,Food,United Arab Emirates,IPH-67340,Card,Success
+ec2261aa-ef69-4942-a139-dc1e0188f591,C058,2026-07-18T12:13:11.647423,150.19,USD,Shell,Fuel,India,IPH-64381,Card,Success
+198b7b12-eea1-454f-a3ce-99d4cf11fd52,C031,2026-04-12T17:12:39.647428,32.51,USD,Alpha Crypto Exchange,Crypto,Canada,AND-39430,Card,Success
+9e8c9025-530d-4cb7-8ba1-c8a980bf7e3c,C092,2026-06-02T22:34:57.647433,260.48,USD,Walmart,Retail,India,IPH-28035,Card,Success
+efa33d17-a8a2-4cd1-87bf-8fb934e69622,C090,2026-07-08T02:48:07.647439,20.87,USD,Global Electronics,Electronics,United Kingdom,WEB-71487,Bank Transfer,Success
+70ba329d-91b3-4443-8e66-092d871195b1,C003,2026-03-18T10:14:18.647444,124.98,USD,Walmart,Retail,Germany,IPH-81932,Wallet,Success
+8fe31407-8438-4970-99fe-733631898486,C015,2026-06-27T10:46:22.647449,529.22,USD,Lucky Spin Casino,Casino,Singapore,IPH-49472,Card,Success
+9fededc2-9eae-42b3-9b61-13ad5036dbc5,C082,2026-06-30T21:23:03.647455,30.22,USD,Lucky Spin Casino,Casino,Russia,IPH-24530,Bank Transfer,Success
+55fdba50-2d30-4334-935f-41dccb589391,C081,2026-05-07T19:22:16.647460,44.27,USD,Amazon,Retail,Germany,WEB-28818,Bank Transfer,Success
+3461f762-e4dd-4254-8666-541c2b19a180,C046,2026-03-15T10:39:25.647465,80.62,USD,Quick Transfer,Money Transfer,Nigeria,IPH-97080,Wallet,Success
+6177ac6b-3351-43c6-bd10-80ca0da809ee,C009,2026-05-09T21:09:39.647471,46.85,USD,Alpha Crypto Exchange,Crypto,United Arab Emirates,WEB-76535,Wallet,Success
+3620a6ef-70e0-484c-bd01-53448d8dfc12,C006,2026-05-31T03:59:13.647476,18.25,USD,Global Electronics,Electronics,Nigeria,AND-43246,Wallet,Success
+c38d25ef-350a-4aae-8809-3c2f88a9833b,C045,2026-03-15T13:16:28.647481,78.39,USD,Walmart,Retail,Canada,WEB-53583,Card,Success
+0198def1-053c-4fac-91b5-93fdbb0872e4,C044,2026-07-04T16:46:20.647487,28.33,USD,Travel Hub,Travel,United Kingdom,WEB-70899,Wallet,Success
+46aa8320-90d0-4b1b-a7c3-07d4998aa42c,C018,2026-02-08T23:36:58.647492,112.87,USD,Apple,Electronics,Russia,IPH-48462,Card,Success
+0fcb64d7-1652-4094-9854-63d4a0af5b93,C006,2026-03-30T00:19:46.647497,32.22,USD,Shell,Fuel,Singapore,WEB-62196,Wallet,Success
+d43cfcca-1813-408b-adc0-af61ce92fb7f,C097,2026-06-02T08:19:16.647503,297.36,USD,Amazon,Retail,Germany,AND-56789,Card,Success
+8d73d80a-cd76-4522-baef-9e0208af9c54,C035,2026-02-20T21:38:31.647508,36.42,USD,Alpha Crypto Exchange,Crypto,India,AND-62431,Wallet,Success
+522ce122-3c62-4d8e-aec1-c41f2a826659,C044,2026-03-05T00:10:39.647514,55.15,USD,Lucky Spin Casino,Casino,Russia,WEB-75211,Bank Transfer,Success
+05180afd-1ebc-420a-a4e3-cce0337e3427,C035,2026-07-02T07:10:01.647519,153.26,USD,Travel Hub,Travel,Canada,WEB-65640,Card,Success
+d735d303-1a64-44c1-b257-f9128c7a1c2a,C070,2026-03-25T18:35:49.647526,24.34,USD,Apple,Electronics,India,IPH-20494,Bank Transfer,Success
+029cae76-d7f2-42a5-82d6-1ecbab391359,C058,2026-05-24T17:58:00.647531,90.44,USD,Starbucks,Food,Nigeria,IPH-68183,Bank Transfer,Success
+2bf69ac5-7bdc-456f-8f61-3ece60f24299,C079,2026-04-22T04:30:57.647537,238.99,USD,Alpha Crypto Exchange,Crypto,Singapore,WEB-17518,Card,Success
+df117abb-d6a4-4cf4-88a6-b4db5535a0e8,C047,2026-05-07T08:42:01.647542,17.34,USD,Lucky Spin Casino,Casino,United Kingdom,IPH-28714,Wallet,Success
+700ec171-e22a-4452-892f-3edf9ce3cc5b,C005,2026-02-21T05:49:15.647547,87.02,USD,Global Electronics,Electronics,Canada,IPH-94562,Bank Transfer,Success
+aa246cf0-ae2e-4ec4-82ab-3d9f8a0f28f6,C005,2026-05-25T05:29:33.647553,93.12,USD,Quick Transfer,Money Transfer,United Kingdom,WEB-68972,Bank Transfer,Success
+f38de240-165f-4cab-a324-d3147a7b6187,C074,2026-02-23T11:15:07.647559,148.95,USD,Walmart,Retail,United Arab Emirates,AND-62171,Bank Transfer,Success
+8d470644-7159-4077-9044-dea838e2d5e5,C015,2026-02-01T18:18:40.647565,24.21,USD,Shell,Fuel,United Kingdom,AND-77861,Bank Transfer,Success
+7e380cfc-8ee0-45fd-9cfc-7b93c7771f22,C034,2026-06-27T05:08:33.647570,22.46,USD,Walmart,Retail,Singapore,WEB-68493,Card,Failed
+2d9b0c70-24b6-41de-b247-d482d0aa9ba1,C089,2026-07-24T16:38:51.647575,117.89,USD,Starbucks,Food,Russia,IPH-26074,Card,Success
+bdc7f959-08da-4fa2-9670-604570383cb2,C023,2026-07-21T05:41:39.647581,96.28,USD,Global Electronics,Electronics,Russia,IPH-99381,Bank Transfer,Success
+446aed4e-0ae3-4fa1-a3b2-507f2632f79a,C071,2026-05-13T00:14:53.647586,92.34,USD,Walmart,Retail,Singapore,AND-30644,Wallet,Success
+5e9db452-a048-4f70-8d0f-20c5b8d7c5a4,C047,2026-05-06T12:31:12.647592,100.67,USD,Apple,Electronics,Germany,IPH-36342,Card,Success
+841cd6c4-0551-42ee-bbd5-c59a81f71003,C004,2026-04-07T19:26:45.647597,39.96,USD,Global Electronics,Electronics,United Arab Emirates,WEB-58353,Bank Transfer,Success
+c96f3d7d-8b5a-423d-b080-33186be2cb2a,C017,2026-05-26T13:25:56.647603,90.83,USD,Travel Hub,Travel,Canada,IPH-50539,Bank Transfer,Failed
+24e57eb0-5a9a-43cc-951d-64df60788bd2,C068,2026-04-17T11:59:25.647608,95.94,USD,Global Electronics,Electronics,Nigeria,WEB-19666,Card,Failed
+96246117-fece-498f-8297-2d2c9a5f4eb0,C058,2026-04-28T04:29:11.647614,38.75,USD,Walmart,Retail,United Arab Emirates,AND-26821,Wallet,Success
+5e55263c-5085-4c5f-b49a-405a5eebb8a6,C099,2026-02-21T18:53:00.647619,395.12,USD,Apple,Electronics,Nigeria,WEB-17263,Card,Success
+d59f1155-2392-4e29-b357-9f25f03f17d0,C022,2026-02-28T04:22:01.647625,112.89,USD,Starbucks,Food,India,WEB-39552,Bank Transfer,Success
+dc40f72d-60cd-4ec5-a615-1248f7ccd9f7,C037,2026-07-10T23:52:59.647634,25.22,USD,Travel Hub,Travel,Canada,AND-35729,Wallet,Failed
+66825015-f68f-471e-9e6a-79107b859085,C017,2026-05-29T02:21:42.647639,133.07,USD,Starbucks,Food,Singapore,WEB-79924,Card,Success
+4bd26d49-78d0-4eca-96ff-a1e08186f3b6,C076,2026-05-20T11:33:18.647645,30.65,USD,Apple,Electronics,United Kingdom,IPH-96341,Wallet,Success
+497b753e-ecc9-4a49-88b7-f44b21b2dee1,C044,2026-07-10T08:01:14.647650,149.66,USD,Quick Transfer,Money Transfer,United States,IPH-20646,Card,Success
+7a09f91a-c1e3-4810-9e70-4e8807cf73ef,C034,2026-06-03T04:01:55.647655,209.08,USD,Quick Transfer,Money Transfer,Germany,WEB-64602,Wallet,Success
+7906f8fe-9405-4da3-a2a6-d07cbd1a4caf,C081,2026-05-13T16:07:18.647661,35.21,USD,Global Electronics,Electronics,Singapore,WEB-49596,Bank Transfer,Success
+60e03d6b-e142-4eba-b776-f3f1e4360f3e,C039,2026-04-25T19:12:54.647666,175.39,USD,Lucky Spin Casino,Casino,Canada,WEB-17852,Card,Success
+705508b2-eadc-4901-966b-35aa9a675aec,C060,2026-03-08T08:21:45.647671,106.86,USD,Global Electronics,Electronics,India,WEB-28830,Bank Transfer,Success
+81d5b562-1267-495a-995e-d71f96bcca6c,C094,2026-07-13T21:03:34.647676,154.45,USD,Alpha Crypto Exchange,Crypto,India,AND-27139,Bank Transfer,Success
+1471bc98-15a4-4a4f-b588-c7da0a8d04e1,C041,2026-03-15T16:07:35.647682,406.31,USD,Walmart,Retail,Russia,IPH-45058,Bank Transfer,Success
+f7f71e78-9396-4c48-90dc-7761a3615975,C007,2026-03-25T02:01:56.647687,59.1,USD,Walmart,Retail,Nigeria,WEB-64805,Card,Failed
+ad6147d9-5acc-4b00-adef-c635d1769150,C042,2026-05-19T21:45:47.647692,37.4,USD,Apple,Electronics,India,IPH-30885,Bank Transfer,Failed
+9f3ad19a-b006-4c05-8139-f9bd31cdfc4d,C064,2026-07-17T10:20:09.647698,33.1,USD,Global Electronics,Electronics,Singapore,AND-13037,Card,Success
+2ab4c261-af7e-4616-8289-3e0fe1525479,C059,2026-03-15T11:25:23.647703,35.37,USD,Travel Hub,Travel,Germany,WEB-56254,Card,Success
+c6822e90-8531-4de6-b66e-8660bfdca977,C077,2026-07-18T01:32:46.647708,68.76,USD,Global Electronics,Electronics,Russia,AND-80345,Card,Success
+51037463-82fc-423f-904d-5ec770d1daa9,C018,2026-07-18T02:05:17.647714,100.19,USD,Lucky Spin Casino,Casino,Singapore,WEB-57943,Bank Transfer,Success
+b8aa4373-374b-4c87-b6c2-08a4b7f829d1,C007,2026-05-18T11:15:05.647719,94.54,USD,Lucky Spin Casino,Casino,United Arab Emirates,IPH-57516,Wallet,Success
+19619e9e-7f26-4cf9-9420-80ed69cca7e2,C065,2026-04-25T04:20:59.647724,155.16,USD,Lucky Spin Casino,Casino,United Arab Emirates,AND-91689,Wallet,Success
+a799c75a-30af-487d-b0c4-5a7d91b0d9ab,C013,2026-04-14T05:16:14.647729,74.57,USD,Apple,Electronics,India,AND-83116,Bank Transfer,Success
+11e8ba39-c345-4f9a-a93f-1f2d9d9034de,C078,2026-05-06T14:13:45.647735,272.65,USD,Shell,Fuel,Nigeria,WEB-15276,Card,Success
+4a001deb-fe16-4734-ac2a-69d44591b7d6,C061,2026-05-08T13:48:44.647740,58.08,USD,Alpha Crypto Exchange,Crypto,Russia,IPH-89463,Wallet,Success
+281f4e8d-b926-4a8f-888d-971d617a84a3,C041,2026-02-28T06:51:38.647745,852.48,USD,Quick Transfer,Money Transfer,Nigeria,WEB-49221,Wallet,Success
+739c1dce-f0e4-47bf-9474-38d7b9f17b7d,C069,2026-05-02T20:23:50.647750,129.42,USD,Travel Hub,Travel,Singapore,AND-12180,Bank Transfer,Success
+5c0cd4e7-30f4-4f31-b2f5-048779efcbf0,C054,2026-05-21T01:47:43.647756,34.07,USD,Walmart,Retail,Singapore,WEB-92478,Card,Success
+3bca6427-8d1a-4a0c-ac7b-1cc6e2852adf,C084,2026-06-28T18:08:36.647761,28.11,USD,Starbucks,Food,Germany,WEB-16731,Wallet,Success
+ebd181fd-7645-43ef-9e0c-25dd072c1bbc,C081,2026-06-16T18:30:07.647767,113.78,USD,Travel Hub,Travel,Nigeria,IPH-99224,Card,Success
+b196bc6e-f843-445b-a23f-825c819c0690,C025,2026-01-31T09:48:03.647772,60.27,USD,Walmart,Retail,Russia,AND-64890,Card,Success
+18887b51-44c1-40ab-b603-30b86d9d7fb0,C053,2026-05-05T04:11:41.647778,140.13,USD,Shell,Fuel,Russia,WEB-18163,Wallet,Success
+707ce217-35f7-45de-8865-9ec56d87bddc,C072,2026-03-31T20:23:13.647783,112.83,USD,Shell,Fuel,Russia,WEB-59391,Bank Transfer,Failed
+d2a5bad3-7f32-4998-ac1b-6ed3dc2b576d,C069,2026-04-04T04:54:21.647789,69.02,USD,Global Electronics,Electronics,United Arab Emirates,AND-98587,Wallet,Success
+77f1394b-8e25-4dbf-a69b-c8eb092ac3cc,C079,2026-05-01T17:59:21.647794,34.39,USD,Starbucks,Food,Germany,IPH-46569,Wallet,Success
+a0f6185e-c564-4458-8885-6da334a344f5,C099,2026-03-24T20:24:11.647800,18.85,USD,Starbucks,Food,Germany,WEB-74094,Bank Transfer,Success
+6ca85af2-489a-44ca-a62c-03da12882712,C093,2026-03-21T19:57:03.647805,49.31,USD,Travel Hub,Travel,Singapore,IPH-85166,Wallet,Success
+1a993803-5b3f-4e55-bf7a-0b2380d8cf62,C045,2026-06-26T20:17:14.647810,159.3,USD,Lucky Spin Casino,Casino,United Kingdom,AND-15513,Bank Transfer,Failed
+25966219-82af-4232-856d-3c49cc9f3e11,C045,2026-07-26T03:44:36.647815,89.36,USD,Walmart,Retail,Russia,WEB-43612,Wallet,Success
+ffc82004-55d0-4aa5-9c98-bafd20a9e420,C069,2026-03-21T09:06:59.647821,24.02,USD,Shell,Fuel,United Arab Emirates,WEB-45601,Card,Success
+a4e5a3a5-2d64-479c-bd86-806cc9bf7782,C031,2026-03-15T19:28:57.647826,86.13,USD,Quick Transfer,Money Transfer,United States,WEB-79604,Card,Success
+b482b3b8-a5ce-4149-9d00-2dd6c8c101e3,C013,2026-04-17T23:40:13.647831,104.25,USD,Amazon,Retail,India,WEB-71918,Card,Success
+6bd2dd1e-6b90-4ba5-9aeb-091dd516dce5,C001,2026-05-14T14:22:30.647836,33.27,USD,Apple,Electronics,United Kingdom,AND-95575,Bank Transfer,Success
+be72cbc9-47b3-465f-a928-b8a25b302483,C097,2026-03-24T12:12:19.647842,84.64,USD,Shell,Fuel,India,AND-94659,Card,Success
+705522af-61c0-4053-931b-1c3c17836a0e,C084,2026-05-19T05:12:06.647848,77.66,USD,Walmart,Retail,Germany,WEB-14888,Card,Success
+18f6725c-b944-4a2f-9b83-0a10a1a80da5,C005,2026-07-09T02:32:08.647853,26.35,USD,Apple,Electronics,Nigeria,AND-34420,Wallet,Failed
+6ca44567-1e0d-45ad-9041-c7f9b358b91d,C005,2026-01-29T12:44:04.647859,101.7,USD,Starbucks,Food,Singapore,WEB-89007,Card,Success
+5f50bad8-a4b8-4147-afb4-ac3d1bf86c8b,C037,2026-04-25T22:57:59.647864,122.08,USD,Alpha Crypto Exchange,Crypto,United Arab Emirates,WEB-74738,Card,Success
+c637c1b3-6005-41e4-8d34-4a1c0c748555,C035,2026-03-06T04:06:45.647869,195.34,USD,Global Electronics,Electronics,Canada,AND-31298,Wallet,Success
+6c714190-662f-4247-bbc6-1bc90e2f98ee,C092,2026-03-04T21:17:49.647875,190.27,USD,Starbucks,Food,United States,WEB-54185,Bank Transfer,Success
+9c41b114-16e3-47b1-be7e-fe402f238ca3,C023,2026-05-26T08:48:02.647880,21.33,USD,Shell,Fuel,Nigeria,AND-77538,Bank Transfer,Success
+c6466c1c-cf23-4f26-ad55-3c023dc3540a,C024,2026-02-24T00:50:42.647886,31.69,USD,Walmart,Retail,Russia,AND-42512,Card,Success
+29d09c3a-faf6-43ab-8c05-3114dc872448,C058,2026-06-23T02:18:25.647891,117.16,USD,Shell,Fuel,Singapore,AND-49576,Wallet,Success
+aeb37fcd-2653-40a0-b2d8-ff2cdaf40031,C034,2026-06-03T15:55:54.647896,117.03,USD,Amazon,Retail,India,WEB-40972,Card,Success
+6e38da67-8680-4fa3-b33a-88896a73a2bf,C040,2026-02-27T17:52:50.647902,117.16,USD,Global Electronics,Electronics,Nigeria,WEB-75866,Wallet,Success
+14dc0678-665c-44db-bad0-6eee45d3fbb8,C082,2026-07-24T15:01:24.647907,2362.46,USD,Walmart,Retail,Singapore,AND-90560,Card,Success
+d94d01f5-c557-4080-b8fa-371c3ade4a05,C062,2026-02-26T11:26:34.647912,123.2,USD,Apple,Electronics,Russia,WEB-89395,Bank Transfer,Success
+cac589c3-2dc1-4be2-8787-397f156209fd,C061,2026-06-23T19:03:20.647917,204.79,USD,Travel Hub,Travel,United Arab Emirates,WEB-38627,Card,Success
+d3302e17-57ba-406b-957f-ac8033739ec1,C011,2026-05-09T18:35:05.647923,173.92,USD,Quick Transfer,Money Transfer,Russia,WEB-57419,Card,Success
+6e8197e9-8a13-45b5-b733-b564f524db7b,C008,2026-07-07T15:54:48.647928,132.46,USD,Walmart,Retail,United Arab Emirates,WEB-36497,Wallet,Success
+2a421a9e-1d63-4add-9004-b6a5cfb1654a,C042,2026-07-12T15:44:23.647933,55.49,USD,Apple,Electronics,United Arab Emirates,AND-25235,Wallet,Success
+8dd50a5e-3e28-404b-b16f-09e88262701b,C063,2026-02-14T09:21:54.647939,145.92,USD,Quick Transfer,Money Transfer,United Arab Emirates,AND-17292,Bank Transfer,Success
+c9732686-8bf5-4396-8cb3-509854f8b131,C059,2026-05-17T05:33:46.647944,36.76,USD,Lucky Spin Casino,Casino,United States,WEB-70604,Wallet,Success
+1a168a4f-5d18-4868-8203-a69fccc77e1c,C051,2026-03-18T03:24:10.647949,59.55,USD,Amazon,Retail,United States,WEB-38560,Wallet,Success
+b6cad8e2-f1e2-46d1-9ee5-0407f02f06de,C045,2026-06-12T17:34:35.647954,47.62,USD,Lucky Spin Casino,Casino,Canada,WEB-17897,Card,Failed
+06fdab81-b0c4-4f67-98aa-d7fe56e580d2,C005,2026-03-24T11:29:09.647960,79.34,USD,Global Electronics,Electronics,Nigeria,IPH-27750,Wallet,Failed
+ea96fcda-49cf-4af9-8e1e-2b325e26bfe2,C048,2026-07-19T19:27:43.647965,591.81,USD,Lucky Spin Casino,Casino,Nigeria,AND-59479,Bank Transfer,Success
+25c0a339-621a-4113-bd42-34c4692b7419,C018,2026-06-03T15:14:09.647971,13.73,USD,Travel Hub,Travel,India,IPH-33392,Wallet,Success
+1bb5538e-ed9e-47ba-87ce-237427d0dfa0,C094,2026-03-11T23:21:28.647976,136.68,USD,Apple,Electronics,United States,IPH-49107,Bank Transfer,Success
+19068c03-3e71-437b-a495-e5c8275a62f2,C055,2026-05-11T00:32:12.647981,17.26,USD,Travel Hub,Travel,Nigeria,IPH-42441,Bank Transfer,Success
+b4f1bf68-9eb1-432c-8e3d-945e64b213cf,C025,2026-07-16T16:18:43.647986,48.2,USD,Starbucks,Food,Canada,IPH-96533,Bank Transfer,Success
+9d08fc7d-e7e9-474f-9e86-c264ac122522,C031,2026-03-08T17:57:22.647992,196.38,USD,Amazon,Retail,Canada,IPH-87849,Card,Success
+8564ae10-d8bd-4756-aee5-8a04ae6bae35,C032,2026-06-20T12:43:04.647997,78.09,USD,Amazon,Retail,United States,AND-67535,Card,Success
+06c585f7-d65b-4586-972c-9178fe84bca1,C018,2026-05-05T13:52:16.648002,27.94,USD,Amazon,Retail,Singapore,IPH-85511,Bank Transfer,Success
+23e2e743-d10c-48af-935c-cf5a25176fe2,C031,2026-03-27T07:52:14.648008,38.71,USD,Alpha Crypto Exchange,Crypto,United Kingdom,WEB-78321,Card,Success
+d0ac2068-40d5-4e15-a2e6-cc85cc538d63,C008,2026-05-15T20:02:27.648013,135.86,USD,Starbucks,Food,United Kingdom,WEB-98965,Bank Transfer,Success
+57d51911-4226-4e69-b5ed-b8882080c7fb,C045,2026-06-01T15:36:59.648019,38.19,USD,Amazon,Retail,Nigeria,WEB-51777,Wallet,Success
+973324ca-6964-4ffa-9822-4376da127e1b,C039,2026-04-10T19:58:40.648024,89.55,USD,Apple,Electronics,United Kingdom,WEB-72065,Card,Success
+51703554-16a9-478a-adbc-fb82044fa757,C091,2026-02-24T18:16:27.648030,76.79,USD,Starbucks,Food,Russia,IPH-83713,Bank Transfer,Failed
+b36bbb87-d831-43e7-9661-d9769bde636c,C068,2026-02-22T18:27:50.648035,41.0,USD,Travel Hub,Travel,Nigeria,IPH-43422,Card,Success
+4108a8ae-3ce0-4759-981a-d5d0f77d4f69,C058,2026-07-11T05:28:26.648041,507.53,USD,Walmart,Retail,India,IPH-80206,Wallet,Success
+d7852903-9de0-4fae-bde8-93c71da69550,C035,2026-04-10T23:16:35.648046,130.39,USD,Amazon,Retail,United States,IPH-34662,Wallet,Success
+c5d32f9e-d802-4644-a98b-77d6ab74362d,C028,2026-04-30T19:41:07.648051,11.91,USD,Travel Hub,Travel,Germany,AND-49739,Card,Success
+9e7ae8b0-ce23-4bd3-b734-a6a7c5277cd4,C095,2026-02-19T12:16:46.648057,87.17,USD,Shell,Fuel,Russia,IPH-89220,Wallet,Success
+ed489641-19cb-4159-a5c1-5831ceead7cd,C071,2026-03-31T04:22:51.648063,40.63,USD,Shell,Fuel,Singapore,AND-71112,Wallet,Success
+eb6cc981-6a94-4df8-979b-b726011d9ec4,C034,2026-04-07T13:36:42.648068,158.73,USD,Starbucks,Food,United Arab Emirates,AND-71080,Card,Success
+3a725b68-a761-44bc-b682-fd58da809d1e,C098,2026-07-09T18:58:38.648074,36.12,USD,Global Electronics,Electronics,India,IPH-58589,Bank Transfer,Success
+bf7fc410-a4c1-4716-9b2d-802c177f3cd3,C029,2026-06-20T16:01:58.648080,66.47,USD,Quick Transfer,Money Transfer,United Kingdom,IPH-44180,Wallet,Success
+d250cfa5-d5bd-4629-957c-9a0eade72ecf,C093,2026-04-18T19:36:04.648086,116.1,USD,Quick Transfer,Money Transfer,Singapore,IPH-35715,Bank Transfer,Success
+7d10dfb4-05e5-47b4-86a7-f64f2c135061,C032,2026-05-04T16:27:35.648091,160.64,USD,Quick Transfer,Money Transfer,United Arab Emirates,WEB-99764,Bank Transfer,Success
+1c21d0b2-bbb1-4856-9f3f-7438589954fa,C093,2026-06-01T08:03:33.648097,25.02,USD,Global Electronics,Electronics,Russia,AND-32050,Wallet,Success
+80d1f628-1853-4e62-acdc-3bb53b647c03,C018,2026-06-16T14:27:02.648102,54.54,USD,Apple,Electronics,United Arab Emirates,AND-34123,Wallet,Failed
+df0c93d3-0b3f-48cc-b270-9a13bb41d6a2,C068,2026-02-03T07:10:35.648107,48.06,USD,Amazon,Retail,Canada,WEB-16358,Card,Success
+dbb35ccd-3f6b-4ea7-ba1b-8ac7a44d1512,C009,2026-06-14T01:11:43.648113,40.94,USD,Shell,Fuel,United Kingdom,IPH-38668,Wallet,Success
+88be5d3e-e4e4-4986-aa6f-44460476e9f0,C080,2026-05-31T13:34:37.648118,361.01,USD,Amazon,Retail,Russia,WEB-73944,Card,Success
+2c87774a-dbfc-4c59-8b1f-a611cb4e3a92,C053,2026-01-30T00:46:33.648123,106.11,USD,Travel Hub,Travel,United States,WEB-46010,Wallet,Failed
+0b790f47-3da0-4aed-ac0d-25143cea5237,C065,2026-07-04T15:08:01.648128,23.69,USD,Amazon,Retail,Nigeria,IPH-24026,Card,Success
+0d08afd1-d794-49a4-b2f4-23c7110ef779,C025,2026-05-28T01:56:04.648134,168.36,USD,Shell,Fuel,United Arab Emirates,AND-56457,Bank Transfer,Success
+8424e969-a559-476f-b965-2023bcbd1c7d,C048,2026-04-16T13:46:16.648139,497.67,USD,Walmart,Retail,Russia,WEB-41877,Wallet,Success
+1717e1b3-5a1d-4428-aedb-89b29f3bebdd,C084,2026-07-13T09:08:15.648144,186.65,USD,Walmart,Retail,United States,IPH-63120,Bank Transfer,Success
+e38137a9-37e4-47f6-a9e7-aad2b407dda8,C008,2026-05-31T09:00:27.648150,18.78,USD,Global Electronics,Electronics,United States,WEB-32463,Card,Success
+ab9ee04d-7018-42b9-9434-ebdcb191f2ab,C083,2026-06-29T01:00:17.648155,47.66,USD,Lucky Spin Casino,Casino,India,WEB-22499,Wallet,Success
+826279f1-26b8-441a-a626-5cba12767b42,C028,2026-07-21T17:46:58.648160,230.49,USD,Shell,Fuel,Russia,AND-16102,Card,Success
+ecbeb8be-924d-4a9c-a4fd-c602c0d813a4,C070,2026-05-17T03:41:33.648165,38.98,USD,Starbucks,Food,United States,IPH-51220,Card,Failed
+c106a2ae-63e4-419b-808b-c2c344eccce9,C019,2026-06-22T19:18:22.648171,109.89,USD,Quick Transfer,Money Transfer,Nigeria,IPH-49226,Card,Success
+88da754d-35c8-4ace-bee9-67b2b3a3bcfb,C050,2026-06-08T04:45:28.648177,147.99,USD,Quick Transfer,Money Transfer,United Arab Emirates,AND-60311,Wallet,Success
+598f7f2f-bcbe-483a-9d01-96aa6b77b57d,C065,2026-06-21T11:37:32.648182,32.0,USD,Walmart,Retail,India,IPH-22803,Bank Transfer,Success
+e3c2681a-3264-4040-b723-ac558915c7a8,C044,2026-05-25T05:50:13.648187,69.86,USD,Walmart,Retail,Nigeria,AND-13883,Wallet,Success
+e93615b5-c559-444b-ba09-9ec480c4fc6c,C063,2026-03-13T00:44:54.648192,3.99,USD,Global Electronics,Electronics,India,WEB-59207,Bank Transfer,Success
+33cfe265-a0f1-49df-a78b-9420bd748097,C085,2026-04-11T12:48:49.648198,29.31,USD,Quick Transfer,Money Transfer,Canada,WEB-48715,Card,Success
+178c6ff6-82a3-460d-8eed-4c4698d8b823,C035,2026-02-26T16:16:05.648203,58.71,USD,Walmart,Retail,Nigeria,WEB-93086,Card,Success
+1398ff4d-2e3a-4f7e-97a2-19f7b6477cb1,C047,2026-02-17T10:06:34.648208,23.97,USD,Alpha Crypto Exchange,Crypto,Canada,IPH-50405,Bank Transfer,Success
+961ae7cd-f8c6-461c-a8a8-d48f1626f006,C014,2026-02-22T11:04:25.648213,320.27,USD,Starbucks,Food,Canada,IPH-66489,Bank Transfer,Success
+d71e6b47-13a4-4ba3-99dd-b58f2b494747,C053,2026-02-16T18:55:34.648219,20.35,USD,Travel Hub,Travel,United States,IPH-56388,Wallet,Success
+7bbac922-6d45-4348-8c75-ba6714c91375,C042,2026-07-14T10:45:53.648224,49.6,USD,Quick Transfer,Money Transfer,Nigeria,IPH-48253,Bank Transfer,Success
+98196e41-a835-4955-b419-2ef6a02932b4,C093,2026-07-21T17:08:41.648229,82.9,USD,Walmart,Retail,United Arab Emirates,IPH-84967,Wallet,Success
+2c0228fd-5f73-4326-b446-9d07f67da13a,C022,2026-02-23T16:35:16.648234,269.66,USD,Lucky Spin Casino,Casino,Singapore,AND-45180,Bank Transfer,Success
+8ba99524-8985-4734-9e9c-8c7190adb728,C056,2026-03-22T07:37:18.648240,20.24,USD,Apple,Electronics,Nigeria,AND-73469,Card,Success
+43ac3b5f-9baf-4461-8819-b8a3a36d9579,C093,2026-05-29T02:24:52.648245,209.95,USD,Shell,Fuel,Russia,WEB-90828,Card,Success
+7c57e959-a856-485c-a90b-a001f0726239,C039,2026-01-29T01:05:04.648251,74.38,USD,Apple,Electronics,Nigeria,AND-91289,Bank Transfer,Success
+f8917457-a796-467e-9c9d-23d0563b2d1c,C057,2026-04-02T17:31:48.648257,30.47,USD,Alpha Crypto Exchange,Crypto,Nigeria,WEB-87908,Card,Success
+d93e9466-00ed-41ee-a11e-2aea31794088,C089,2026-03-07T17:34:55.648262,111.71,USD,Quick Transfer,Money Transfer,Russia,AND-33283,Bank Transfer,Failed
+29c3adfd-f9d1-4076-a5c8-3b095d583623,C095,2026-06-11T16:17:03.648267,88.16,USD,Starbucks,Food,Russia,WEB-41775,Bank Transfer,Success
+ede67412-f161-49b2-8b0d-0cc6ce558d22,C047,2026-02-18T20:18:07.648273,42.94,USD,Lucky Spin Casino,Casino,Germany,WEB-81516,Card,Success
+af72fa27-aecc-4a12-865b-401bec8ddb1d,C004,2026-06-17T22:36:22.648279,78.48,USD,Travel Hub,Travel,Russia,WEB-37479,Bank Transfer,Success
+44f9430c-e8f0-4272-a86a-2bbd3fa6a941,C053,2026-06-07T09:50:58.648284,52.1,USD,Walmart,Retail,Russia,IPH-93012,Bank Transfer,Success
+719ca9a8-62fc-45d6-a576-375224401b9a,C092,2026-04-19T21:27:56.648290,81.63,USD,Apple,Electronics,Nigeria,IPH-68860,Wallet,Success
+13c1b4f7-f32b-4db6-8724-f8eeba2b8f21,C069,2026-05-06T02:31:56.648295,133.74,USD,Lucky Spin Casino,Casino,Nigeria,WEB-14818,Bank Transfer,Success
+f399648c-4976-4fc6-b5ba-66ed073f5d0a,C077,2026-05-31T15:40:56.648300,307.17,USD,Travel Hub,Travel,Canada,IPH-42536,Wallet,Success
+ebb63c8b-d181-46de-9380-14116cbeb434,C083,2026-05-26T16:49:56.648306,24.19,USD,Apple,Electronics,United States,WEB-94545,Wallet,Success
+7361c68d-10c7-4e9c-b732-da2961dced55,C056,2026-02-17T07:17:01.648311,502.57,USD,Alpha Crypto Exchange,Crypto,United States,IPH-43913,Card,Success
+17b5aae4-deb6-4736-a301-f4b0030c3813,C072,2026-05-20T10:57:27.648316,12.72,USD,Travel Hub,Travel,Germany,AND-59036,Bank Transfer,Success
+db3f6190-d2d9-4cd0-a7dd-df9341e37e0d,C089,2026-05-04T21:53:09.648321,64.29,USD,Quick Transfer,Money Transfer,United Kingdom,AND-13219,Bank Transfer,Success
+b8bc9498-1a7b-4ea1-ab64-9ef943db5e1b,C011,2026-02-19T06:28:07.648327,125.15,USD,Lucky Spin Casino,Casino,United Kingdom,AND-50880,Bank Transfer,Success
+454a3b6a-5c35-4a82-8782-76d49ec6e868,C067,2026-05-01T12:08:40.648332,94.91,USD,Shell,Fuel,India,AND-22795,Bank Transfer,Success
+45f77744-88d8-4f48-8e42-71d668dbfbb5,C041,2026-02-09T18:36:05.648337,42.08,USD,Global Electronics,Electronics,Singapore,IPH-25084,Card,Success
+002d22ac-c310-444f-8de6-ebd1ede04121,C087,2026-07-02T02:03:00.648343,61.11,USD,Walmart,Retail,United Kingdom,WEB-41970,Wallet,Success
+5ec2b43f-2b8a-4c7d-9e46-3a641ef862fd,C043,2026-05-16T10:37:53.648348,47.29,USD,Apple,Electronics,Nigeria,AND-40389,Bank Transfer,Success
+10e51a38-8053-441b-bb61-c4efae9e46ff,C082,2026-06-04T08:49:23.648353,43.36,USD,Apple,Electronics,Nigeria,AND-13826,Wallet,Success
+d7a329a3-26ef-4916-93ca-165b9b410fa1,C058,2026-05-22T17:24:47.648358,158.32,USD,Shell,Fuel,Nigeria,AND-10583,Wallet,Success
+4554fa19-7aa4-48c9-be62-c769b81ba6ee,C097,2026-06-13T09:18:16.648363,101.63,USD,Starbucks,Food,Canada,WEB-23336,Wallet,Success
+a2c68c32-b460-4fe0-9bb4-6e2887287a6d,C026,2026-04-26T13:53:09.648369,39.5,USD,Alpha Crypto Exchange,Crypto,Canada,AND-97910,Bank Transfer,Success
+f85bfa1a-7f8d-46c2-8386-0f7e2605e679,C077,2026-04-13T04:44:11.648374,165.61,USD,Alpha Crypto Exchange,Crypto,Nigeria,WEB-24972,Bank Transfer,Success
+60ec15c1-cb85-460c-9f7b-8be6dcc62730,C080,2026-03-02T05:34:58.648379,97.18,USD,Global Electronics,Electronics,Singapore,WEB-87354,Card,Success
+e819e9f4-3194-491e-a05e-eb087b7c6457,C016,2026-03-15T01:22:33.648384,153.17,USD,Alpha Crypto Exchange,Crypto,Singapore,IPH-33992,Bank Transfer,Success
+d37cf631-3ed3-4e55-b8f1-b0e028fab08c,C050,2026-04-18T22:40:54.648390,129.89,USD,Travel Hub,Travel,United Kingdom,WEB-60293,Bank Transfer,Success
+767424fe-ceb8-4458-b69e-410b7bc207c7,C089,2026-07-25T05:08:49.648395,34.95,USD,Travel Hub,Travel,United Kingdom,WEB-31871,Bank Transfer,Success
+6c9c6c40-7386-45d9-bc39-38d1d25753c3,C041,2026-07-10T05:28:54.648400,44.52,USD,Apple,Electronics,Russia,WEB-17026,Bank Transfer,Failed
+40ba1d10-255f-4bac-8b62-491a2093dacb,C018,2026-03-06T14:54:39.648405,144.4,USD,Global Electronics,Electronics,Nigeria,WEB-76248,Wallet,Success
+8b44fea3-d067-40d2-9d3b-8444be41bafa,C054,2026-06-14T15:02:58.648410,127.66,USD,Global Electronics,Electronics,Russia,AND-31922,Card,Success
+a46cfca7-8011-4202-ba60-a2fbe51579ba,C038,2026-02-03T01:54:59.648416,72.33,USD,Shell,Fuel,Singapore,IPH-80465,Bank Transfer,Success
+0433aa0b-c61c-4466-96ee-136af0a664f5,C073,2026-06-20T21:55:56.648421,81.91,USD,Global Electronics,Electronics,Russia,WEB-76952,Card,Success
+7c7a17fa-b74c-490a-bbf2-e30614dfd32f,C100,2026-05-13T04:36:16.648426,232.73,USD,Starbucks,Food,India,WEB-15453,Wallet,Success
+36fa4c00-e29e-4228-9b14-705b18ba17ac,C055,2026-02-16T14:50:29.648432,43.28,USD,Shell,Fuel,Germany,AND-14224,Bank Transfer,Success
+2497cba9-e250-4a90-bd79-87673be4dff4,C057,2026-07-14T18:05:32.648437,120.59,USD,Walmart,Retail,Canada,IPH-37509,Wallet,Success
+d8b8818c-84f5-4cd1-950f-9e76a1021607,C091,2026-05-26T05:34:21.648442,61.44,USD,Alpha Crypto Exchange,Crypto,Nigeria,IPH-90760,Card,Success
+d0b56311-0df0-4efa-ab1d-cb221b4fdfeb,C008,2026-05-18T10:17:07.648448,60.59,USD,Shell,Fuel,India,WEB-46842,Wallet,Success
+f422c315-52d7-4328-99e3-14897b1a9ad3,C091,2026-03-25T13:19:22.648453,198.13,USD,Alpha Crypto Exchange,Crypto,Singapore,WEB-45041,Wallet,Failed
+a8ce7f99-bce4-4d22-bbf8-d99b6cdb6e71,C018,2026-06-22T09:14:18.648458,154.91,USD,Walmart,Retail,Nigeria,IPH-46349,Wallet,Success
+5d3dfdb8-5e47-4dca-b696-9f1ae84d5634,C032,2026-02-25T03:05:24.648464,153.26,USD,Apple,Electronics,India,IPH-98635,Bank Transfer,Success
+14e505b7-e313-40e0-a296-97664662d2fd,C081,2026-03-20T21:51:32.648469,238.63,USD,Quick Transfer,Money Transfer,Nigeria,AND-69243,Card,Success
+70c13e40-1422-41b1-9a03-da76093c6227,C052,2026-05-07T20:28:45.648475,75.11,USD,Walmart,Retail,Singapore,WEB-58374,Bank Transfer,Failed
+5a3bb04d-8da0-43f8-8970-69505f5bd4b9,C075,2026-01-28T05:04:18.648480,136.15,USD,Alpha Crypto Exchange,Crypto,Canada,WEB-70089,Wallet,Success
+bb368311-9c27-48d6-9046-3e7d55b7176b,C009,2026-07-01T05:40:27.648485,55.74,USD,Alpha Crypto Exchange,Crypto,United Arab Emirates,AND-38551,Bank Transfer,Success
+f9cf8bdb-3c1f-4822-9b69-4f89b6ef624f,C035,2026-03-31T10:12:25.648492,98.67,USD,Global Electronics,Electronics,Singapore,AND-81737,Wallet,Success
+9ba24991-635b-4bbc-baad-dc9b994ca958,C044,2026-07-20T08:36:32.648497,65.55,USD,Global Electronics,Electronics,United States,IPH-23051,Wallet,Success
+2b54355d-f87b-453c-836e-4db4e5ff09a4,C003,2026-02-20T20:32:00.648502,80.42,USD,Global Electronics,Electronics,United Kingdom,AND-69836,Card,Failed
+740fe34a-125d-4337-87e8-3dd1dd5d44c8,C026,2026-06-10T10:37:01.648508,125.92,USD,Lucky Spin Casino,Casino,United Kingdom,WEB-49566,Card,Success
+8559a92b-ef68-4444-b1e1-d4f9013f8b56,C012,2026-06-03T20:08:50.648513,35.29,USD,Starbucks,Food,India,AND-20803,Bank Transfer,Success
+e7bb0c06-e499-4d20-aa40-bb8cb5e877ba,C007,2026-04-14T16:37:55.648518,484.52,USD,Apple,Electronics,Singapore,WEB-40689,Bank Transfer,Success
+86f90289-9db5-4edb-b8d2-687c8cdcff79,C001,2026-03-10T04:09:40.648523,29.8,USD,Walmart,Retail,Russia,IPH-27393,Wallet,Success
+e4fd2d90-b4ac-419b-b4d2-ebe2438521d2,C002,2026-01-29T07:07:14.648529,24.71,USD,Global Electronics,Electronics,India,IPH-65353,Wallet,Success
+f3bebbe6-0391-4d2f-9bc0-b0d852caaa10,C030,2026-04-12T02:46:53.648534,208.99,USD,Walmart,Retail,Canada,WEB-23425,Card,Success
+d07b31e7-0f29-48d0-91a5-0b147ed0af8c,C018,2026-04-12T01:09:20.648539,150.28,USD,Starbucks,Food,United Kingdom,WEB-98753,Card,Success
+dc53604e-937a-4873-8743-c96547dd77a8,C002,2026-05-26T05:50:24.648544,129.24,USD,Quick Transfer,Money Transfer,United Kingdom,AND-56030,Wallet,Success
+ba13a102-6f41-4ca9-ac7e-176a2fa70b77,C053,2026-05-27T08:40:07.648550,129.74,USD,Apple,Electronics,Russia,IPH-21362,Card,Success
+2d5a3b46-0af3-4286-8af2-a8e8127957cc,C076,2026-06-18T11:38:08.648555,72.89,USD,Walmart,Retail,Nigeria,AND-66280,Bank Transfer,Success
+300a8bfe-b8d5-491f-be61-845802e2c3f5,C036,2026-06-01T21:41:45.648560,32.87,USD,Shell,Fuel,Canada,IPH-82534,Wallet,Success
+8ddedbbd-6b5b-494e-84da-82afc0648240,C037,2026-06-27T23:48:29.648566,78.9,USD,Quick Transfer,Money Transfer,United States,WEB-49537,Card,Success
+e37b3f1a-d6ef-4ca7-8e6e-004aa23d8cf7,C025,2026-06-21T22:45:01.648571,40.07,USD,Travel Hub,Travel,Nigeria,AND-94694,Card,Success
+84b38cee-f0fd-4131-95cd-5db766ed4efd,C064,2026-04-12T15:54:12.648576,177.26,USD,Shell,Fuel,Canada,IPH-75481,Wallet,Success
+39aa3e14-f61e-4997-be01-c9811986b4bf,C002,2026-04-07T20:23:09.648581,64.56,USD,Travel Hub,Travel,India,IPH-60703,Wallet,Success
+fd88cf96-00ec-4961-8c08-6076fa4175b9,C088,2026-03-02T06:42:51.648587,35.06,USD,Travel Hub,Travel,Russia,IPH-12187,Wallet,Success
+9192b95d-b9ae-4f46-bc71-01d9a19fd62f,C028,2026-02-04T11:09:10.648592,55.19,USD,Starbucks,Food,United States,AND-76402,Bank Transfer,Success
+0052774e-ee0b-42c8-8440-cb38743c1f10,C099,2026-04-18T09:35:59.648597,106.87,USD,Travel Hub,Travel,Nigeria,WEB-62727,Card,Success
+6d890ea9-53ed-4a3c-8771-8d542603a41a,C079,2026-02-26T09:05:19.648602,44.37,USD,Travel Hub,Travel,Singapore,IPH-50620,Card,Success
+6ef5d4ea-2c06-428b-8869-c6923f424a34,C020,2026-05-11T21:18:20.648608,35.16,USD,Shell,Fuel,India,AND-86865,Wallet,Success
+0ea67a42-9b54-43ae-8d58-ffbf606e6ba6,C040,2026-06-12T09:36:43.648613,91.77,USD,Walmart,Retail,Nigeria,WEB-41278,Card,Success
+76c73665-26a0-477e-89fe-dd668a6e6a99,C015,2026-04-25T18:24:44.648618,91.88,USD,Lucky Spin Casino,Casino,United States,AND-97304,Wallet,Success
+63982dd5-fc2f-48e0-9f95-f725e06d1e7c,C016,2026-01-30T04:34:09.648625,46.7,USD,Apple,Electronics,United Kingdom,WEB-11487,Card,Success
+aa2ce4ba-4b64-431b-8cd4-73a0e3584b12,C067,2026-05-08T03:58:46.648630,48.23,USD,Alpha Crypto Exchange,Crypto,Singapore,IPH-58741,Card,Success
+edd061f0-4a5f-4b18-924a-e152aae67c0f,C094,2026-07-18T20:32:18.648635,90.82,USD,Starbucks,Food,Canada,IPH-53910,Bank Transfer,Success
+a99c4daa-a2e2-4864-9332-908902e1feda,C034,2026-06-15T01:12:47.648641,20.02,USD,Walmart,Retail,Canada,AND-69663,Wallet,Success
+ed4f519b-fb84-4290-b12b-6d2d18c074b0,C073,2026-03-01T03:16:12.648648,20.77,USD,Global Electronics,Electronics,India,IPH-43438,Card,Success
+9106b73e-3e8e-4d2a-a6fa-67e1acd20b53,C030,2026-06-20T13:49:52.648655,38.61,USD,Walmart,Retail,United Arab Emirates,IPH-15772,Card,Success
+dce1b5de-e5af-4a63-b3b6-12198a10e97c,C047,2026-04-12T02:21:36.648663,60.82,USD,Global Electronics,Electronics,United Kingdom,IPH-14635,Wallet,Success
+22260122-cea3-4ea0-82a6-1b9b5d05ff30,C029,2026-03-31T05:15:08.648671,97.5,USD,Lucky Spin Casino,Casino,Germany,AND-51934,Bank Transfer,Success
+ef0f75ef-e102-4ace-a62c-36c8ea9bc6be,C048,2026-02-19T21:59:42.648677,278.06,USD,Quick Transfer,Money Transfer,United Arab Emirates,WEB-16903,Card,Success
+2d475459-204a-44c6-984a-408f69ff0fd6,C006,2026-04-15T13:59:29.648683,159.48,USD,Travel Hub,Travel,Canada,AND-47002,Bank Transfer,Success
+fd81cad9-4099-4a11-aef5-81d12c6d1575,C059,2026-01-29T06:41:07.648690,63.82,USD,Travel Hub,Travel,India,IPH-48219,Wallet,Success
+8c696891-daaf-48aa-8f0d-8bf6d9de99ba,C032,2026-04-27T19:36:05.648695,72.45,USD,Quick Transfer,Money Transfer,India,WEB-74665,Card,Success
+a6ac13c4-6f1d-4527-b810-317ee237a860,C098,2026-07-01T07:03:07.648701,29.9,USD,Travel Hub,Travel,Germany,IPH-10835,Bank Transfer,Success
+72464ce0-877c-4909-af75-7b90a03a4177,C045,2026-05-31T05:15:00.648707,72.48,USD,Travel Hub,Travel,United States,AND-10191,Wallet,Success
+9cdbdc04-0111-4e6d-8140-5a4fc92a51fb,C014,2026-03-08T13:49:17.648714,56.84,USD,Starbucks,Food,United Arab Emirates,IPH-65026,Bank Transfer,Failed
+2dea7737-4193-49ff-bd7b-1f5a0ba5f09f,C092,2026-03-23T01:37:36.648721,98.54,USD,Apple,Electronics,Canada,IPH-40339,Wallet,Success
+0024bcbc-9eac-431e-bf48-6433a34ea06e,C059,2026-06-21T23:00:36.648727,35.01,USD,Alpha Crypto Exchange,Crypto,Canada,WEB-22527,Wallet,Success
+3e6cae2a-f23d-4f39-9b8b-a583e43bb4fd,C010,2026-05-22T15:58:50.648733,117.61,USD,Lucky Spin Casino,Casino,United States,AND-96827,Card,Success
+7d57f797-0222-44cd-b7c9-2925d91699cf,C041,2026-07-26T13:12:52.648739,292.79,USD,Starbucks,Food,Nigeria,WEB-52762,Bank Transfer,Success
+6184e39d-ee11-4478-a4ec-366be2835b3b,C010,2026-03-08T02:15:20.648744,66.83,USD,Shell,Fuel,United Kingdom,WEB-24283,Card,Success
+a6eef2b2-d77c-4c63-a588-2f1ecf0a92a7,C060,2026-03-29T17:02:51.648750,105.8,USD,Global Electronics,Electronics,Nigeria,IPH-80244,Bank Transfer,Failed
+be1f94d9-22a6-424c-bd6f-f86fdfa3b3b4,C058,2026-03-28T14:21:52.648755,137.16,USD,Shell,Fuel,Russia,AND-25717,Card,Success
+541d9d2c-2ea6-40d6-97a4-4ebdf0c640b2,C091,2026-06-12T01:13:59.648760,51.36,USD,Starbucks,Food,United States,IPH-52964,Card,Success
+7e112302-e69d-4162-b392-598754f6a3c2,C046,2026-04-14T16:10:45.648766,90.17,USD,Shell,Fuel,United Arab Emirates,IPH-98759,Bank Transfer,Success
+7284a2cb-5007-4019-bddc-51e88c4d530b,C004,2026-04-16T06:09:02.648771,74.54,USD,Apple,Electronics,Russia,WEB-82105,Card,Success
+f3e426fd-2b57-4fea-ba3b-ac93607bbefa,C018,2026-02-20T07:33:34.648777,80.47,USD,Walmart,Retail,United States,IPH-39135,Card,Success
+4891cfcc-8f83-4d1d-948d-801451fc612f,C048,2026-06-09T23:52:03.648782,36.76,USD,Lucky Spin Casino,Casino,Canada,WEB-86823,Bank Transfer,Success
+71c52630-e829-4a76-a8e7-1d33496b598a,C003,2026-02-09T06:00:28.648787,75.34,USD,Walmart,Retail,Germany,WEB-68121,Card,Success
+8a108d5a-7deb-4e19-824d-6b2d8d19c788,C016,2026-02-05T00:31:32.648793,115.38,USD,Alpha Crypto Exchange,Crypto,Russia,IPH-32018,Wallet,Success
+0d145189-3390-4df0-809d-28abc6cb2fa0,C064,2026-02-02T10:56:37.648798,272.06,USD,Lucky Spin Casino,Casino,Nigeria,WEB-65923,Card,Success
+6eacf155-62f5-4753-8ee6-7f6e34a02ba3,C036,2026-03-23T01:45:47.648803,174.75,USD,Apple,Electronics,Russia,IPH-14541,Wallet,Success
+dbc4e853-1485-4a3c-adb5-ea4d9cf16247,C083,2026-03-26T00:50:10.648808,511.76,USD,Shell,Fuel,Russia,AND-82179,Bank Transfer,Success
+119fbe32-c5aa-4829-b2ce-dc21e1b9e3bc,C050,2026-02-23T09:06:45.648814,36.94,USD,Starbucks,Food,Nigeria,IPH-94233,Wallet,Success
+92e1af2d-5dca-4cf4-8c31-2ab15e6b7019,C003,2026-04-12T00:06:59.648821,161.59,USD,Travel Hub,Travel,India,AND-81371,Bank Transfer,Success
+7746ae63-ba63-48a7-a1d2-f85722920d5a,C065,2026-03-31T04:19:53.648827,86.92,USD,Quick Transfer,Money Transfer,Nigeria,AND-33568,Card,Success
+f6131a0f-03cd-40dd-8708-d8ce6f7a69c9,C004,2026-07-20T16:06:46.648832,528.91,USD,Shell,Fuel,Singapore,IPH-71824,Wallet,Success
+8acac26a-53a9-42c6-ab63-a4c3f26077eb,C030,2026-02-27T17:27:06.648838,35.61,USD,Quick Transfer,Money Transfer,Canada,IPH-96096,Card,Success
+2257813c-5618-48ab-8a6c-6d138ff8f9d1,C098,2026-03-11T08:04:42.648843,34.61,USD,Amazon,Retail,Nigeria,AND-32768,Card,Success
+917a12f9-38b7-40e3-9d4e-2d0f8cd4affa,C095,2026-06-12T04:43:18.648848,42.97,USD,Alpha Crypto Exchange,Crypto,India,WEB-13697,Wallet,Success
+1e48f135-1dcb-4cae-85cf-7d0e45c98f0b,C073,2026-02-24T07:47:27.648854,10.9,USD,Quick Transfer,Money Transfer,Germany,AND-81057,Bank Transfer,Success
+00fb0012-c45b-4783-8791-0692185d2a1d,C012,2026-02-07T15:18:29.648859,45.92,USD,Amazon,Retail,Germany,WEB-38679,Card,Success
+2fd8ec84-24e4-48c1-9b22-8317b434dda3,C043,2026-07-24T23:15:09.648864,37.22,USD,Amazon,Retail,Germany,IPH-54663,Wallet,Success
+bd2b435b-4144-46a9-a3d3-f2996ed267f2,C008,2026-01-31T23:40:04.648870,84.38,USD,Alpha Crypto Exchange,Crypto,United Kingdom,WEB-28566,Card,Success
+630080f9-4dba-486f-a359-ac493fa41bcf,C010,2026-04-10T06:36:20.648875,100.24,USD,Alpha Crypto Exchange,Crypto,Nigeria,WEB-23242,Bank Transfer,Success
+398d0ac7-f1f9-4192-94e6-5582f8534abd,C021,2026-06-18T22:33:15.648880,398.84,USD,Apple,Electronics,Nigeria,WEB-73858,Wallet,Success
+417e174b-8eea-462b-aea4-a282bb41acd4,C089,2026-07-19T11:23:01.648886,173.36,USD,Travel Hub,Travel,India,IPH-97232,Wallet,Success
+76099514-4306-4d49-8e7e-1f8ed60e26c4,C040,2026-06-19T06:12:39.648891,43.85,USD,Lucky Spin Casino,Casino,Singapore,IPH-33292,Wallet,Success
+89dc0721-f351-4adf-a995-f6c3dba231e8,C051,2026-07-11T22:21:40.648896,32.83,USD,Quick Transfer,Money Transfer,United States,IPH-88956,Bank Transfer,Success
+c78ee626-eb69-45a1-96d7-eb2e6af748f7,C029,2026-05-31T22:30:59.648902,114.75,USD,Quick Transfer,Money Transfer,Canada,AND-28434,Bank Transfer,Success
+a2c1726a-6ed5-4bc3-bf2e-92b888cf799d,C045,2026-03-30T18:36:40.648907,22.46,USD,Shell,Fuel,United Kingdom,WEB-21629,Wallet,Success
+4734c7c5-b094-4c50-be55-948c8d170028,C058,2026-01-29T22:39:13.648912,383.11,USD,Alpha Crypto Exchange,Crypto,Singapore,IPH-42707,Wallet,Success
+be08cbe7-9349-4642-a01c-98c33add5d14,C014,2026-06-16T14:55:01.648918,213.04,USD,Starbucks,Food,United States,IPH-60585,Bank Transfer,Success
+fc778f18-b4f8-4595-8e8b-d93eb0d049f2,C053,2026-05-03T11:28:30.648923,48.31,USD,Apple,Electronics,Nigeria,AND-81568,Bank Transfer,Success
+28bdd365-b164-4450-9395-c4a952c1d3e5,C074,2026-06-03T03:17:03.648928,15.77,USD,Global Electronics,Electronics,Germany,IPH-69151,Card,Success
+4243660b-079a-4e0d-9b2a-225efa7c8407,C038,2026-01-31T15:06:59.648934,249.26,USD,Amazon,Retail,India,AND-23726,Card,Success
+0811711b-f6fc-413f-9717-129adf818eb4,C021,2026-06-18T20:50:38.648963,66.48,USD,Lucky Spin Casino,Casino,Canada,WEB-22203,Bank Transfer,Success
+5303b550-563e-46a7-b8f8-90345f2df2b9,C062,2026-06-13T12:46:33.648969,224.54,USD,Quick Transfer,Money Transfer,United States,AND-95673,Card,Success
+691ad0c5-f904-45c1-9e88-d3613a35c1aa,C021,2026-02-07T03:08:03.648975,17.55,USD,Lucky Spin Casino,Casino,Canada,AND-36941,Card,Success
+15bb8509-f452-4bf6-813b-51aefa15c66c,C093,2026-07-26T11:01:55.648981,42.97,USD,Travel Hub,Travel,United Arab Emirates,AND-96585,Bank Transfer,Success
+f4c6b843-7622-4f34-ade2-e168f836123d,C007,2026-04-14T00:36:12.648986,74.05,USD,Walmart,Retail,United Arab Emirates,AND-30131,Card,Success
+9750738c-6fb4-43fe-97c4-ad5c6c65b30a,C012,2026-03-25T22:14:46.648992,76.88,USD,Lucky Spin Casino,Casino,Russia,IPH-22712,Card,Success
+6a9eb583-ddda-4533-a202-68e66cdc89ef,C011,2026-04-29T16:32:44.648997,49.15,USD,Starbucks,Food,Canada,AND-62096,Bank Transfer,Success
+4dd7b316-5d7a-447c-94f3-2fe16f1b04d2,C012,2026-06-01T08:51:37.649002,129.1,USD,Starbucks,Food,United Arab Emirates,AND-34232,Bank Transfer,Success
+25c21671-24f0-4735-94d4-2246e49e9b2e,C024,2026-04-24T07:00:35.649008,28.19,USD,Alpha Crypto Exchange,Crypto,United States,AND-67637,Bank Transfer,Success
+558ef320-8534-4664-a7fb-92a3e0ed1ea6,C073,2026-02-08T16:48:24.649013,64.84,USD,Starbucks,Food,United Kingdom,WEB-97486,Card,Success
+66317dd2-24f8-477f-8811-8b9dc5136680,C070,2026-04-18T02:51:50.649018,82.13,USD,Alpha Crypto Exchange,Crypto,Germany,WEB-17993,Bank Transfer,Success
+5570974d-3a1d-47f4-8deb-133591b9b351,C069,2026-06-10T03:30:54.649023,117.1,USD,Lucky Spin Casino,Casino,Russia,WEB-40886,Bank Transfer,Success
+9df187a7-0c03-4c01-a181-15695b06014f,C092,2026-02-03T11:23:34.649029,139.83,USD,Lucky Spin Casino,Casino,United Arab Emirates,WEB-77740,Wallet,Success
+67e0eeb0-7a16-41a2-89ab-efaa10901800,C019,2026-02-20T02:06:01.649034,26.78,USD,Quick Transfer,Money Transfer,Russia,IPH-31910,Card,Success
+66c42285-ce03-450d-a378-23f0956011d2,C006,2026-04-19T22:36:59.649039,18.53,USD,Apple,Electronics,Canada,WEB-67067,Card,Failed
+a8a37e88-c4cb-4ac9-af2e-7967cf20e31b,C077,2026-03-18T19:23:02.649045,232.74,USD,Apple,Electronics,India,WEB-18783,Card,Success
+d01485fc-1af2-4522-83f7-3b52c6ae5781,C071,2026-04-01T01:24:26.649050,99.39,USD,Lucky Spin Casino,Casino,Singapore,WEB-70051,Card,Success
+bd7f31a1-f500-4558-b55f-6ba2dc5fd3fa,C076,2026-05-09T04:51:42.649055,37.58,USD,Quick Transfer,Money Transfer,Nigeria,IPH-64321,Card,Success
+6a7e2763-7485-4a76-9598-574a904fd3da,C075,2026-06-23T23:50:28.649061,297.69,USD,Quick Transfer,Money Transfer,Canada,IPH-83752,Card,Success
+0558c3fc-414e-4526-bf0a-182e9ed79286,C045,2026-07-17T04:49:36.649066,81.79,USD,Travel Hub,Travel,Nigeria,AND-60206,Wallet,Success
+ab8fa2ae-512f-4147-ab5e-9d5a77f763ed,C061,2026-02-04T00:08:56.649072,213.02,USD,Quick Transfer,Money Transfer,United Kingdom,AND-62818,Card,Success
+7020fd6b-009b-41e1-aebc-9744df44ee30,C005,2026-04-14T14:04:27.649077,78.32,USD,Lucky Spin Casino,Casino,India,WEB-41139,Card,Success
+63c44f06-ae50-4bd1-a2c2-9194182344bd,C048,2026-01-31T15:50:18.649082,470.91,USD,Starbucks,Food,India,AND-50756,Bank Transfer,Success
+99a78765-ae64-48b5-934f-bdc3d75bec00,C030,2026-02-22T19:49:41.649087,357.74,USD,Walmart,Retail,Singapore,WEB-68079,Bank Transfer,Success
+ac107262-edd7-4fe0-9721-0d14396b540b,C078,2026-06-02T02:02:59.649093,58.91,USD,Lucky Spin Casino,Casino,Canada,IPH-67896,Card,Success
+01669805-6f46-442f-89c6-9202049402c4,C095,2026-05-01T19:17:42.649098,176.69,USD,Lucky Spin Casino,Casino,United Arab Emirates,AND-17367,Wallet,Success
+4ea5680b-e7ce-4c41-a022-731947d7f621,C040,2026-06-14T12:22:46.649103,131.74,USD,Walmart,Retail,United Arab Emirates,AND-27779,Wallet,Success
+cd78070d-26d7-4d10-b77b-c9c0feef9fea,C023,2026-03-06T03:53:20.649108,252.59,USD,Amazon,Retail,Germany,IPH-42701,Card,Success
+c5517302-20b5-46a5-a3f2-4536bf8f1ebe,C091,2026-03-07T09:27:54.649114,30.93,USD,Alpha Crypto Exchange,Crypto,Singapore,AND-70846,Wallet,Success
+f317cfe2-ddb3-4c54-868e-5f85ae5aa945,C088,2026-02-02T15:58:52.649119,136.65,USD,Walmart,Retail,Germany,AND-74066,Wallet,Success
+8c1a26e6-6a89-4e06-b618-772b38e04b98,C076,2026-05-14T18:56:51.649124,191.06,USD,Global Electronics,Electronics,India,AND-31432,Bank Transfer,Success
+754e8625-46a2-4209-9f0e-4da2328099bc,C037,2026-02-02T01:28:29.649129,15.14,USD,Walmart,Retail,Nigeria,IPH-31352,Wallet,Success
+83cd9edd-3bf6-4025-950a-daf93476a000,C029,2026-06-02T10:33:19.649134,25.41,USD,Shell,Fuel,Germany,WEB-37096,Bank Transfer,Success
+e1ed5a5b-d209-49dc-b3e7-bb5ac811eefd,C003,2026-07-14T15:00:50.649140,11.76,USD,Travel Hub,Travel,United States,AND-27342,Wallet,Success
+592f1f69-6d5d-4a6c-83e0-46a040fc226a,C029,2026-03-17T17:46:15.649145,57.83,USD,Amazon,Retail,Singapore,WEB-94245,Bank Transfer,Success
+44a03837-3e30-46a2-bf6e-fee4ad1fc864,C045,2026-04-26T20:37:55.649150,140.58,USD,Lucky Spin Casino,Casino,Singapore,IPH-71171,Bank Transfer,Success
+bc7bc37c-7afe-490b-97f5-a70363eacca0,C051,2026-05-21T05:27:14.649155,284.9,USD,Quick Transfer,Money Transfer,Canada,IPH-77045,Wallet,Failed
+1228f159-67ff-42e3-ae16-2f2aad91086e,C072,2026-06-02T10:22:45.649161,78.78,USD,Alpha Crypto Exchange,Crypto,Singapore,AND-99707,Card,Success
+ef7d04b6-7817-4016-b614-107ff9b66640,C036,2026-06-01T02:56:03.649166,319.18,USD,Alpha Crypto Exchange,Crypto,India,AND-44229,Wallet,Success
+ae5e83ed-acd0-41fa-bd67-2459f29def98,C025,2026-02-25T20:16:03.649171,21.28,USD,Starbucks,Food,United Arab Emirates,IPH-17441,Wallet,Success
+fd87c638-cb36-4a15-b237-26bfa2aebcb4,C088,2026-02-23T21:39:54.649178,15.91,USD,Alpha Crypto Exchange,Crypto,United States,WEB-75191,Bank Transfer,Success
+aab91077-e5ba-4027-8cdd-f376525c8ac9,C052,2026-04-13T03:02:19.649183,70.11,USD,Lucky Spin Casino,Casino,United States,WEB-84978,Card,Success
+4c32e561-8599-4e36-8edd-3a8bc6deea40,C088,2026-05-11T13:07:35.649188,104.13,USD,Shell,Fuel,Russia,WEB-56988,Wallet,Success
+e5074c20-86ae-4100-8858-d48e75134319,C085,2026-07-16T22:18:29.649194,71.56,USD,Apple,Electronics,United Arab Emirates,IPH-48506,Card,Success
+c5179013-a6f1-42cf-9965-67b6975f57aa,C093,2026-07-03T16:42:06.649199,11.47,USD,Starbucks,Food,United Arab Emirates,IPH-99091,Bank Transfer,Success
+c0115744-8cb3-4e61-bbc4-5ede9f188205,C046,2026-03-12T02:19:47.649204,68.02,USD,Shell,Fuel,Singapore,AND-53426,Bank Transfer,Success
+28c67714-f9e6-4235-b859-055f24010b7c,C060,2026-07-12T00:29:26.649209,22.78,USD,Starbucks,Food,Canada,AND-17035,Wallet,Success
+e2366173-100c-4b66-b3e0-7c27dc0626a9,C010,2026-04-29T10:14:58.649216,134.65,USD,Quick Transfer,Money Transfer,Germany,WEB-25704,Wallet,Success
+b127820d-f430-4b58-ad30-879ff7d2559d,C053,2026-02-07T05:29:36.649221,102.51,USD,Starbucks,Food,United Kingdom,IPH-36253,Bank Transfer,Success
+7c041ad7-42be-4477-86d5-652cc1136388,C059,2026-02-24T13:01:09.649227,31.63,USD,Quick Transfer,Money Transfer,India,WEB-33639,Card,Success
+ae7f1564-c228-4eb9-b831-02e9ca4b446f,C041,2026-05-30T22:31:33.649232,46.41,USD,Apple,Electronics,United States,IPH-69251,Bank Transfer,Success
+4398ed33-3ef3-4910-870a-958d4d56d9f1,C074,2026-06-25T04:17:55.649237,28.41,USD,Apple,Electronics,United Kingdom,AND-21539,Card,Success
+0a60272b-58dd-4609-a8eb-fd6a0fba311c,C052,2026-04-21T00:56:59.649243,69.66,USD,Lucky Spin Casino,Casino,Russia,AND-10611,Card,Success
+d86dad9e-18fb-4bba-8cf2-7976686ff7d3,C002,2026-07-19T22:35:50.649248,174.1,USD,Alpha Crypto Exchange,Crypto,India,WEB-34979,Card,Success
+4b7a388c-0bb8-42f1-afdc-113ac7e6e976,C029,2026-06-11T09:36:21.649253,30.35,USD,Shell,Fuel,India,AND-26899,Card,Success
+f33dfccf-4d65-4f2a-bfdf-40b4e90cd59d,C040,2026-03-01T03:55:00.649258,116.01,USD,Quick Transfer,Money Transfer,Canada,IPH-49085,Bank Transfer,Success
+89519725-a7d9-442e-a79b-e38014772bf0,C077,2026-05-09T12:06:41.649264,45.73,USD,Travel Hub,Travel,India,AND-27536,Bank Transfer,Failed
+bf1fb66e-e94d-4f2b-8ceb-23a032f5313c,C046,2026-06-22T09:20:18.649269,36.1,USD,Global Electronics,Electronics,Germany,IPH-62873,Card,Success
+5f01b4c5-1a41-4c07-9a20-06d9197de3f4,C028,2026-06-19T06:35:29.649275,66.93,USD,Apple,Electronics,United States,WEB-76143,Card,Success
+1169afcb-0aa2-46fb-bdaa-7d39a0a930d6,C049,2026-07-16T22:32:17.649280,29.03,USD,Amazon,Retail,Singapore,WEB-91675,Card,Success
+2368c587-6826-463f-936b-a2bc5cc32e4c,C085,2026-02-17T17:23:29.649285,44.78,USD,Amazon,Retail,United States,IPH-25176,Bank Transfer,Success
+d8fb1933-9827-4347-ae53-95cd4cbd0d28,C071,2026-03-17T19:23:31.649290,25.08,USD,Walmart,Retail,Russia,WEB-30070,Card,Success
+cc920cd3-0287-4d06-b46c-c90a0885c834,C039,2026-04-19T10:56:58.649295,431.93,USD,Amazon,Retail,Canada,WEB-78197,Bank Transfer,Success
+f979f3ac-ed1c-400a-927d-71810041ed49,C054,2026-07-08T00:40:07.649301,76.08,USD,Apple,Electronics,Canada,WEB-90962,Card,Success
+6dbf3f9c-d265-49e1-bc50-60646f2cbfb2,C064,2026-03-07T07:18:24.649306,39.26,USD,Walmart,Retail,Germany,AND-78569,Card,Success
+32184dbb-4c0c-4c03-ae2c-d929f2aaa921,C038,2026-02-27T20:56:29.649311,89.35,USD,Lucky Spin Casino,Casino,United States,WEB-75058,Card,Success
+b7a25304-1487-4f9f-b108-0351cfaf75d8,C043,2026-03-14T06:25:12.649316,66.61,USD,Global Electronics,Electronics,United States,IPH-98032,Card,Success
+c2b0828e-4432-4ff5-ba0b-d92756428c90,C086,2026-05-03T16:14:17.649322,60.41,USD,Quick Transfer,Money Transfer,United Kingdom,IPH-77070,Card,Success
+e26a1112-3f18-43ca-94f9-edd96da01864,C033,2026-06-01T20:22:24.649327,128.09,USD,Walmart,Retail,Germany,AND-48800,Bank Transfer,Success
+c86fccc9-8219-4bdc-b437-49f0bb8c8021,C023,2026-07-16T11:20:10.649332,145.73,USD,Walmart,Retail,United States,AND-57214,Wallet,Success
+13926fa0-5fee-4f05-8247-a2e4bc6c537f,C013,2026-07-12T00:38:23.649337,45.72,USD,Walmart,Retail,United States,IPH-28139,Wallet,Success
+29d33631-5790-4333-aeb6-c9b073bfcc8b,C046,2026-07-20T10:20:50.649343,43.89,USD,Alpha Crypto Exchange,Crypto,Russia,WEB-45167,Wallet,Success
+bf8e15c2-734e-43cb-af56-79df14422026,C024,2026-02-18T20:02:31.649348,57.54,USD,Alpha Crypto Exchange,Crypto,Nigeria,AND-69839,Bank Transfer,Success
+3788950d-3801-4a7c-aeb1-fb0fa0d20966,C054,2026-06-02T17:23:24.649354,9.28,USD,Global Electronics,Electronics,United Kingdom,IPH-27368,Wallet,Success
+5057ad0e-5e7b-47a5-98b2-21ea4a36b356,C014,2026-04-18T12:22:33.649359,18.85,USD,Apple,Electronics,Russia,WEB-98918,Bank Transfer,Success
+fd632ffd-dd30-430a-8e69-b73a7a7a8193,C100,2026-04-07T08:44:18.649364,252.19,USD,Lucky Spin Casino,Casino,United States,WEB-27125,Bank Transfer,Success
+ea2cff6a-f31e-4629-b46d-57d34c3db6f5,C053,2026-04-23T07:18:02.649370,323.91,USD,Walmart,Retail,United States,IPH-44290,Wallet,Success
+8121fedb-cc8a-495e-905f-62a7c60ee468,C099,2026-06-21T03:05:04.649375,58.9,USD,Travel Hub,Travel,Germany,WEB-54341,Wallet,Success
+281be6ed-797d-4e7d-a026-73c6fb5947ca,C013,2026-04-21T18:45:49.649380,123.83,USD,Quick Transfer,Money Transfer,Germany,AND-55318,Wallet,Success
+46668477-689c-43d7-8453-e37104b1a7ca,C020,2026-07-09T15:43:25.649385,97.53,USD,Lucky Spin Casino,Casino,United Arab Emirates,WEB-17152,Card,Success
+7b2f9f72-64d4-43c6-987e-fe213d247a22,C065,2026-07-11T13:27:12.649394,1177.32,USD,Apple,Electronics,Russia,AND-31679,Card,Success
+b61fba23-f55d-4060-8d5b-547ce6a86c2a,C031,2026-04-01T23:37:41.649399,201.87,USD,Alpha Crypto Exchange,Crypto,Singapore,IPH-76444,Card,Success
+31290278-3056-4e1c-9ca3-adf259097f25,C052,2026-07-05T09:31:25.649405,65.69,USD,Lucky Spin Casino,Casino,Germany,IPH-70174,Bank Transfer,Success
+bcf6cdb5-60e1-474d-9f1b-74d71acdaa15,C012,2026-07-13T01:32:29.649410,31.19,USD,Global Electronics,Electronics,Russia,AND-51426,Card,Failed
+c12070cd-4b50-4e09-a3c9-e1997466fb73,C014,2026-04-16T01:42:41.649415,17.36,USD,Amazon,Retail,Nigeria,IPH-83024,Wallet,Success
+272f3805-a323-4dcf-9939-e0b282e7fc98,C078,2026-05-27T22:36:13.649420,88.51,USD,Walmart,Retail,Singapore,WEB-83706,Card,Success
+04a6d4d6-53e7-4cc8-b040-6504b4cdd175,C044,2026-04-08T06:50:42.649425,37.31,USD,Global Electronics,Electronics,United States,IPH-69566,Bank Transfer,Success
+d161e9a1-82f2-4695-b76e-a331ecce4386,C077,2026-04-29T14:30:32.649431,20.49,USD,Quick Transfer,Money Transfer,India,WEB-69314,Card,Success
+fc2c7f4e-4f98-43c9-a444-4a785d9c5601,C001,2026-04-04T00:23:09.649436,41.19,USD,Shell,Fuel,India,WEB-48270,Wallet,Success
+183f428d-34f3-4046-983c-735a49fbe169,C006,2026-07-20T21:17:48.649441,27.84,USD,Walmart,Retail,United Kingdom,AND-28408,Wallet,Success
+387f5a99-5ae1-49d2-8945-af34a3fbe060,C014,2026-03-18T02:37:13.649446,336.44,USD,Lucky Spin Casino,Casino,Germany,IPH-25826,Bank Transfer,Success
+61827e9c-c38d-49ee-8663-9686191658bf,C092,2026-04-03T08:25:51.649452,162.96,USD,Shell,Fuel,Canada,AND-16094,Wallet,Success
+8bb75a54-0b0d-4bf2-8431-7c0e32eda64e,C016,2026-06-26T16:00:13.649457,73.17,USD,Quick Transfer,Money Transfer,Russia,AND-96305,Wallet,Failed
+f6f5a3f2-d27d-48d7-a4e1-2708b3ba3818,C064,2026-01-28T13:45:40.649462,279.21,USD,Apple,Electronics,United Arab Emirates,WEB-16366,Wallet,Success
+22e76039-a46b-4ffe-9c4f-95f618226d21,C062,2026-07-26T05:25:36.649467,79.01,USD,Quick Transfer,Money Transfer,United Arab Emirates,IPH-85832,Card,Success
+f24ee84b-1d5d-4559-91cd-728fe0aaa39a,C014,2026-04-12T22:59:14.649473,33.95,USD,Apple,Electronics,India,WEB-60418,Bank Transfer,Failed
+f18d7b82-e24e-4aa5-bae3-717135cefec2,C036,2026-04-14T23:45:17.649478,290.27,USD,Shell,Fuel,India,AND-69355,Card,Success
+d8d7b5f5-95da-46ae-a82b-dda7d72202cb,C090,2026-07-18T20:38:29.649483,119.7,USD,Quick Transfer,Money Transfer,United Arab Emirates,AND-81802,Bank Transfer,Success
+36431c9d-fe2d-44c0-983d-65b65b41b750,C081,2026-03-10T22:26:10.649489,28.98,USD,Travel Hub,Travel,Germany,IPH-91810,Wallet,Success
+d09bec1a-8b0e-401b-bfe4-ced496904aec,C087,2026-02-22T11:50:29.649494,62.1,USD,Alpha Crypto Exchange,Crypto,United Kingdom,WEB-81105,Wallet,Success
+c20e8031-ef10-4e42-b2c9-5a24fb682dfb,C098,2026-04-06T03:05:36.649499,33.51,USD,Walmart,Retail,United Arab Emirates,AND-86389,Wallet,Success
+4a22c775-6eb4-4c1b-88b7-18f5b394d3ce,C087,2026-06-21T22:52:02.649504,21.23,USD,Lucky Spin Casino,Casino,United Arab Emirates,AND-65363,Card,Success
+bfeed7c9-9fc4-4852-a111-782abb96a851,C049,2026-02-24T22:49:04.649510,169.62,USD,Amazon,Retail,United States,WEB-17419,Card,Success
+6ef0bead-cb61-4f91-9423-8c403d5bab77,C037,2026-06-09T10:22:34.649515,410.95,USD,Apple,Electronics,Singapore,IPH-18130,Wallet,Success
+431c045e-3cb6-4163-830c-0f80790251ac,C097,2026-05-12T19:35:28.649520,20.93,USD,Shell,Fuel,United States,AND-69322,Card,Success
+8c21046b-d6ca-46c7-b9cd-e17393d59aea,C029,2026-06-20T21:26:25.649526,122.32,USD,Travel Hub,Travel,United Arab Emirates,AND-41142,Wallet,Success
+dd6d9b5d-f3a7-4cc1-b553-fd66b0f2d270,C089,2026-06-05T18:18:39.649531,41.03,USD,Starbucks,Food,United States,AND-60797,Bank Transfer,Failed
+38a845ca-6544-4fc3-bf56-96616127a4ab,C071,2026-02-07T04:16:58.649536,47.54,USD,Alpha Crypto Exchange,Crypto,United States,WEB-42943,Card,Success
+2928445a-aaf5-4b52-9bf3-10aeec90d08f,C029,2026-07-23T17:22:50.649541,43.24,USD,Global Electronics,Electronics,India,WEB-81645,Wallet,Success
+93633e6c-ada0-41ad-abb3-11502ec06cc8,C038,2026-04-24T21:10:31.649547,33.87,USD,Shell,Fuel,United Kingdom,WEB-19760,Card,Failed
+ad97cc93-9a03-4c7f-8581-468e3144e265,C016,2026-04-10T23:25:03.649552,76.99,USD,Travel Hub,Travel,United States,AND-46583,Wallet,Success
+cd87859a-76ce-45e0-a95a-bce056c499b3,C075,2026-07-11T00:15:29.649557,34.89,USD,Apple,Electronics,Singapore,IPH-53327,Bank Transfer,Success
+9899fa85-8214-4806-a1ae-6267ad56498a,C006,2026-02-26T13:51:21.649562,94.01,USD,Apple,Electronics,India,WEB-16665,Wallet,Success
+aaa54520-da2a-42f6-9967-d44ffdd733bd,C063,2026-06-30T02:47:07.649567,70.44,USD,Starbucks,Food,United Arab Emirates,AND-19552,Wallet,Success
+d0c13ceb-8d21-4f89-a78f-07077890ad1d,C024,2026-05-08T19:44:51.649573,59.44,USD,Shell,Fuel,Canada,WEB-30889,Bank Transfer,Success
+17b06243-e61c-4d10-b1a2-29157d167ff9,C012,2026-04-05T13:52:55.649578,32.56,USD,Lucky Spin Casino,Casino,Germany,IPH-96944,Bank Transfer,Success
+6094f973-b66b-488a-bd6e-cae7ed9d1846,C028,2026-06-22T21:10:34.649583,43.86,USD,Starbucks,Food,United Arab Emirates,AND-83575,Wallet,Success
+0dcc495a-e571-4ce6-bcf8-03f04804d4a0,C058,2026-03-15T09:38:55.649589,145.45,USD,Alpha Crypto Exchange,Crypto,Germany,IPH-99463,Bank Transfer,Success
+75bc3864-2059-48d6-86e7-7616f9b8d79e,C050,2026-03-18T13:20:42.649594,115.68,USD,Walmart,Retail,United Arab Emirates,WEB-47070,Card,Success
+5bd19d45-177e-4acf-a722-1506e8c2406f,C066,2026-07-02T14:56:36.649599,30.58,USD,Alpha Crypto Exchange,Crypto,United Arab Emirates,AND-73806,Card,Success
+1c407e38-27d0-459f-8929-1ea0e7cc7af1,C042,2026-05-07T12:28:09.649605,80.59,USD,Shell,Fuel,Canada,IPH-31940,Wallet,Success
+5095c17c-4f0a-44e6-a2f8-2191c75963fa,C027,2026-06-06T21:32:04.649611,144.93,USD,Walmart,Retail,Germany,WEB-65601,Card,Success
+307d9f23-b2bc-4ad3-b320-8281f0abd531,C083,2026-07-05T07:53:51.649617,16.4,USD,Lucky Spin Casino,Casino,Canada,WEB-99921,Card,Success
+3ae88978-5efb-4b44-86ba-62253b578d57,C005,2026-02-13T17:25:24.649622,120.18,USD,Alpha Crypto Exchange,Crypto,Canada,IPH-33329,Bank Transfer,Success
+a2b2ffa8-258f-4e14-971d-c9c9daa8e1ac,C030,2026-07-23T15:03:05.649627,40.59,USD,Quick Transfer,Money Transfer,Singapore,AND-60860,Bank Transfer,Success
+ac9f3524-692c-4693-b75a-8e38177eacf3,C041,2026-01-31T00:15:50.649633,123.17,USD,Lucky Spin Casino,Casino,Nigeria,WEB-25506,Wallet,Success
+1614498a-24e0-4c7c-8368-a38418636a05,C009,2026-06-23T12:34:41.649638,37.08,USD,Quick Transfer,Money Transfer,United States,WEB-19514,Bank Transfer,Success
+4bcc795a-f497-440b-be10-0fb4656e3101,C038,2026-06-29T12:43:42.649643,14.52,USD,Walmart,Retail,Singapore,WEB-21338,Bank Transfer,Success
+641429b6-7243-4951-9128-add1e164b246,C049,2026-04-14T10:54:27.649648,17.03,USD,Global Electronics,Electronics,United States,AND-30489,Wallet,Success
+bff83e81-2e57-4a94-8a42-9580a348796c,C070,2026-03-26T00:14:44.649653,76.96,USD,Lucky Spin Casino,Casino,United Kingdom,AND-98773,Wallet,Success
+80682847-91d9-4c0d-8399-ac9bfedf3e21,C071,2026-07-16T14:15:20.649660,93.11,USD,Amazon,Retail,United Arab Emirates,IPH-26152,Card,Success
+71b4a91e-73e3-4407-8733-93774971abf1,C051,2026-05-12T00:51:22.649665,32.66,USD,Quick Transfer,Money Transfer,United Arab Emirates,IPH-49936,Card,Success
+8bf92bff-d957-404b-a5a7-2eac5ca01b36,C028,2026-04-17T20:39:20.649671,130.94,USD,Alpha Crypto Exchange,Crypto,United Arab Emirates,IPH-31096,Card,Success
+19f453dd-c15a-48b3-81ff-224f8493dae9,C025,2026-02-18T23:43:34.649676,16.52,USD,Starbucks,Food,United Kingdom,WEB-84356,Card,Success
+d0b91eec-bc4a-40dc-abc8-a11adc64321a,C060,2026-06-01T21:56:50.649681,69.44,USD,Travel Hub,Travel,United Arab Emirates,IPH-48096,Wallet,Success
+2086e4c8-6b74-48ac-b704-fb2d607c28f7,C026,2026-06-17T15:02:14.649686,24.78,USD,Walmart,Retail,Russia,AND-56810,Card,Success
+8f45d35a-1f2f-4844-a4a1-63dd029e083d,C013,2026-03-24T02:22:54.649692,40.99,USD,Shell,Fuel,Canada,IPH-51652,Bank Transfer,Success
+26ae1cf3-cbec-40eb-a9ed-d72957336ee6,C085,2026-03-28T02:05:50.649697,76.91,USD,Quick Transfer,Money Transfer,United Kingdom,WEB-84299,Bank Transfer,Success
+cd10fef9-1544-4ad5-be7b-9acb0f1f83a9,C022,2026-01-28T16:03:52.649702,33.98,USD,Lucky Spin Casino,Casino,India,IPH-39035,Wallet,Success
+557f5539-05a3-4d1f-86eb-6bd085eaac21,C036,2026-07-09T20:44:34.649707,52.14,USD,Lucky Spin Casino,Casino,India,IPH-99073,Wallet,Success
+e09d72d6-aaaa-480f-878d-b130848c7e7d,C060,2026-04-24T05:03:53.649727,182.3,USD,Global Electronics,Electronics,India,AND-73828,Wallet,Success
+4d9c7c86-dc67-4ff9-abae-25ddbbe7aa11,C011,2026-07-10T04:35:09.649733,43.85,USD,Quick Transfer,Money Transfer,Singapore,IPH-80597,Card,Success
+b07ac8d7-88a8-4656-ae29-dfdc5ae50d17,C094,2026-02-11T08:56:08.649739,156.35,USD,Walmart,Retail,United States,WEB-92788,Card,Success
+0d80c9bb-d167-418d-b805-191653397537,C052,2026-06-26T02:16:45.649744,26.66,USD,Quick Transfer,Money Transfer,Germany,IPH-82298,Bank Transfer,Success
+261a5acf-eef8-4771-a83e-026b2955459c,C061,2026-06-03T16:58:45.649749,118.73,USD,Travel Hub,Travel,United Kingdom,AND-61445,Card,Success
+90bd530f-637e-46ba-a44e-fbfa947c65e7,C094,2026-07-13T04:13:15.649754,269.73,USD,Quick Transfer,Money Transfer,Singapore,IPH-70909,Wallet,Success
+27bc6c00-fc32-4ad5-b3ea-895787336eb7,C047,2026-05-05T05:48:55.649760,7.97,USD,Lucky Spin Casino,Casino,United States,WEB-41310,Wallet,Success
+f373755c-042d-4fd4-8c94-31abb051aef0,C018,2026-04-24T09:05:03.649765,35.97,USD,Travel Hub,Travel,United Kingdom,IPH-84233,Wallet,Success
+e1540e98-47fe-4ec9-abe8-18b6a1f396b5,C095,2026-06-18T20:56:04.649770,123.89,USD,Apple,Electronics,Russia,AND-15297,Card,Success
+12ea6f88-0d1b-4eec-a018-6a28fc182e2d,C009,2026-03-20T01:32:23.649777,61.39,USD,Shell,Fuel,India,IPH-15610,Wallet,Success
+81ab9ada-2843-47e2-b277-4e8c815efbae,C050,2026-04-28T22:23:12.649782,102.93,USD,Alpha Crypto Exchange,Crypto,Russia,IPH-15230,Wallet,Success
+e4f8ade6-5d40-4fae-83ce-ae9869ced213,C082,2026-07-07T19:58:56.649787,42.79,USD,Travel Hub,Travel,Singapore,WEB-44513,Wallet,Success
+45a7e47a-8f08-405c-a7ca-91ee11777706,C049,2026-06-03T15:53:38.649792,79.67,USD,Apple,Electronics,Nigeria,AND-87028,Wallet,Success
+0df0eadd-0c66-4ac6-b1d3-95e056972079,C067,2026-03-17T14:01:26.649798,64.06,USD,Walmart,Retail,Nigeria,IPH-77681,Bank Transfer,Success
+fa4f2669-425e-44a2-b57b-146721d4f0d0,C063,2026-06-30T15:35:52.649803,210.82,USD,Alpha Crypto Exchange,Crypto,Russia,WEB-10864,Wallet,Success
+9e4e4f91-eee3-4934-b994-25e84c4f975f,C022,2026-03-13T09:22:51.649808,92.66,USD,Global Electronics,Electronics,Canada,WEB-94341,Bank Transfer,Success
+08a23c82-347e-4723-9161-ed26a07bd29f,C021,2026-04-08T01:37:39.649813,99.87,USD,Apple,Electronics,Canada,WEB-40191,Bank Transfer,Success
+f3df13a1-165d-4e51-b2f6-208301947c07,C062,2026-06-07T20:20:36.649818,50.87,USD,Walmart,Retail,Russia,AND-37617,Wallet,Success
+bdbaa4f5-f0ba-47da-93e7-377efe913aeb,C003,2026-03-16T01:07:56.649824,47.52,USD,Lucky Spin Casino,Casino,United States,IPH-85168,Wallet,Success
+660f4449-abbf-48be-88c5-1314750a474c,C006,2026-07-19T16:57:51.649829,49.93,USD,Travel Hub,Travel,United Kingdom,IPH-31802,Bank Transfer,Success
+643af86d-e6da-48ed-8ba3-09bcd3cdb89c,C052,2026-05-24T02:45:17.649835,105.11,USD,Travel Hub,Travel,United States,WEB-96736,Bank Transfer,Success
+56cc743e-d8bd-4ea9-82f8-009841ceab0e,C058,2026-05-25T12:09:42.649841,50.46,USD,Shell,Fuel,Russia,AND-32356,Card,Success
+1e0f98a8-bb98-41e7-bf56-018176c80346,C019,2026-07-01T00:43:32.649846,95.66,USD,Quick Transfer,Money Transfer,United Kingdom,WEB-96461,Wallet,Success
+369be166-e64b-4d7f-8a1d-57b403867a32,C059,2026-05-23T13:35:36.649851,477.16,USD,Alpha Crypto Exchange,Crypto,Canada,IPH-59572,Bank Transfer,Success
+cd9234d1-977f-48bb-8994-f8c3c4a9e659,C026,2026-05-09T05:33:28.649856,161.42,USD,Amazon,Retail,United Arab Emirates,WEB-65023,Card,Success
+3d50c1eb-eaa2-4579-9f06-0faf678b6e31,C061,2026-07-21T19:20:42.649862,54.96,USD,Apple,Electronics,United States,WEB-75972,Card,Success
+11a173eb-07dd-4ba0-a413-6023273a0f27,C078,2026-05-12T10:48:04.649867,217.26,USD,Apple,Electronics,United States,WEB-95096,Bank Transfer,Success
+b9cc5310-0b8e-423d-9a4d-225e483393b6,C006,2026-06-12T04:47:51.649872,51.05,USD,Alpha Crypto Exchange,Crypto,United Arab Emirates,AND-40079,Bank Transfer,Success
+1781067c-8207-43d3-999b-a692fd64d440,C045,2026-05-22T02:42:33.649878,11.77,USD,Lucky Spin Casino,Casino,Canada,AND-27548,Bank Transfer,Success
+e55e3cbd-961c-42f3-b935-10ef1fe7f236,C011,2026-03-23T17:39:53.649883,29.75,USD,Shell,Fuel,United Arab Emirates,AND-43791,Card,Success
+f171cf53-82ca-408a-b25f-d50c034b2d7b,C074,2026-05-09T04:45:44.649888,13.68,USD,Amazon,Retail,Canada,WEB-10942,Bank Transfer,Success
+325b5ee9-99b7-427c-8d1c-d24834edc828,C053,2026-04-08T01:50:45.649894,53.71,USD,Alpha Crypto Exchange,Crypto,Canada,IPH-65846,Wallet,Success
+9e267181-6768-4757-b435-8dc4d68fa274,C069,2026-04-19T23:29:10.649899,74.93,USD,Starbucks,Food,India,WEB-46118,Wallet,Success
+bf4bde3c-8caa-48e2-8ae6-f49a8a701895,C053,2026-05-14T22:32:30.649904,333.22,USD,Shell,Fuel,United Arab Emirates,AND-33425,Bank Transfer,Success
+191bee22-f6d9-4456-a28f-d4f2d6a0e92c,C033,2026-03-28T06:39:12.649909,98.91,USD,Global Electronics,Electronics,India,WEB-62183,Wallet,Success
+6563dda1-d4d8-4097-845f-74ca222cffcc,C096,2026-03-13T08:21:29.649915,60.51,USD,Walmart,Retail,Russia,WEB-31206,Card,Success
+23e347e3-ac99-4ae7-b9e5-790f191e6419,C044,2026-07-02T05:47:43.649920,155.47,USD,Lucky Spin Casino,Casino,United Arab Emirates,WEB-99727,Wallet,Success
+610c4415-8309-45e8-8407-89c55746ebd0,C082,2026-01-28T18:12:09.649926,10.07,USD,Lucky Spin Casino,Casino,Canada,IPH-71822,Wallet,Success
+1ae5db09-714c-4a1f-bcb1-c8e12d101a90,C034,2026-03-11T19:04:14.649931,91.11,USD,Walmart,Retail,India,IPH-89826,Card,Success
+ec1b5059-9427-47f5-83b5-312763ff674a,C079,2026-06-04T03:32:40.649936,147.49,USD,Lucky Spin Casino,Casino,United Arab Emirates,AND-88311,Card,Success
+0cc2be5e-dad4-4029-9eb6-7c535174f5ea,C082,2026-05-03T17:28:12.649941,19.48,USD,Apple,Electronics,Russia,IPH-36438,Wallet,Success
+344cb517-e3e4-4476-bd9d-10801cfaa1d4,C037,2026-03-06T13:07:51.649947,206.31,USD,Travel Hub,Travel,United States,WEB-76918,Wallet,Success
+cf59bc81-f94a-4e68-99b0-bebff738e864,C022,2026-06-07T14:43:39.649952,99.95,USD,Quick Transfer,Money Transfer,United States,AND-41359,Wallet,Success
+a85c8f9a-a6bf-4185-b90e-6eb0cf729b60,C012,2026-03-22T07:30:19.649957,50.72,USD,Apple,Electronics,Nigeria,AND-97773,Bank Transfer,Success
+2efb7b09-e309-461d-936f-9bcd1391f9e8,C067,2026-01-30T17:09:34.649962,130.26,USD,Shell,Fuel,Canada,IPH-82036,Bank Transfer,Success
+9228752c-a0db-4545-aea5-d4932c998c8e,C075,2026-04-05T07:47:16.649968,568.85,USD,Travel Hub,Travel,India,AND-39661,Wallet,Failed
+c46f7a08-b426-4638-a87f-a3690a95682b,C052,2026-05-19T08:48:21.649973,86.81,USD,Global Electronics,Electronics,United States,AND-32942,Bank Transfer,Success
+86eed236-519c-4d82-b784-e6621125cd5c,C010,2026-05-05T10:29:04.649979,92.15,USD,Travel Hub,Travel,Singapore,AND-25336,Wallet,Failed
+4b1bc24f-8e70-48fa-9824-757a942818ca,C074,2026-03-17T07:17:24.649984,48.74,USD,Travel Hub,Travel,Russia,AND-83815,Bank Transfer,Success
+a9c989cb-6486-4add-a90d-f4c70cbadd63,C100,2026-04-26T19:56:06.649989,34.3,USD,Alpha Crypto Exchange,Crypto,Russia,WEB-13584,Bank Transfer,Success
+61489929-c0a8-45e7-b27c-243c11a62e5d,C049,2026-05-30T18:37:27.649995,155.6,USD,Walmart,Retail,Germany,WEB-40137,Bank Transfer,Success
+4e64c444-f4ac-4331-a69b-d8c71626e597,C067,2026-05-11T17:51:54.650001,34.11,USD,Alpha Crypto Exchange,Crypto,United States,WEB-44517,Card,Success
+1cac2ff9-b4f1-4582-b9e1-abb6ee49c31a,C087,2026-06-22T03:09:07.650006,78.6,USD,Lucky Spin Casino,Casino,India,IPH-82686,Card,Success
+9d497839-0dd5-495d-a6eb-cd60aa6e3215,C028,2026-07-20T09:21:43.650011,47.95,USD,Alpha Crypto Exchange,Crypto,Singapore,IPH-99536,Card,Success
+b59cf329-0d85-4a3b-bdde-a747be5507e1,C031,2026-06-19T12:53:39.650017,113.42,USD,Shell,Fuel,Germany,AND-37102,Card,Success
+1ff8fa86-d735-4473-96f7-aac4ec456bbe,C080,2026-04-06T20:45:15.650022,99.51,USD,Shell,Fuel,United Kingdom,IPH-25712,Card,Success
+dbc056a7-0871-42ad-afa4-693855ff478e,C079,2026-01-29T00:24:53.650027,187.5,USD,Global Electronics,Electronics,United Arab Emirates,IPH-73214,Bank Transfer,Success
+ef7ff1c8-c821-4d5e-aca3-7faa9190dae1,C074,2026-07-15T10:18:09.650033,46.57,USD,Global Electronics,Electronics,Singapore,AND-33969,Wallet,Success
+c0f2b673-96fa-49e5-9213-9066d75efe9c,C097,2026-05-19T17:00:03.650038,57.81,USD,Shell,Fuel,United Kingdom,IPH-78909,Bank Transfer,Success
+a20d50b4-df18-47f7-97ce-31952c425cd3,C005,2026-05-05T07:15:02.650045,30.54,USD,Travel Hub,Travel,India,AND-99959,Card,Success
+0326d093-0a4c-4ed4-8457-97ee0d2df0c2,C090,2026-05-08T08:33:26.650052,49.41,USD,Walmart,Retail,Russia,AND-11103,Card,Success
+8cdbe04f-b202-444e-aeec-9ef5697945e9,C075,2026-02-16T07:03:55.650057,103.5,USD,Lucky Spin Casino,Casino,India,AND-90318,Bank Transfer,Success
+e988d9fd-4329-4c61-8616-787eda8a0eb6,C031,2026-03-21T01:04:47.650063,145.66,USD,Starbucks,Food,Russia,WEB-54970,Bank Transfer,Success
+ea143d3b-46f7-49ad-810b-08e29345dc1d,C027,2026-04-19T02:39:39.650068,32.14,USD,Lucky Spin Casino,Casino,India,AND-62506,Bank Transfer,Success
+c7ecfae9-5e43-49d9-999f-f89ca7bb6c05,C017,2026-05-19T13:24:03.650073,161.2,USD,Quick Transfer,Money Transfer,Germany,IPH-45382,Card,Success
+8aeb379b-e628-4932-a3b3-27db294bd342,C026,2026-02-25T01:13:38.650078,249.65,USD,Lucky Spin Casino,Casino,United Kingdom,AND-11276,Card,Success
+98d21370-a571-4c81-99eb-47a5ac652a9b,C081,2026-05-08T02:58:24.650084,106.92,USD,Apple,Electronics,United Arab Emirates,WEB-51383,Bank Transfer,Success
+c648569c-9cbf-48b3-b4ff-13df489293d0,C073,2026-02-05T23:53:16.650089,399.06,USD,Travel Hub,Travel,Nigeria,IPH-31409,Card,Success
+32b6eb06-5329-408b-9a39-ef00d7afe9e6,C061,2026-07-09T15:26:16.650094,36.73,USD,Starbucks,Food,Canada,AND-53864,Bank Transfer,Success
+c0c0dab6-dd14-4bad-8f11-07399d9f2e37,C072,2026-07-04T00:29:38.650100,24.04,USD,Travel Hub,Travel,Singapore,AND-12599,Bank Transfer,Success
+6ed3dc54-265a-4d0f-bfba-8ccb2a164238,C026,2026-05-19T17:52:47.650105,14.87,USD,Quick Transfer,Money Transfer,United Arab Emirates,IPH-47304,Bank Transfer,Success
+41b65f3f-b516-41b5-85de-5f7f99cc24b4,C063,2026-06-27T04:07:00.650110,283.28,USD,Travel Hub,Travel,Russia,IPH-59947,Wallet,Success
+b47be9ab-d843-4cba-a897-bf81162d0833,C022,2026-06-01T02:52:06.650116,132.81,USD,Apple,Electronics,India,AND-92742,Wallet,Success
+2b09ff71-d6ad-4f1c-b740-b787c71c0248,C011,2026-02-28T04:31:07.650121,70.1,USD,Walmart,Retail,India,IPH-51088,Bank Transfer,Success
+617840fd-2564-4cca-b1f8-e87281227e91,C078,2026-06-01T21:48:23.650126,94.82,USD,Starbucks,Food,Nigeria,AND-68313,Bank Transfer,Success
+6e73d232-c4a1-4dda-99ae-1bbe39462ac3,C058,2026-04-18T02:52:30.650131,26.76,USD,Travel Hub,Travel,United Kingdom,IPH-13027,Card,Success
+fb52d91d-40a3-42a1-ba6a-e846cc136b20,C096,2026-06-12T19:01:50.650137,665.92,USD,Starbucks,Food,Canada,IPH-31877,Bank Transfer,Success
+5f3c8604-e13a-40a9-bc32-be122630b83d,C061,2026-05-14T05:25:58.650142,82.79,USD,Walmart,Retail,United States,IPH-62037,Wallet,Success
+2dba58f1-a333-41ca-b4cb-40ae09744f1d,C014,2026-03-19T16:39:45.650147,81.33,USD,Walmart,Retail,United Kingdom,IPH-95830,Bank Transfer,Success
+28f029d9-dc75-44ef-9219-0488ce88256b,C095,2026-03-23T21:53:57.650152,141.63,USD,Shell,Fuel,Russia,WEB-26569,Card,Success
+943bd114-030e-41a6-95c1-7a2c34971392,C004,2026-02-03T13:22:49.650158,113.63,USD,Apple,Electronics,India,AND-72410,Bank Transfer,Failed
+1fe0e7b6-dd55-41ce-88e2-6532a1d6221b,C035,2026-05-14T05:57:09.650163,90.15,USD,Travel Hub,Travel,Russia,IPH-80685,Card,Success
+c3338477-9feb-4d29-9432-22cd0b2078f0,C081,2026-06-22T03:43:38.650168,36.18,USD,Global Electronics,Electronics,Nigeria,WEB-93858,Wallet,Success
+72cdd2d5-8cc5-4a66-bdd1-302d5f1b30c4,C062,2026-05-12T12:34:55.650173,112.65,USD,Alpha Crypto Exchange,Crypto,Germany,IPH-67915,Bank Transfer,Success
+0ea4f89f-a872-489c-8c4a-6f616a2fa5ba,C020,2026-03-27T16:17:55.650178,400.94,USD,Starbucks,Food,United States,IPH-78592,Card,Success
+d6ea94f2-939a-471e-a588-6d29333b744f,C069,2026-01-29T08:18:24.650184,247.37,USD,Global Electronics,Electronics,Russia,AND-49270,Card,Success
+bbe072e9-427a-481d-8930-d845deb6bb20,C077,2026-03-13T15:05:17.650189,309.16,USD,Starbucks,Food,United States,WEB-58974,Card,Success
+5b9097e1-6d3f-4091-b5c6-efe9e90ae03e,C056,2026-04-14T09:13:27.650194,46.52,USD,Travel Hub,Travel,Germany,IPH-94671,Bank Transfer,Success
+5122d1e3-3b77-44cc-8ea5-f8219f7ba55f,C034,2026-02-12T02:41:25.650200,30.25,USD,Shell,Fuel,Nigeria,WEB-41399,Wallet,Success
+5699ee07-5989-459d-82bd-baecf243ddb7,C089,2026-06-09T16:12:05.650205,65.81,USD,Quick Transfer,Money Transfer,Singapore,AND-94994,Wallet,Success
+922fc61c-871f-4334-a1bd-8eba84e85e53,C053,2026-03-05T05:41:34.650210,77.49,USD,Starbucks,Food,Canada,IPH-27907,Bank Transfer,Success
+783bd657-8383-4fe4-8a5f-1bc7c6e1b89b,C080,2026-04-25T15:35:40.650215,197.31,USD,Global Electronics,Electronics,Singapore,WEB-91625,Bank Transfer,Success
+0eddcdce-0e99-4a7b-9bbf-f6c87d43af30,C020,2026-02-06T08:50:54.650220,16.07,USD,Amazon,Retail,United Arab Emirates,IPH-34371,Card,Success
+f1f6c454-933d-4721-a3fd-bec79f2fe0fa,C092,2026-04-22T20:42:57.650226,291.95,USD,Apple,Electronics,United States,IPH-21822,Card,Success
+b5b3ff17-9609-4758-98e1-77bd16fe1ee2,C044,2026-04-19T08:01:15.650231,63.93,USD,Shell,Fuel,Singapore,AND-58679,Bank Transfer,Success
+f69f1139-791f-4b7b-9f63-ca43b6798107,C043,2026-02-12T07:24:47.650236,50.19,USD,Amazon,Retail,United Kingdom,IPH-44931,Bank Transfer,Success
+e4386a2d-4ce6-45cb-bd26-2208b4cfc605,C024,2026-03-06T01:13:38.650241,29.64,USD,Global Electronics,Electronics,Singapore,AND-11653,Card,Failed
+e158b43a-3206-4b79-a5b7-afaa84ed7478,C050,2026-06-26T11:43:00.650247,16.62,USD,Shell,Fuel,Russia,IPH-14392,Card,Success
+3629da8f-3bef-439b-a435-391745eaeddd,C067,2026-06-06T01:22:05.650252,154.6,USD,Walmart,Retail,Germany,AND-61003,Wallet,Failed
+91148279-d8db-4ac7-8b8d-41a693947fe2,C021,2026-05-29T21:39:51.650257,78.73,USD,Alpha Crypto Exchange,Crypto,United States,WEB-82034,Wallet,Success
+d51c37e7-74e9-40a3-89f3-34ea5537ee50,C082,2026-03-26T18:06:58.650263,23.08,USD,Global Electronics,Electronics,Germany,AND-16827,Wallet,Success
+6faf0f73-9428-48ad-9966-ddb9e9a1ea84,C031,2026-05-30T15:06:57.650269,22.98,USD,Walmart,Retail,Nigeria,AND-11974,Card,Success
+2efe2784-1c60-4a85-9e9b-ec27e2be0371,C016,2026-04-14T14:08:48.650274,54.48,USD,Quick Transfer,Money Transfer,Germany,IPH-15504,Wallet,Success
+25e5492f-e355-4dc2-ba26-df132ea3c160,C089,2026-05-23T12:05:49.650279,331.0,USD,Global Electronics,Electronics,United Kingdom,AND-21728,Card,Success
+d2460f36-4c7b-49f3-b6cc-9f89364f6f5c,C088,2026-05-27T20:38:25.650284,58.34,USD,Walmart,Retail,India,WEB-17871,Card,Success
+196a73f9-7e5c-48f1-b88b-a59b38c968db,C090,2026-05-11T21:08:02.650290,19.05,USD,Apple,Electronics,Canada,IPH-73942,Card,Success
+0e4f842c-78de-458c-b13b-84948dab45a3,C083,2026-06-23T16:00:44.650295,59.08,USD,Travel Hub,Travel,India,AND-35292,Card,Success
+4c4582a8-ac34-4286-99f4-0e02aa076517,C093,2026-02-22T21:26:37.650300,57.66,USD,Alpha Crypto Exchange,Crypto,Singapore,IPH-73609,Wallet,Success
+a27905a0-ec71-4ef3-91d5-39ea4aee0954,C070,2026-06-12T01:58:40.650305,6.51,USD,Starbucks,Food,Russia,IPH-84278,Card,Success
+0a42a167-e2ea-423d-bae1-915340dc8e06,C094,2026-04-28T16:25:26.650310,70.19,USD,Alpha Crypto Exchange,Crypto,Singapore,WEB-82682,Card,Success
+87539cc6-239e-485b-9f0d-93139e11263a,C058,2026-03-26T03:28:51.650315,59.87,USD,Apple,Electronics,Singapore,WEB-58118,Bank Transfer,Success
+8c64b742-7391-4e91-b66a-4f446f8cf089,C049,2026-06-19T04:38:21.650322,137.91,USD,Travel Hub,Travel,United Kingdom,IPH-91229,Bank Transfer,Success
+5e18c607-4882-41f7-bade-b27dde2138da,C042,2026-06-16T17:39:59.650328,389.19,USD,Shell,Fuel,Canada,WEB-80642,Bank Transfer,Success
+3172d640-f88b-4126-b96e-2fcd0291656a,C099,2026-05-14T19:34:21.650333,203.14,USD,Global Electronics,Electronics,United Kingdom,WEB-47110,Bank Transfer,Success
+886e62d3-99a5-46fc-8f92-929dffa2f7e2,C015,2026-02-15T10:07:59.650338,57.86,USD,Alpha Crypto Exchange,Crypto,United Arab Emirates,WEB-18739,Card,Success
+96aac516-7957-4ed6-a0b0-8b95fa0bda01,C023,2026-07-16T08:19:04.650344,27.22,USD,Apple,Electronics,United States,IPH-24031,Bank Transfer,Success
+c48accdd-f927-48dd-9fe9-67ae3f9a761b,C074,2026-06-01T08:19:33.650349,746.97,USD,Amazon,Retail,Nigeria,WEB-74213,Wallet,Success
+6bfef59f-9069-45e7-b436-2f441033b015,C033,2026-02-06T06:18:07.650355,77.73,USD,Quick Transfer,Money Transfer,India,IPH-89423,Wallet,Success
+c61c9bcd-713d-45e5-9568-5954748b5c04,C084,2026-05-03T03:39:43.650361,74.63,USD,Shell,Fuel,Canada,AND-93744,Card,Success
+b89c9d71-8d17-4d17-af5d-5592f146ef88,C048,2026-06-30T23:01:03.650366,72.12,USD,Lucky Spin Casino,Casino,United States,WEB-44840,Wallet,Success
+598c30eb-c682-4872-bfc0-f8e3ed3f544d,C039,2026-02-11T20:45:05.650371,88.08,USD,Walmart,Retail,Germany,WEB-22729,Card,Success
+ab9696a7-cbbc-48be-874f-d9e406b1ba51,C050,2026-03-05T12:29:45.650377,64.72,USD,Travel Hub,Travel,Germany,WEB-96098,Card,Success
+d822fd31-1d5e-4d60-87af-cf20f0cc2591,C072,2026-06-22T05:02:42.650382,43.98,USD,Apple,Electronics,United Arab Emirates,AND-23829,Wallet,Success
+b43b363a-40e4-4720-a6cb-feba39de1d78,C090,2026-06-05T21:48:01.650387,45.05,USD,Global Electronics,Electronics,Nigeria,IPH-31864,Card,Success
+59ddd104-6868-49b5-8fef-7450c41b3eba,C044,2026-06-04T09:52:01.650392,71.56,USD,Travel Hub,Travel,United Kingdom,WEB-88632,Bank Transfer,Success
+25966b76-1f08-4c88-8b17-2d19b4c1bbde,C071,2026-03-31T18:32:39.650397,45.19,USD,Alpha Crypto Exchange,Crypto,India,AND-93000,Bank Transfer,Success
+eb4acee5-3fa0-46b2-8967-712d90e3164f,C078,2026-03-15T11:23:41.650403,38.8,USD,Alpha Crypto Exchange,Crypto,United Arab Emirates,IPH-59160,Wallet,Success
+a2ee9e96-7812-4b92-a231-5117f71b308d,C047,2026-04-25T13:53:57.650408,81.11,USD,Starbucks,Food,Russia,AND-10025,Wallet,Success
+cd6cd418-9644-4f7c-b2ba-6e83942ea35b,C077,2026-01-30T21:31:16.650413,58.59,USD,Starbucks,Food,United Arab Emirates,IPH-49562,Card,Success
+03dabc3b-3116-4982-ab9e-cb639883fbc2,C028,2026-07-12T21:29:33.650418,285.31,USD,Shell,Fuel,India,IPH-46170,Wallet,Success
+c7e018f6-4d47-4819-9154-091cb63012b9,C074,2026-02-26T18:34:10.650424,6.78,USD,Quick Transfer,Money Transfer,Canada,IPH-70341,Bank Transfer,Success
+d74ab560-0ca7-49a9-8e28-98be6a87a4ec,C047,2026-07-19T11:30:03.650429,196.83,USD,Starbucks,Food,Germany,IPH-43586,Bank Transfer,Success
+13e944c4-5484-4cf0-bdaf-fbc83f3e9d39,C073,2026-07-24T23:11:08.650434,226.21,USD,Lucky Spin Casino,Casino,Germany,WEB-20118,Wallet,Success
+d8a58b52-ee7d-42d9-9384-36ea50fed9cc,C023,2026-05-02T13:04:45.650440,11.4,USD,Global Electronics,Electronics,Canada,WEB-94181,Bank Transfer,Success
+5191bc3d-f588-4b21-9a63-f4f1d96e4adf,C049,2026-02-11T23:16:39.650445,54.14,USD,Quick Transfer,Money Transfer,United States,AND-55603,Bank Transfer,Success
+f40288aa-741b-4866-a4c8-f4b88f18ca18,C099,2026-03-12T18:07:38.650450,52.76,USD,Walmart,Retail,United States,WEB-92862,Bank Transfer,Success
+81e227e4-8c86-4161-9a95-712007b40b02,C006,2026-03-30T17:40:09.650456,20.76,USD,Travel Hub,Travel,United Arab Emirates,WEB-29605,Bank Transfer,Success
+0e3ebb7b-f44e-4c4e-949e-b91455f6173d,C020,2026-02-06T12:59:08.650461,36.6,USD,Shell,Fuel,Nigeria,AND-88005,Wallet,Success
+43f7e15d-d3bd-45af-92f7-764bf7548081,C056,2026-03-25T00:01:59.650466,27.13,USD,Shell,Fuel,Nigeria,IPH-27326,Bank Transfer,Success
+a69c045b-200f-4f13-bc83-9a889b76df56,C096,2026-02-06T07:21:09.650472,356.75,USD,Quick Transfer,Money Transfer,United Arab Emirates,AND-44413,Card,Success
+ac81434e-6594-4dcc-a9a9-c31233794912,C100,2026-06-12T05:51:31.650478,171.08,USD,Lucky Spin Casino,Casino,United Kingdom,IPH-73035,Wallet,Success
+11c6790d-0316-4964-aa47-91e010bd2079,C084,2026-05-18T16:08:25.650483,231.46,USD,Lucky Spin Casino,Casino,Germany,WEB-90739,Wallet,Success
+0c3a15d2-61e1-40c8-bb06-132a221c4836,C010,2026-03-20T10:23:39.650488,141.11,USD,Shell,Fuel,Nigeria,AND-99749,Wallet,Success
+c3dce84b-53e7-449f-8828-9b0189574cbf,C055,2026-04-08T15:49:01.650494,26.68,USD,Lucky Spin Casino,Casino,India,IPH-52039,Bank Transfer,Success
+eb45349e-7d57-47b3-ac9e-d4eaa7e559ef,C099,2026-03-27T22:06:18.650499,45.97,USD,Amazon,Retail,United Kingdom,AND-90769,Bank Transfer,Success
+57c12e0c-71f8-4c1d-9e53-ebaa94ad594a,C006,2026-07-26T04:41:31.650505,114.48,USD,Global Electronics,Electronics,Germany,IPH-99831,Bank Transfer,Success
+d4374617-0d1d-47a5-bf48-9b76049d3dd7,C015,2026-06-20T08:14:47.650510,24.53,USD,Walmart,Retail,United States,IPH-91396,Card,Success
+0962b83a-0198-4176-8202-4bdeaa374d84,C002,2026-04-04T09:18:24.650515,140.01,USD,Starbucks,Food,Canada,AND-68990,Bank Transfer,Success
+ea97dced-33ec-41b7-b181-8fdfe243fe00,C095,2026-05-12T04:50:00.650520,59.37,USD,Shell,Fuel,Germany,IPH-81620,Wallet,Success
+03895e04-8092-4a69-abac-1cb4d5d0edf9,C062,2026-05-28T17:07:57.650525,52.6,USD,Travel Hub,Travel,United Kingdom,WEB-97590,Card,Success
+c47979fb-4fbe-49d4-bb33-488bfa88a9b8,C006,2026-03-18T08:03:33.650531,139.75,USD,Travel Hub,Travel,United Kingdom,IPH-47226,Card,Success
+ae746b5d-4000-4cfd-9cfe-e743ce2c21df,C035,2026-02-07T00:56:29.650536,109.93,USD,Quick Transfer,Money Transfer,Russia,WEB-11092,Card,Success
+4f4a0b0c-014f-4af5-877a-aeb9c7ea4cd0,C085,2026-07-12T04:32:26.650541,53.26,USD,Starbucks,Food,India,IPH-12500,Bank Transfer,Success
+8ff854c1-95ef-4356-92b8-7ba85fabb696,C030,2026-04-11T15:44:33.650547,209.22,USD,Lucky Spin Casino,Casino,United Arab Emirates,WEB-23055,Bank Transfer,Success
+e850fcdc-bddb-4809-a82b-6b681c853aa1,C069,2026-02-13T19:45:08.650552,27.86,USD,Quick Transfer,Money Transfer,United Kingdom,IPH-75621,Bank Transfer,Success
+b0b9c8a3-bce2-485e-81fc-026340e61409,C006,2026-03-16T18:28:38.650557,128.3,USD,Amazon,Retail,United Arab Emirates,AND-53721,Bank Transfer,Success
+7b9f0374-4afc-440b-b185-92430781418f,C003,2026-04-05T01:39:28.650562,125.69,USD,Apple,Electronics,India,AND-91950,Bank Transfer,Success
+bdd012e1-e873-40b7-9ab8-4d71d73ea4e9,C036,2026-07-04T09:14:28.650567,55.78,USD,Travel Hub,Travel,United States,WEB-43774,Bank Transfer,Success
+0521c049-df87-4eb8-8e61-467e7a1d4ec8,C072,2026-03-23T03:20:39.650573,98.84,USD,Amazon,Retail,Germany,IPH-54798,Bank Transfer,Success
+37f557d2-5338-4e0e-81d0-a6b03ba8dbba,C094,2026-04-11T22:45:38.650578,23.9,USD,Walmart,Retail,United Arab Emirates,WEB-90274,Wallet,Success
+b7d9ca00-7d08-41cb-9019-eb010b37e025,C031,2026-05-18T23:26:49.650583,169.29,USD,Lucky Spin Casino,Casino,United Kingdom,AND-50944,Wallet,Success
+8badc2a4-b298-4da4-8b16-9114bcd5b345,C017,2026-03-08T21:06:18.650589,62.4,USD,Travel Hub,Travel,United Kingdom,WEB-80956,Wallet,Success
+f9e232a3-190c-4934-8a7c-5cbc3a8a6686,C040,2026-06-10T10:20:18.650594,46.04,USD,Apple,Electronics,United Arab Emirates,IPH-66369,Card,Success
+4ad40749-80c3-44c4-83a5-198bc443b40a,C021,2026-03-30T09:11:09.650599,189.45,USD,Quick Transfer,Money Transfer,Canada,WEB-79856,Wallet,Success
+14b414bd-3e76-413f-8a6f-3bb5bbc0fe03,C019,2026-06-17T21:58:57.650604,39.1,USD,Alpha Crypto Exchange,Crypto,United States,AND-64269,Bank Transfer,Success
+d75194df-3c8b-4724-8e53-b78ccab67972,C020,2026-06-28T00:27:08.650610,20.75,USD,Starbucks,Food,Germany,IPH-27241,Card,Success
+6cdd1328-e9a1-4978-8c67-6c3aef79a9cc,C079,2026-03-20T13:12:58.650615,18.16,USD,Quick Transfer,Money Transfer,Germany,WEB-40432,Card,Success
+f9e5d8b1-70ba-4aad-a1eb-e7b0569ab036,C011,2026-06-10T08:31:01.650621,127.16,USD,Alpha Crypto Exchange,Crypto,Russia,IPH-75840,Wallet,Success
+b53e7996-07a7-4841-966e-01136d12dd66,C024,2026-07-12T04:45:26.650626,23.28,USD,Alpha Crypto Exchange,Crypto,Nigeria,AND-72108,Card,Success
+660ba1bd-1aef-40d6-9c01-92cbd0d38b30,C005,2026-04-17T01:42:35.650631,357.56,USD,Shell,Fuel,United States,AND-64138,Card,Success
+6fec72d2-d50a-4dce-9883-dcf89fbb39f4,C097,2026-03-08T10:52:29.650636,11.32,USD,Shell,Fuel,Canada,IPH-67577,Wallet,Success
+258483ec-5554-4f08-b29f-3afb826fe20b,C059,2026-07-19T02:00:04.650642,339.27,USD,Alpha Crypto Exchange,Crypto,Germany,AND-63066,Card,Success
+1723da01-1cd8-4ef7-9910-4c931e9ecce5,C093,2026-03-29T11:45:15.650647,89.11,USD,Lucky Spin Casino,Casino,Nigeria,WEB-84964,Wallet,Success
+940e1bbf-00bb-47f1-8ebb-a1792756eb1a,C067,2026-02-17T22:59:50.650652,67.56,USD,Amazon,Retail,Russia,AND-15559,Card,Success
+12dbde84-8a71-47f9-bfe4-3c6bb88a3471,C095,2026-02-04T08:28:19.650657,45.13,USD,Lucky Spin Casino,Casino,United Arab Emirates,AND-77649,Wallet,Failed
+63ee0075-5ecc-46bc-85a6-1f09282e91ce,C038,2026-04-23T02:00:57.650663,105.55,USD,Shell,Fuel,Nigeria,AND-47475,Bank Transfer,Success
+df81b111-6d63-4830-8556-90876d28dc20,C079,2026-07-25T04:32:59.650668,71.25,USD,Starbucks,Food,United States,WEB-77760,Card,Success
+6bc39829-33de-4d5b-8822-c9e552264fc6,C012,2026-06-17T01:19:28.650673,198.93,USD,Global Electronics,Electronics,United Arab Emirates,IPH-33562,Wallet,Success
+aa47f23e-5b1c-49db-b30e-440ac8662211,C018,2026-04-14T01:22:12.650678,81.68,USD,Travel Hub,Travel,Nigeria,AND-69098,Card,Success
+2ccf78fe-8fe2-4d19-811a-981a85d1bec2,C092,2026-07-20T16:15:11.650684,84.38,USD,Quick Transfer,Money Transfer,Germany,AND-21820,Bank Transfer,Success
+912b2e99-3beb-4801-a78a-63f76ec01a31,C092,2026-06-19T02:47:47.650690,53.13,USD,Apple,Electronics,Canada,IPH-24963,Wallet,Success
+75f2cad5-dbdc-45be-8995-6339a02ce719,C011,2026-05-09T10:42:43.650695,70.02,USD,Alpha Crypto Exchange,Crypto,Nigeria,WEB-77065,Wallet,Success
+71c3eaec-5649-45c0-ae16-b8e11dc59332,C071,2026-04-11T15:18:13.650701,97.22,USD,Lucky Spin Casino,Casino,United States,IPH-53934,Wallet,Success
+dadabe0d-53fb-436f-8e5f-e227bb2b10e7,C021,2026-07-15T10:32:03.650706,15.81,USD,Apple,Electronics,United Kingdom,IPH-16725,Bank Transfer,Success
+d74f324f-31b7-41e2-ae98-28c754de949e,C037,2026-05-29T09:01:41.650711,21.9,USD,Global Electronics,Electronics,United Kingdom,IPH-27245,Card,Success
+636ebffa-f1f1-48b9-9fe8-028d570f02bf,C002,2026-04-26T18:58:33.650716,143.87,USD,Starbucks,Food,Russia,AND-81237,Card,Success
+20361c83-940b-40be-ac05-d06e68c89fb8,C031,2026-03-10T20:15:06.650722,85.95,USD,Global Electronics,Electronics,Russia,AND-63759,Bank Transfer,Success
+41c90bb1-5b1c-43f5-94d6-a3b7c064ed64,C001,2026-03-16T05:59:32.650727,62.45,USD,Quick Transfer,Money Transfer,United Arab Emirates,AND-91233,Wallet,Success
+f23af2b9-4848-4ae0-8374-2871b3f88655,C007,2026-03-04T14:57:47.650732,74.93,USD,Shell,Fuel,United Kingdom,IPH-95626,Bank Transfer,Success
+e8a390af-8f85-42f2-b480-ae6a667da4b2,C086,2026-05-19T23:39:13.650737,100.77,USD,Amazon,Retail,Singapore,AND-21495,Card,Success
+2fbd0a49-cd49-4d6e-94a3-2265ed19aa3d,C021,2026-06-07T05:42:54.650743,45.34,USD,Apple,Electronics,Singapore,WEB-96628,Wallet,Success
+2867fabc-ea09-4a39-af3b-27e9531c2170,C072,2026-03-03T04:22:48.650748,36.58,USD,Quick Transfer,Money Transfer,Russia,WEB-85886,Bank Transfer,Success
+b788f764-1ab8-4351-a8b0-9c2064bebd44,C099,2026-03-26T20:21:35.650753,87.91,USD,Walmart,Retail,India,AND-59668,Card,Success
+6eb8057c-dd7a-4354-806a-b3c80d882268,C009,2026-03-25T14:14:44.650759,30.55,USD,Travel Hub,Travel,Russia,IPH-25993,Wallet,Success
+3e54ead6-326f-41f8-a6f7-f5d2312c8e59,C068,2026-04-18T01:47:52.650766,106.42,USD,Alpha Crypto Exchange,Crypto,United Arab Emirates,IPH-37400,Wallet,Success
+780876f3-9fbc-49b6-bd06-785b550cba78,C094,2026-05-29T20:47:56.650771,15.92,USD,Quick Transfer,Money Transfer,United Arab Emirates,IPH-73394,Wallet,Success
+01ef9a00-c92b-4939-9e46-34443069d811,C055,2026-05-25T22:58:04.650777,186.09,USD,Starbucks,Food,India,AND-78864,Wallet,Failed
+15d63814-eea7-4a39-9c4c-215195aa2739,C017,2026-05-27T00:20:42.650782,112.77,USD,Alpha Crypto Exchange,Crypto,Russia,WEB-92818,Bank Transfer,Success
+d28b7e5d-077b-41ec-987b-d40228beede3,C079,2026-03-13T22:06:28.650787,92.8,USD,Apple,Electronics,Singapore,IPH-10207,Card,Success
+9bddf7d7-8857-4243-baf7-f3159a1271de,C095,2026-07-11T09:50:17.650792,178.47,USD,Walmart,Retail,Germany,WEB-64346,Bank Transfer,Success
+9b3e0854-0a53-42d4-8a03-f765e43d2a3c,C072,2026-07-03T05:58:53.650798,329.95,USD,Alpha Crypto Exchange,Crypto,Germany,IPH-93967,Card,Success
+bc6aca58-1717-42ff-8fb6-3496c991eb64,C009,2026-03-28T11:52:13.650803,183.63,USD,Starbucks,Food,Singapore,WEB-82088,Bank Transfer,Success
+5a886f1f-e7b3-41a1-959f-612344e4f09d,C088,2026-04-02T10:45:26.650808,14.06,USD,Walmart,Retail,India,AND-84569,Wallet,Failed
+613bd6f3-07ae-4e5e-a7fa-12ce0693dd3a,C025,2026-04-01T21:51:25.650813,23.3,USD,Apple,Electronics,India,WEB-72797,Bank Transfer,Success
+2d86dc55-8a5f-46fe-abe3-0ec6fa918b12,C062,2026-02-26T21:41:56.650819,42.0,USD,Apple,Electronics,Russia,WEB-53923,Bank Transfer,Success
+720dc31a-b97d-41f9-9550-517cef7af765,C096,2026-02-07T14:37:44.650824,75.45,USD,Lucky Spin Casino,Casino,United Arab Emirates,AND-84048,Wallet,Success
+2077b252-74cf-4ac2-ae46-c73fbb6efcc3,C069,2026-01-31T08:46:50.650829,117.44,USD,Travel Hub,Travel,Germany,WEB-99848,Bank Transfer,Success
+ed4cd082-5334-448f-9209-1540795fc089,C009,2026-02-25T17:21:27.650834,38.35,USD,Alpha Crypto Exchange,Crypto,Singapore,IPH-54453,Bank Transfer,Success
+51569249-fb5c-446a-b201-d1ba0e3e831d,C074,2026-05-25T08:15:43.650840,87.19,USD,Apple,Electronics,Nigeria,IPH-88012,Card,Success
+2560f580-5f92-4830-8498-cbda4aa0f81f,C091,2026-07-13T07:16:29.650845,37.34,USD,Starbucks,Food,India,WEB-14145,Bank Transfer,Success
+d6c47945-7e93-44ed-bf94-8c890823b5dd,C031,2026-04-09T21:15:04.650850,42.51,USD,Global Electronics,Electronics,Russia,AND-38329,Wallet,Success
+e8c490bc-0a60-4da7-891b-73b65d5a3e3d,C048,2026-06-29T03:39:01.650855,20.78,USD,Walmart,Retail,United States,IPH-22137,Bank Transfer,Success
+ea650e20-8667-4775-bff0-2e91aee13b37,C065,2026-02-26T15:36:03.650861,32.11,USD,Global Electronics,Electronics,Germany,AND-73369,Wallet,Success
+0d9c8cbf-ca78-40db-9b8a-f993f52fd089,C100,2026-04-01T07:03:06.650867,21.83,USD,Starbucks,Food,United Kingdom,IPH-77652,Wallet,Failed
+68c68027-3206-4e3f-b44c-6f573a086bb2,C093,2026-02-03T19:53:36.650873,30.62,USD,Shell,Fuel,Russia,AND-78464,Card,Success
+ef5ad069-b9bc-401c-a1ce-d769272ad399,C088,2026-07-11T10:05:26.650878,190.24,USD,Amazon,Retail,Canada,AND-71194,Card,Success
+e58c5901-5512-4de2-9890-8cfac8e2e408,C003,2026-05-19T21:10:13.650883,31.36,USD,Starbucks,Food,Singapore,WEB-37504,Bank Transfer,Success
+c2a65087-9cd9-46a5-8667-fa9a9a6159e4,C036,2026-05-11T02:07:53.650888,787.72,USD,Starbucks,Food,India,AND-97965,Card,Success
+9cba7abc-f05d-4e7c-9cf9-8ae4ac7c825d,C036,2026-02-18T22:58:13.650893,114.89,USD,Apple,Electronics,United States,WEB-83351,Wallet,Success
+f5cf8c5e-29e2-435a-8e51-32ae7a43c98a,C045,2026-05-14T09:46:33.650899,87.04,USD,Travel Hub,Travel,India,AND-28554,Wallet,Success
+8d61ca9a-580c-45a6-96a9-25dce425aa60,C032,2026-03-01T23:44:44.650905,34.04,USD,Quick Transfer,Money Transfer,Canada,AND-90381,Bank Transfer,Success
+1998b3b7-d50d-4e5f-b70f-6d2b090eab6f,C017,2026-02-02T08:39:43.650910,138.42,USD,Amazon,Retail,Russia,WEB-16613,Card,Success
+bf5e00e2-85a0-40e9-ad11-64e809485644,C055,2026-04-13T20:00:39.650915,43.9,USD,Walmart,Retail,United Kingdom,WEB-88134,Wallet,Success
+e0a3fedc-5207-42b0-93c8-26d10afac43c,C079,2026-04-06T18:52:32.650921,82.25,USD,Global Electronics,Electronics,Singapore,AND-35971,Wallet,Success
+db9b8932-a60f-49a2-90a2-55c25fd57107,C011,2026-07-25T22:01:53.650926,738.1,USD,Travel Hub,Travel,Russia,WEB-27274,Card,Success
+d1438703-9fcd-4a60-a90d-a2b045f0bf36,C013,2026-04-26T04:43:21.650931,67.6,USD,Global Electronics,Electronics,Singapore,WEB-94465,Wallet,Success
+ee08198f-6620-4e70-9c56-ac59ce75e921,C030,2026-03-12T04:30:14.650936,207.34,USD,Global Electronics,Electronics,United Kingdom,WEB-43823,Bank Transfer,Success
+49ef6436-7974-48a8-8c9c-81837eb54ed5,C042,2026-04-25T17:59:54.650942,39.14,USD,Alpha Crypto Exchange,Crypto,Russia,IPH-18567,Bank Transfer,Success
+d93fc8a4-5e76-42b9-a8d1-ba5588926bc2,C060,2026-07-10T23:06:10.650947,71.42,USD,Global Electronics,Electronics,United Kingdom,AND-55693,Wallet,Success
+629107a8-4d16-4dfd-a973-d971dc64f00f,C014,2026-04-16T12:10:48.650952,362.75,USD,Travel Hub,Travel,Canada,AND-82895,Wallet,Success
+7cb89932-d351-4c4f-89d4-e79ab34ae385,C069,2026-04-27T05:50:41.650957,41.92,USD,Starbucks,Food,Nigeria,WEB-64190,Card,Success
+bb720e8c-c512-48d0-b556-b2b6ec2634d2,C021,2026-05-01T09:34:30.650963,376.61,USD,Travel Hub,Travel,Nigeria,IPH-54658,Card,Success
+fc919275-a8ae-4683-b908-005c986fc3bb,C056,2026-06-29T00:42:51.650968,139.35,USD,Quick Transfer,Money Transfer,Nigeria,WEB-54852,Wallet,Success
+7562398b-51f0-428a-860a-1670af40aaca,C085,2026-06-06T18:07:58.650973,44.42,USD,Apple,Electronics,Canada,WEB-85260,Bank Transfer,Success
+6cd804ce-329a-49a8-b379-24a15f526868,C060,2026-03-31T21:55:05.650978,130.21,USD,Quick Transfer,Money Transfer,United Arab Emirates,IPH-68355,Card,Success
+26e6de28-e8ef-426a-80eb-612d8e1cd182,C009,2026-05-23T21:38:10.650984,176.85,USD,Lucky Spin Casino,Casino,Canada,WEB-88172,Bank Transfer,Success
+7d3418a7-a1c3-4e17-a20f-b86a5bdb6c7a,C012,2026-03-10T23:41:26.650989,128.98,USD,Amazon,Retail,United Kingdom,WEB-93379,Card,Success
+72cc2a5b-d245-4cbd-8924-9bb60d16de5c,C058,2026-05-10T21:22:40.650994,17.94,USD,Apple,Electronics,Singapore,AND-90684,Wallet,Success
+8788b22e-b06b-4a29-ac82-4b1efc1ee332,C088,2026-07-17T02:38:41.650999,38.3,USD,Shell,Fuel,India,AND-84747,Wallet,Success
+960779fa-54b3-4f2e-9158-2ec50a53d310,C092,2026-07-24T10:18:17.651005,58.98,USD,Lucky Spin Casino,Casino,India,IPH-86379,Card,Success
+4498c6a1-5b74-4421-8294-f613d6d1dbbc,C052,2026-07-11T07:49:11.651010,68.92,USD,Travel Hub,Travel,United Kingdom,AND-18180,Bank Transfer,Success
+55d1d698-d978-48e4-960a-8adbe263dd91,C001,2026-06-13T07:24:51.651015,128.84,USD,Amazon,Retail,United Arab Emirates,AND-24378,Bank Transfer,Success
+4e9e63e0-d3d8-456a-8a13-883027ecd582,C056,2026-06-13T02:08:15.651021,86.48,USD,Shell,Fuel,Nigeria,WEB-51697,Wallet,Success
+b1180423-2755-489f-83f8-da0c6621a6b4,C056,2026-05-13T13:59:02.651026,22.16,USD,Lucky Spin Casino,Casino,Germany,WEB-32729,Bank Transfer,Success
+714d61a8-f84e-45ca-a16d-bc443edc51a8,C050,2026-07-10T11:44:17.651031,103.77,USD,Travel Hub,Travel,India,AND-30220,Bank Transfer,Failed
+f9d2e3dd-0b7f-4e8d-b0ab-92c16bafe4cc,C018,2026-01-29T23:37:08.651037,127.68,USD,Apple,Electronics,Canada,WEB-12058,Card,Success
+b902a773-7482-4ddc-a5c6-e0694380e1e0,C085,2026-04-22T12:52:46.651043,121.97,USD,Global Electronics,Electronics,United Kingdom,IPH-27985,Wallet,Success
+3bf85f36-bab0-41d2-bff9-30804552d146,C090,2026-05-25T02:23:31.651048,194.94,USD,Global Electronics,Electronics,Nigeria,WEB-33566,Bank Transfer,Success
+899fb18d-4753-4410-810d-45ed17804110,C058,2026-04-12T10:26:48.651053,156.11,USD,Travel Hub,Travel,India,IPH-34352,Bank Transfer,Success
+bcf8ead2-62ce-407c-b31a-301dbe6e95cf,C064,2026-07-11T03:56:18.651059,111.42,USD,Quick Transfer,Money Transfer,Germany,WEB-75762,Bank Transfer,Success
+c5891b2d-4b40-4532-80d4-c1041860c352,C074,2026-04-08T23:45:02.651064,69.19,USD,Travel Hub,Travel,United States,IPH-84468,Bank Transfer,Success
+37ef6850-fb66-489d-aa6b-25b92acfc640,C075,2026-05-01T05:39:08.651069,16.53,USD,Walmart,Retail,Canada,IPH-78997,Bank Transfer,Success
+7d5c0126-7d35-4682-9fa6-5373c4da252b,C067,2026-07-19T12:51:11.651075,108.49,USD,Walmart,Retail,Canada,IPH-71925,Wallet,Success
+cdaaf72a-0406-4585-8aeb-68d03e45a97c,C088,2026-05-30T18:44:41.651080,88.85,USD,Walmart,Retail,United Arab Emirates,WEB-50959,Wallet,Success
+5910e179-5a2e-41b4-a101-49c9a129fea7,C069,2026-06-27T21:44:44.651085,94.11,USD,Alpha Crypto Exchange,Crypto,United States,AND-69511,Wallet,Success
+a3976d2c-d469-4b24-8d32-9fe1ed899405,C094,2026-04-02T02:30:48.651090,23.36,USD,Quick Transfer,Money Transfer,Nigeria,AND-48616,Bank Transfer,Success
+33b6c6fd-5d69-4ec8-96cb-d6a1de47a5c3,C096,2026-03-27T18:37:09.651096,27.86,USD,Quick Transfer,Money Transfer,Singapore,IPH-92483,Bank Transfer,Success
+06e676d0-4021-4470-9d33-8bd531fb280c,C007,2026-06-04T04:13:07.651101,190.15,USD,Quick Transfer,Money Transfer,Singapore,WEB-91830,Card,Success
+76fafb1d-d6d2-471a-8517-72dffd6f8a66,C017,2026-05-05T21:47:42.651107,71.12,USD,Walmart,Retail,Canada,AND-43036,Card,Success
+690247a7-3db2-42e2-8955-9baed34a4d1a,C033,2026-01-30T11:44:13.651112,136.09,USD,Starbucks,Food,Canada,WEB-32886,Wallet,Success
+79b10bd0-5ac5-4cda-8811-eed12b955364,C048,2026-07-03T14:21:24.651118,75.6,USD,Global Electronics,Electronics,United Kingdom,AND-40958,Bank Transfer,Success
+11e2443c-79c2-40fb-a090-df81a24c1481,C005,2026-04-04T07:20:01.651123,75.7,USD,Travel Hub,Travel,Canada,IPH-88059,Card,Success
+763db719-4b84-4696-8675-f78ebc444e52,C099,2026-04-12T03:14:02.651129,171.48,USD,Lucky Spin Casino,Casino,Germany,WEB-67695,Wallet,Success
+e7944f74-8bee-44fe-b92f-20ea3a5b5c61,C074,2026-06-19T07:55:01.651134,46.32,USD,Shell,Fuel,India,IPH-94182,Bank Transfer,Success
+b2719a8e-ee2a-4f52-a833-09ca23fb2428,C007,2026-03-01T06:37:15.651139,80.36,USD,Walmart,Retail,Russia,AND-72420,Bank Transfer,Success
+e00e2e20-f0d6-49fa-a1d1-06c47d9e123a,C030,2026-04-11T11:32:46.651144,48.62,USD,Travel Hub,Travel,Nigeria,AND-44422,Card,Success
+94c31f44-fdac-456d-806e-d5ec7b5eb183,C002,2026-03-24T19:24:56.651149,49.85,USD,Lucky Spin Casino,Casino,Russia,AND-98931,Bank Transfer,Failed
+55caa66d-3f50-462a-b3d4-7b3f5153d3ae,C013,2026-07-24T22:23:41.651155,55.8,USD,Amazon,Retail,United Arab Emirates,WEB-56376,Bank Transfer,Success
+7cc2dfe4-30d0-4534-8744-dcfab5e055c6,C043,2026-03-21T05:21:26.651160,90.01,USD,Starbucks,Food,Singapore,IPH-43468,Wallet,Success
+36364136-7d03-40b7-b1fb-4b391b619657,C099,2026-06-07T20:37:51.651165,47.9,USD,Global Electronics,Electronics,Germany,WEB-98065,Wallet,Success
+919e0d74-750a-432f-af44-c6ae0b533634,C044,2026-06-08T07:56:30.651170,228.19,USD,Travel Hub,Travel,United Kingdom,AND-81776,Card,Success
+767349db-0455-496d-bba9-e3a040f4e0aa,C002,2026-04-17T14:06:16.651176,32.95,USD,Walmart,Retail,Canada,WEB-23619,Wallet,Success
+b6db1d4d-f762-4e11-a419-c0982f0cf21e,C093,2026-03-23T17:48:22.651181,62.29,USD,Shell,Fuel,Singapore,IPH-14461,Card,Success
+fa15f0ef-761f-4103-a7d3-ac34f143ce79,C077,2026-06-04T05:32:59.651186,49.61,USD,Amazon,Retail,Germany,WEB-93634,Card,Success
+a300b074-26d5-4af3-b21c-04b8a81e5591,C012,2026-07-13T00:50:59.651191,271.04,USD,Walmart,Retail,United Kingdom,AND-96034,Wallet,Success
+8deed691-eccc-47d9-98b5-506c204103a8,C015,2026-06-11T19:31:38.651196,87.96,USD,Apple,Electronics,United Kingdom,AND-48609,Bank Transfer,Success
+6fe2b000-5a19-42dd-8cb4-6b25e94300f0,C082,2026-04-25T18:44:50.651202,186.54,USD,Walmart,Retail,Singapore,AND-97500,Bank Transfer,Success
+a91be0fa-ff7d-4e39-8229-189faf5944c7,C036,2026-06-27T15:07:21.651207,19.36,USD,Walmart,Retail,United States,AND-60933,Bank Transfer,Failed
+de2d32ec-2640-48bd-9e34-55ba64ee0122,C034,2026-03-03T06:45:28.651212,93.72,USD,Starbucks,Food,Russia,IPH-74450,Card,Success
+cc6cfb47-83d0-43f1-9b5e-21dfedc61248,C083,2026-05-03T06:41:58.651217,164.13,USD,Apple,Electronics,Canada,IPH-80861,Bank Transfer,Success
+844b9f52-f677-4f7f-9689-585440f1e9c9,C057,2026-06-15T15:33:12.651223,79.36,USD,Walmart,Retail,Singapore,IPH-14569,Card,Success
+514475bc-4c97-4811-8979-14789fbe1aef,C100,2026-04-24T07:30:26.651228,192.28,USD,Starbucks,Food,United States,AND-29510,Wallet,Success
+3d161177-6b29-46f7-bdcb-dc26b9a83cb8,C086,2026-04-13T13:19:58.651233,46.27,USD,Amazon,Retail,Singapore,IPH-53231,Bank Transfer,Success
+04dbf51e-2659-4346-ae05-b68b1ed3cd78,C091,2026-06-26T10:37:23.651238,262.02,USD,Travel Hub,Travel,Russia,AND-67154,Bank Transfer,Success
+2aae2b3a-dd50-4cf0-8481-5d5174275f80,C070,2026-03-12T14:04:08.651243,583.48,USD,Walmart,Retail,United States,AND-73185,Card,Success
+623502b9-5a8c-49b0-b9ac-bb550002b146,C043,2026-06-09T03:07:52.651249,53.17,USD,Alpha Crypto Exchange,Crypto,Singapore,AND-17234,Wallet,Failed
+18d5c2ec-6cfa-4520-af5b-f3aed44bfb0e,C047,2026-05-11T13:05:07.651254,49.36,USD,Walmart,Retail,India,IPH-70245,Bank Transfer,Success
+7f831ebb-b8c0-455b-a5be-032f9ed8b315,C071,2026-02-04T08:50:34.651259,272.61,USD,Apple,Electronics,Nigeria,WEB-35035,Bank Transfer,Success
+2428c822-0141-4769-bfb0-1f604dbd0f80,C081,2026-06-10T11:47:07.651265,305.4,USD,Walmart,Retail,India,AND-21123,Wallet,Success
+1f4a4786-ef4e-4070-a3f1-a73e06ea28f8,C018,2026-02-03T15:54:44.651270,46.04,USD,Shell,Fuel,Germany,IPH-87718,Card,Success
+8e428a4a-3052-4e12-af20-0ee22dfd47a0,C070,2026-06-01T16:02:35.651275,50.49,USD,Walmart,Retail,Singapore,AND-79984,Bank Transfer,Failed
+a008e5ab-6ab7-45a4-97e9-136052a58999,C005,2026-04-03T14:43:46.651280,57.19,USD,Amazon,Retail,United States,AND-15611,Bank Transfer,Success
+fb294e8d-5486-44e2-b812-dd1e34bfbacb,C059,2026-06-08T09:37:05.651286,21.98,USD,Travel Hub,Travel,United Arab Emirates,IPH-85936,Card,Success
+f568a15a-3865-4fd4-8a34-754a03eae492,C095,2026-02-24T05:24:20.651291,32.24,USD,Amazon,Retail,Russia,WEB-12498,Bank Transfer,Success
+b9ae99ec-8dae-450c-853c-911b4aec17bc,C006,2026-03-15T20:31:44.651296,29.85,USD,Quick Transfer,Money Transfer,United Kingdom,IPH-32577,Wallet,Success
+892b58b1-a31e-454a-96f8-44846615c1cc,C013,2026-04-26T07:31:14.651301,36.93,USD,Starbucks,Food,United Kingdom,WEB-18383,Card,Success
+59d4ea11-20fd-4a3e-8f28-b75253114d25,C079,2026-03-11T13:29:19.651307,71.43,USD,Quick Transfer,Money Transfer,Canada,IPH-65864,Bank Transfer,Success
+7b099488-6e28-4c35-b4ff-f968126e4bd9,C042,2026-02-20T04:31:35.651312,90.99,USD,Lucky Spin Casino,Casino,United Arab Emirates,IPH-52151,Card,Success
+4f89d779-c6a9-4f9b-913b-4130ad3ef989,C023,2026-04-02T21:06:25.651317,297.51,USD,Quick Transfer,Money Transfer,Canada,IPH-45899,Card,Success
+9781085a-eeea-4c6a-9db6-965941545a3a,C090,2026-04-09T13:31:57.651322,30.01,USD,Apple,Electronics,United Arab Emirates,IPH-67496,Card,Success
+92e68d03-9479-492b-b045-7ea4b09119dd,C018,2026-02-16T03:25:49.651328,178.73,USD,Amazon,Retail,Nigeria,IPH-12048,Bank Transfer,Success
+fcd7692d-dfca-43c7-973d-9ecfa5e58e7c,C023,2026-07-26T13:39:26.651334,60.79,USD,Amazon,Retail,Canada,WEB-95426,Wallet,Success
+01c41394-0293-4f36-9eb2-c3810fee87c9,C089,2026-07-03T12:21:29.651339,70.49,USD,Lucky Spin Casino,Casino,Russia,WEB-26632,Card,Success
+76ba07dc-f3f3-4cc3-a8ca-ad80cbf51cb6,C067,2026-04-25T04:39:06.651344,135.28,USD,Starbucks,Food,Nigeria,IPH-32878,Wallet,Success
+7ef345c6-1c07-47aa-9eff-a7b28178b7c9,C024,2026-06-15T23:56:05.651350,26.83,USD,Quick Transfer,Money Transfer,Russia,WEB-21537,Wallet,Success
+b60db94a-d0cd-45af-8c96-d81d0ff969c3,C045,2026-04-19T01:13:48.651355,103.98,USD,Starbucks,Food,United States,WEB-40885,Card,Success
+fbba11cc-0f67-4eea-8e5e-d8f31d7232f8,C013,2026-05-27T21:55:37.651360,85.61,USD,Travel Hub,Travel,India,WEB-76524,Card,Success
+31e35c7a-61a2-42bc-8221-47a64fd0832d,C036,2026-02-07T00:51:57.651365,114.8,USD,Shell,Fuel,Germany,IPH-29558,Wallet,Success
+3614340f-cd88-4ba3-b5de-7f27515c5249,C064,2026-03-02T23:16:29.651371,95.61,USD,Global Electronics,Electronics,United Kingdom,WEB-15651,Card,Success
+34d13485-81e9-4fd3-9ada-fe5be4b48a18,C027,2026-04-22T03:15:47.651376,671.67,USD,Starbucks,Food,Singapore,AND-90847,Bank Transfer,Success
+dba2c57b-f49b-45b2-922e-2fab0d6731e1,C069,2026-03-02T21:14:31.651381,41.51,USD,Amazon,Retail,United Kingdom,IPH-73577,Wallet,Success
+c019d68a-f666-4696-9067-e4daf107ce44,C093,2026-04-24T02:33:43.651386,45.7,USD,Shell,Fuel,India,AND-36050,Wallet,Success
+fc18bbc8-0d5c-445e-a10d-bab5dc6d03b7,C030,2026-06-27T23:50:03.651392,42.06,USD,Alpha Crypto Exchange,Crypto,Canada,AND-39855,Card,Success
+c5c0473c-af99-491d-939a-c5b048dac0b2,C026,2026-04-10T15:39:14.651397,44.7,USD,Lucky Spin Casino,Casino,Germany,IPH-71733,Wallet,Success
+0cdb7ffd-d04b-42c3-84ad-5c25113661a5,C019,2026-03-10T16:56:56.651402,41.53,USD,Lucky Spin Casino,Casino,Russia,IPH-60768,Bank Transfer,Success
+d5b2a0cc-21b0-4a38-ab23-3972aff33aff,C081,2026-04-07T08:41:51.651409,214.89,USD,Shell,Fuel,Singapore,IPH-54025,Card,Success
+f8646455-817e-49df-9d54-78f5c7debda9,C008,2026-03-23T05:15:23.651414,264.66,USD,Quick Transfer,Money Transfer,United Kingdom,IPH-71018,Bank Transfer,Success
+a81ebf13-1eed-43e2-96f6-c7501bafb07c,C029,2026-07-18T20:30:41.651419,44.09,USD,Alpha Crypto Exchange,Crypto,Singapore,WEB-30550,Wallet,Failed
+67421d97-a734-472c-8a84-168cf59e754b,C074,2026-05-15T01:34:27.651424,34.84,USD,Apple,Electronics,Germany,IPH-63961,Wallet,Success
+5d41fbe0-5d64-42cb-bb74-4638a83d2f4d,C076,2026-04-29T16:09:54.651430,112.65,USD,Shell,Fuel,Russia,AND-11901,Wallet,Success
+7e52c2a0-d285-4906-9456-ec7281977bc8,C032,2026-04-01T06:51:21.651435,44.84,USD,Shell,Fuel,Nigeria,WEB-39151,Wallet,Success
+4c0645e2-9b62-44dd-984f-9edde3443aff,C001,2026-04-18T20:30:15.651440,130.27,USD,Quick Transfer,Money Transfer,United States,IPH-71689,Wallet,Success
+e93c7e06-47c6-4727-b643-111668dbfb1d,C055,2026-05-10T20:45:10.651445,88.47,USD,Amazon,Retail,Nigeria,AND-22844,Bank Transfer,Success
+342b8a6b-9b39-46b7-bd7a-7e797db1bc23,C072,2026-06-22T23:08:50.651451,18.84,USD,Walmart,Retail,United States,WEB-63296,Card,Success
+16d3ea0d-4f1b-41b1-82b1-24fcab402260,C031,2026-06-02T11:46:06.651456,296.71,USD,Starbucks,Food,Canada,IPH-72886,Wallet,Success
+5cef0e65-7f6d-47dc-8fc0-e8c5a706c7f2,C074,2026-06-21T20:09:17.651461,371.03,USD,Global Electronics,Electronics,United States,AND-70786,Card,Success
+2690c64c-f6c5-4069-8145-b5a3f893c676,C024,2026-06-30T02:33:17.651466,42.46,USD,Lucky Spin Casino,Casino,India,WEB-70856,Wallet,Success
+afb0a0a1-df17-4a03-ae79-b756cf31cfb8,C050,2026-07-20T05:15:09.651472,51.99,USD,Walmart,Retail,India,WEB-14287,Bank Transfer,Success
+055809ec-5b53-4595-ace0-f8068fb395b1,C090,2026-05-26T16:00:32.651477,95.32,USD,Starbucks,Food,United Arab Emirates,WEB-37151,Wallet,Success
+ac6c436f-83c4-49c4-9e88-5764af6c938b,C095,2026-02-07T08:59:14.651482,99.58,USD,Alpha Crypto Exchange,Crypto,United Arab Emirates,WEB-57708,Card,Success
+16d53375-0bd3-4f0c-8919-60259de56f1b,C060,2026-05-27T22:55:02.651488,133.31,USD,Alpha Crypto Exchange,Crypto,United States,AND-58029,Card,Success
+2ee30d23-ad9c-4291-869d-857f784ec78f,C072,2026-06-14T11:17:49.651493,449.97,USD,Walmart,Retail,Germany,IPH-53899,Card,Success
+7dc0f3f7-6119-484b-b884-c9b9f3fc0220,C095,2026-06-22T19:24:43.651498,62.85,USD,Global Electronics,Electronics,Germany,WEB-39548,Bank Transfer,Success
+0fd23424-7d38-4a8e-be4b-5e144e0ee34e,C065,2026-06-08T19:37:57.651503,35.93,USD,Starbucks,Food,Nigeria,AND-17138,Card,Success
+5951a73f-6691-40cc-b690-831de42e78bb,C063,2026-05-05T02:28:23.651509,21.3,USD,Global Electronics,Electronics,United Arab Emirates,IPH-71625,Wallet,Success
+32ac1d81-2913-4d00-9fc3-87323d62d199,C038,2026-04-25T11:55:05.651514,38.17,USD,Travel Hub,Travel,India,WEB-18601,Card,Success
+cfadd0e3-e17b-4e37-8d72-795577ea1d4d,C012,2026-02-12T07:10:03.651519,71.53,USD,Global Electronics,Electronics,Nigeria,IPH-47797,Card,Success
+62c1279f-ddb7-4d90-a244-ba4640e2daa9,C015,2026-06-12T02:11:04.651525,370.59,USD,Starbucks,Food,United Kingdom,AND-29726,Card,Success
+efeeee87-059b-486f-b215-cf0512464e48,C038,2026-04-18T14:44:52.651530,46.25,USD,Amazon,Retail,United Arab Emirates,IPH-72115,Bank Transfer,Success
+72333f7f-ab12-412a-a6e7-82e17812ac1d,C038,2026-03-05T10:37:58.651535,90.14,USD,Amazon,Retail,Canada,IPH-40451,Wallet,Success
+d97b6db1-082a-4ada-be2a-f95e4cc44444,C075,2026-04-04T07:04:30.651541,72.62,USD,Lucky Spin Casino,Casino,India,AND-87772,Wallet,Success
+0aea8e4b-1d97-4c03-9f9a-188b7dd0297b,C057,2026-04-26T16:00:50.651547,214.77,USD,Travel Hub,Travel,Singapore,WEB-27295,Bank Transfer,Success
+9bb07243-107f-40fb-ad82-924bd737f615,C030,2026-05-01T18:16:58.651552,716.4,USD,Starbucks,Food,India,AND-16202,Card,Success
+ca98d0b9-ba10-4d6c-9bb4-8310084e6ba4,C022,2026-05-27T20:34:19.651557,45.71,USD,Global Electronics,Electronics,United Kingdom,WEB-80165,Bank Transfer,Success
+1aa768f4-6b9f-4ab3-ac40-b385ddd929b3,C091,2026-06-11T06:30:16.651563,47.44,USD,Apple,Electronics,United Kingdom,IPH-41182,Card,Success
+f332ae14-4f19-4e4e-b94d-d614dad61ae0,C074,2026-02-21T06:57:20.651568,188.62,USD,Alpha Crypto Exchange,Crypto,Russia,AND-58453,Card,Success
+3a473801-5125-4753-b64e-f4a379e29a7e,C086,2026-03-30T06:36:40.651573,136.14,USD,Amazon,Retail,India,IPH-58878,Bank Transfer,Success
+f729a36a-c9fb-41f8-b47a-c5a5275d6d46,C069,2026-03-27T06:55:00.651578,388.4,USD,Apple,Electronics,Canada,IPH-63026,Bank Transfer,Success
+8a937dd5-acb0-4f9e-80d3-bfc813086962,C041,2026-02-27T00:48:26.651584,124.65,USD,Global Electronics,Electronics,United States,WEB-81584,Wallet,Success
+e3e990d4-96c7-40f0-9c8d-f30200c59dd9,C061,2026-07-20T17:06:14.651589,53.34,USD,Starbucks,Food,Singapore,WEB-97410,Card,Success
+59009fbe-2135-44b2-8610-ea9ab13413e1,C044,2026-06-10T13:12:14.651594,125.41,USD,Global Electronics,Electronics,Canada,WEB-72781,Card,Success
+b275df6e-1793-484a-a6e3-c8e263165eaf,C015,2026-03-28T13:18:48.651599,199.9,USD,Travel Hub,Travel,United States,AND-90939,Card,Success
+8a1e8aaf-b298-4871-90f8-43f77a336018,C042,2026-02-07T10:01:18.651605,154.23,USD,Walmart,Retail,Germany,WEB-79000,Card,Success
+1759d0bd-f312-443b-954a-4f70eb5376b7,C026,2026-02-01T02:37:50.651610,116.34,USD,Starbucks,Food,Canada,WEB-68387,Wallet,Success
+3ff3042a-cad5-44a6-943b-90ec00a45348,C066,2026-04-14T07:41:37.651615,192.48,USD,Walmart,Retail,Germany,AND-51649,Wallet,Success
+a5923044-2286-4692-a408-ef236fe40ef0,C086,2026-04-07T20:13:50.651620,211.11,USD,Amazon,Retail,Nigeria,IPH-66051,Bank Transfer,Success
+3ef5dc7d-d0ca-41b3-84f8-a8aa1564e7ba,C037,2026-04-04T16:59:27.651626,255.68,USD,Amazon,Retail,India,AND-68402,Wallet,Success
+f288e453-083b-41f6-8e39-3d419a138849,C095,2026-04-18T10:25:41.651631,132.14,USD,Global Electronics,Electronics,Russia,AND-31468,Wallet,Failed
+c685c6de-d2a7-467b-a412-caa1a6b480ab,C094,2026-07-20T19:12:27.651636,63.41,USD,Lucky Spin Casino,Casino,Nigeria,IPH-86962,Wallet,Success
+9d96a659-6093-424a-bed2-59d0e4ee1bcf,C039,2026-04-29T21:24:13.651641,84.1,USD,Shell,Fuel,United Arab Emirates,AND-18665,Wallet,Success
+1e24195e-d412-4934-bedd-008477826343,C001,2026-04-17T05:46:16.651647,218.3,USD,Walmart,Retail,Singapore,AND-32923,Wallet,Success
+0945534b-5a1d-4d3e-85e8-d472c7d88cd1,C097,2026-07-24T09:09:34.651652,35.33,USD,Quick Transfer,Money Transfer,United Kingdom,IPH-34380,Bank Transfer,Success
+992a6e5b-c03f-4ab3-ad3d-58ff34072031,C006,2026-07-06T12:04:07.651657,102.7,USD,Global Electronics,Electronics,Singapore,WEB-49834,Bank Transfer,Success
+d9be0088-b4a6-44e5-a18a-7c4f57a3f81f,C029,2026-02-01T22:37:47.651662,51.73,USD,Global Electronics,Electronics,United States,IPH-44429,Bank Transfer,Failed
+b0a4c14b-95ff-447a-b945-0f68c9f38505,C016,2026-06-03T16:32:08.651668,75.63,USD,Global Electronics,Electronics,Singapore,AND-33510,Bank Transfer,Success
+32947b4e-5270-4573-8f61-4b65a516d455,C004,2026-02-19T21:46:45.651673,232.9,USD,Shell,Fuel,Singapore,AND-18745,Wallet,Success
+a9a6812f-c0f7-491e-ad94-cba79087a362,C062,2026-05-17T13:18:54.651678,87.53,USD,Quick Transfer,Money Transfer,Nigeria,AND-92312,Wallet,Success
+38068c76-65ea-4485-a620-c95473dd6b0c,C048,2026-05-07T06:05:24.651683,76.85,USD,Walmart,Retail,United States,AND-31344,Wallet,Success
+25a7d5b4-b41d-44b4-b20c-d4dcfc79ef1b,C060,2026-07-17T06:48:05.651689,21.67,USD,Alpha Crypto Exchange,Crypto,United Kingdom,AND-31405,Card,Success
+408bacdb-db8b-4bab-aac2-8673638d5831,C082,2026-07-23T20:15:43.651694,144.26,USD,Lucky Spin Casino,Casino,India,IPH-47992,Bank Transfer,Success
+46e01972-d117-486c-aa94-9572ade2b9d5,C066,2026-03-06T08:47:20.651699,131.75,USD,Walmart,Retail,United Kingdom,IPH-88480,Card,Success
+82bb6d15-12d5-4d0c-9a2e-913105b952a1,C088,2026-07-02T01:14:39.651704,516.42,USD,Alpha Crypto Exchange,Crypto,Singapore,AND-99842,Wallet,Success
+c26b44d3-e139-4030-9e3d-dce600b65f77,C069,2026-05-20T08:45:34.651711,55.87,USD,Walmart,Retail,India,IPH-11690,Card,Success
+22fc51f0-1781-4932-8e56-f623096b6d04,C100,2026-05-01T21:20:22.651716,89.77,USD,Alpha Crypto Exchange,Crypto,Nigeria,AND-31368,Card,Success
+9df6c77e-c2d5-41a3-805b-c1025cf9a4f3,C029,2026-07-08T04:57:36.651721,92.24,USD,Travel Hub,Travel,Germany,WEB-90403,Wallet,Success
+0bcea5e0-182f-4853-8425-194ad508b604,C069,2026-06-15T02:15:24.651726,304.82,USD,Travel Hub,Travel,United Arab Emirates,WEB-24937,Bank Transfer,Success
+f486a504-31f7-484b-bf13-6dab45bd0576,C015,2026-07-05T17:38:22.651732,67.64,USD,Walmart,Retail,United Kingdom,IPH-72851,Bank Transfer,Success
+62777af3-6f0a-4aae-bb55-e73c7db1d763,C018,2026-07-05T09:13:21.651737,94.74,USD,Alpha Crypto Exchange,Crypto,Russia,WEB-78566,Bank Transfer,Success
+49e4f1a6-c154-40ab-9bc3-1c61c388ef32,C004,2026-06-21T06:58:56.651742,127.37,USD,Starbucks,Food,Canada,IPH-26870,Wallet,Success
+8098ea69-546f-401d-92f3-1863e553a31f,C040,2026-02-21T01:41:33.651747,87.18,USD,Shell,Fuel,Germany,IPH-20302,Bank Transfer,Success
+f39c01d4-91b7-414f-8796-303a88200a6e,C010,2026-01-31T09:11:26.651754,49.31,USD,Walmart,Retail,Russia,AND-15572,Card,Success
+cfe01f01-2f60-44e1-b764-a0764347391c,C076,2026-02-08T05:44:32.651760,87.77,USD,Travel Hub,Travel,Russia,IPH-43162,Card,Success
+2d04aac8-f291-4f69-8fd5-1bd89d462218,C097,2026-02-15T11:17:08.651765,193.69,USD,Amazon,Retail,Canada,WEB-36922,Wallet,Success
+a798110f-ca07-4c0b-85bd-5af441a8513e,C086,2026-04-05T23:48:43.651770,29.26,USD,Apple,Electronics,United States,IPH-29078,Wallet,Success
+9647f439-e180-474b-ba0e-c897eaaeed9c,C045,2026-04-06T02:55:57.651775,83.07,USD,Quick Transfer,Money Transfer,United Kingdom,WEB-90341,Card,Success
+b3f1f825-f2a2-482e-92d0-8bb9245a5118,C013,2026-07-05T21:05:46.651781,39.25,USD,Walmart,Retail,United States,WEB-38442,Wallet,Success
+c5f1f072-f1a6-4794-9103-fc5e83187974,C022,2026-07-21T19:35:16.651786,216.06,USD,Starbucks,Food,United Arab Emirates,IPH-22934,Card,Success
+a7f24dab-cca0-4514-a7a6-c1ff6afa762b,C047,2026-06-12T07:04:53.651791,18.71,USD,Global Electronics,Electronics,United Kingdom,AND-98280,Card,Success
+9e554f1e-f203-44fb-ac4e-24fcf3042549,C049,2026-04-20T01:57:27.651796,44.57,USD,Alpha Crypto Exchange,Crypto,Germany,WEB-39825,Bank Transfer,Success
+9adc51b8-8a13-4a60-a9d5-0218cc378d7a,C016,2026-04-28T04:48:20.651802,103.49,USD,Alpha Crypto Exchange,Crypto,Canada,WEB-27814,Bank Transfer,Success
+3c4c517a-897b-4934-9878-020e3f8a50fa,C072,2026-06-16T22:56:48.651807,301.56,USD,Starbucks,Food,United States,IPH-53006,Bank Transfer,Success
+569803a0-8510-4ab5-abb6-b9c723023f0c,C059,2026-05-24T07:33:51.651812,69.47,USD,Starbucks,Food,Singapore,WEB-68190,Card,Success
+ebfc677c-a118-45e8-8098-579fed9b6120,C055,2026-03-05T09:20:53.651818,44.72,USD,Starbucks,Food,Canada,AND-99015,Bank Transfer,Success
+ee0139b3-8f63-4e7d-a582-9fd0e73f88c1,C087,2026-02-17T03:40:58.651823,400.63,USD,Global Electronics,Electronics,Nigeria,AND-78506,Wallet,Success
+615b215f-e1ae-4bf4-9276-8caf6ab2263b,C019,2026-04-14T09:30:04.651828,20.02,USD,Walmart,Retail,Nigeria,WEB-87405,Card,Success
+8511bc16-2522-469d-a409-b1705e99178f,C009,2026-04-08T08:33:28.651833,10.19,USD,Apple,Electronics,Germany,AND-36248,Wallet,Success
+b9ea6606-4572-4c78-99b2-cc3fce306560,C016,2026-03-13T22:47:51.651839,109.51,USD,Lucky Spin Casino,Casino,Nigeria,WEB-75419,Bank Transfer,Success
+055a03c9-1649-42cf-a133-7b19ee385037,C076,2026-03-21T17:41:30.651844,46.91,USD,Quick Transfer,Money Transfer,Nigeria,AND-72367,Wallet,Success
+d186eeae-30da-4b1d-994f-0c0c2178aada,C063,2026-05-07T00:54:38.651849,29.4,USD,Lucky Spin Casino,Casino,Singapore,IPH-69589,Card,Success
+66818369-de2f-4e38-9e92-e2fcb5ac663b,C064,2026-03-13T13:15:14.651854,139.42,USD,Global Electronics,Electronics,United Kingdom,IPH-23055,Wallet,Success
+60ddaf27-6690-45eb-b4e1-827179c3f4e2,C064,2026-06-08T09:45:22.651859,91.78,USD,Walmart,Retail,United States,IPH-60152,Wallet,Success
+e8edfdf2-898c-457e-82c1-5dd2afb20119,C039,2026-05-28T12:07:17.651865,44.36,USD,Apple,Electronics,Canada,IPH-96649,Wallet,Success
+efbd243e-15d6-4258-80fa-76febd12d155,C026,2026-03-25T17:38:55.651870,23.28,USD,Global Electronics,Electronics,Russia,AND-76164,Bank Transfer,Success
+a94a05ce-e0a8-48d0-8a97-3b5ca254121f,C070,2026-01-31T03:53:46.651875,161.61,USD,Travel Hub,Travel,United States,AND-25615,Bank Transfer,Success
+2c1bb1fe-4e29-4460-b686-a37ed938043f,C057,2026-04-26T23:41:59.651881,132.31,USD,Lucky Spin Casino,Casino,United States,IPH-33182,Wallet,Success
+d774d66e-ffa8-4b36-b444-8c85316ecd27,C091,2026-02-28T14:30:50.651886,67.41,USD,Starbucks,Food,Russia,AND-27627,Bank Transfer,Success
+b401b95c-4230-4d77-be48-30d5b0ff8c1e,C098,2026-02-17T23:18:12.651891,388.38,USD,Global Electronics,Electronics,Russia,WEB-82585,Wallet,Success
+b6956928-f945-485f-b831-522816008abd,C061,2026-05-16T21:50:47.651896,28.13,USD,Global Electronics,Electronics,United Kingdom,WEB-17305,Bank Transfer,Success
+c3602299-5f86-4654-8842-6a4890222d0c,C049,2026-05-27T12:41:37.651901,18.67,USD,Quick Transfer,Money Transfer,India,AND-52006,Card,Success
+841300e6-40f9-4a42-9143-edf6f08572e3,C017,2026-07-09T05:56:32.651907,39.54,USD,Amazon,Retail,India,AND-86541,Card,Success
+c909bf9b-63e6-4a95-b7ab-e4ff8bfa40b8,C049,2026-02-15T15:13:49.651912,70.74,USD,Alpha Crypto Exchange,Crypto,Nigeria,AND-56840,Bank Transfer,Success
+e891ef88-a5fe-40d0-8c63-465556a393ef,C032,2026-03-14T06:57:52.651918,91.74,USD,Shell,Fuel,Singapore,WEB-21133,Wallet,Success
+f4863852-596b-4fdb-9aba-02a2827903a6,C015,2026-04-03T06:50:58.651923,59.32,USD,Starbucks,Food,United Kingdom,IPH-80571,Bank Transfer,Success
+730111db-d83f-4988-87a6-0fa63981d8bf,C073,2026-05-07T16:30:03.651928,101.17,USD,Lucky Spin Casino,Casino,Nigeria,AND-12674,Wallet,Success
+59ef7b53-4ba3-4045-98e9-e153bb7a4316,C041,2026-04-11T01:55:52.651933,23.89,USD,Amazon,Retail,Nigeria,AND-85043,Card,Success
+0db47ff8-2865-4d11-a8ab-41d2f687a1e6,C089,2026-06-07T19:47:35.651938,270.26,USD,Walmart,Retail,Germany,AND-75107,Wallet,Success
+8c2ef683-de0b-47b8-91b1-b7fbc6d76761,C022,2026-05-27T02:51:07.651943,68.45,USD,Alpha Crypto Exchange,Crypto,Singapore,AND-67146,Card,Success
+35fa671b-e476-4d5b-a9a0-c2d8f3013a00,C069,2026-03-10T07:13:55.651950,201.46,USD,Walmart,Retail,Singapore,AND-16230,Bank Transfer,Failed
+82ae27cb-1e2f-43a4-aa15-8a878900802d,C029,2026-05-29T00:15:51.651955,100.33,USD,Lucky Spin Casino,Casino,Canada,WEB-85784,Card,Success
+e87d3e2d-2e31-47e6-97d7-c571d6fbe3cd,C009,2026-05-17T17:17:36.651961,111.17,USD,Starbucks,Food,United Arab Emirates,AND-65981,Card,Success
+719dd5d1-ba54-4e7b-8524-c20b7da57738,C084,2026-07-06T16:26:53.651967,123.07,USD,Walmart,Retail,Singapore,WEB-49309,Bank Transfer,Success
+fb625823-67e7-4e0c-a71d-a497c1aba7b0,C026,2026-04-18T04:23:26.651973,110.27,USD,Alpha Crypto Exchange,Crypto,Nigeria,AND-91915,Wallet,Success
+c5c3bf8a-a0b8-4d0e-a254-ea854ca97579,C024,2026-07-17T18:49:19.651978,131.43,USD,Travel Hub,Travel,United States,WEB-77662,Card,Success
+7043e636-5ec6-4aff-952b-bedd70a3377e,C085,2026-07-06T17:14:09.651984,243.77,USD,Shell,Fuel,Russia,AND-93614,Wallet,Success
+2b78be8e-e070-4231-8f16-09fc181e3823,C073,2026-06-17T19:49:04.651989,87.96,USD,Lucky Spin Casino,Casino,United States,WEB-36299,Bank Transfer,Success
+4f2d54e0-a2a5-4e75-9172-20e2726ceffb,C020,2026-06-21T16:10:43.651995,139.51,USD,Shell,Fuel,Singapore,AND-63773,Bank Transfer,Success
+237bd14e-68fe-4a62-9e16-d21e96b3c3cf,C082,2026-03-08T06:11:44.652000,67.98,USD,Walmart,Retail,Nigeria,AND-47623,Wallet,Success
+425a8510-8346-4864-a437-9de5f1d51f5c,C031,2026-04-16T13:01:07.652005,269.38,USD,Quick Transfer,Money Transfer,Germany,IPH-29655,Card,Success
+81ce2816-0aff-4467-830d-3fd5aca78a48,C060,2026-05-01T23:35:31.652011,40.09,USD,Starbucks,Food,United Arab Emirates,AND-65314,Wallet,Success
+04e8177e-1223-4734-b95a-a2e15bffa06b,C021,2026-03-21T16:28:34.652016,372.73,USD,Shell,Fuel,United Kingdom,IPH-43868,Bank Transfer,Success
+10bf66bc-4190-463d-b92d-10a3451c35dc,C083,2026-07-12T06:34:56.652021,71.08,USD,Apple,Electronics,United States,WEB-73680,Card,Success
+146eab62-4cc2-415a-bca5-5822a243560f,C041,2026-05-24T13:12:15.652026,20.33,USD,Walmart,Retail,Singapore,IPH-63347,Bank Transfer,Success
+59af5180-74b5-4f10-9bbf-79fded05e54e,C051,2026-07-09T19:20:48.652031,82.71,USD,Walmart,Retail,United Kingdom,IPH-24671,Wallet,Success
+aff354f0-67a0-4f1e-92d6-6ae9f8ef3d09,C067,2026-06-05T17:01:21.652037,39.93,USD,Walmart,Retail,United Arab Emirates,AND-75070,Card,Success
+0cce80fe-cff8-4a91-b8f7-ae98c158e401,C099,2026-07-03T08:58:53.652042,157.05,USD,Walmart,Retail,India,AND-86588,Wallet,Success
+bb341f32-4b89-4152-b3e4-a3491cd1443a,C055,2026-03-11T01:32:20.652047,40.96,USD,Shell,Fuel,United Kingdom,IPH-32957,Card,Failed
+fd3512da-2b04-444a-850b-db941eff5eac,C053,2026-03-18T02:41:52.652053,49.33,USD,Global Electronics,Electronics,United States,AND-79922,Bank Transfer,Success
+23da69d9-9570-4420-a2da-7631857958c9,C041,2026-05-13T16:54:09.652058,13.46,USD,Walmart,Retail,Nigeria,AND-99487,Card,Failed
+73cac252-6113-40d7-98b8-86644899d23d,C047,2026-04-30T00:14:25.652063,49.05,USD,Apple,Electronics,India,AND-12762,Wallet,Failed
+f34da0b2-08a7-4769-9c43-9ee0b6ea3eac,C005,2026-07-10T03:05:40.652068,8.32,USD,Quick Transfer,Money Transfer,United States,WEB-98027,Card,Success
+226a4359-9ac2-4347-9871-75686e7210bf,C040,2026-05-31T19:15:53.652074,17.72,USD,Lucky Spin Casino,Casino,India,WEB-25997,Wallet,Success
+020917f8-35e4-48e1-a013-62498027c3dd,C050,2026-01-29T06:12:18.652079,146.11,USD,Global Electronics,Electronics,Nigeria,AND-49438,Card,Success
+af00e3a2-c0ad-4f18-89f1-91010c06bd80,C039,2026-03-09T14:01:06.652084,149.49,USD,Shell,Fuel,United Kingdom,AND-92752,Bank Transfer,Success
+0c77fcbb-dbdc-4323-9bf6-cc02bd3b0204,C005,2026-03-21T22:38:56.652090,108.08,USD,Lucky Spin Casino,Casino,Canada,AND-71746,Wallet,Success
+1261a915-c4fa-4858-99c4-1c89dfa7becc,C092,2026-04-19T17:54:52.652095,30.87,USD,Alpha Crypto Exchange,Crypto,Canada,IPH-44205,Wallet,Success
+64dd6f8e-a81c-405b-8dde-24fb197405c6,C078,2026-06-18T08:00:42.652100,70.6,USD,Lucky Spin Casino,Casino,United Arab Emirates,WEB-52830,Bank Transfer,Success
+932f4943-8359-4a8a-8b0d-bd79cccf6ca4,C083,2026-06-01T07:35:03.652105,73.46,USD,Amazon,Retail,United Kingdom,WEB-68117,Wallet,Success
+2b92972e-0253-4b9e-95fa-b0ce5bccd8af,C026,2026-05-29T17:37:09.652111,25.98,USD,Lucky Spin Casino,Casino,Singapore,AND-85472,Card,Success
+b181a05d-1271-45d4-bc14-8be3a235143a,C067,2026-06-15T06:59:43.652116,285.16,USD,Shell,Fuel,United Kingdom,WEB-99883,Bank Transfer,Success
+3d74697e-418c-44bb-83b3-a63ff6cd648d,C058,2026-04-30T14:53:27.652121,162.33,USD,Alpha Crypto Exchange,Crypto,United Kingdom,AND-32738,Wallet,Success
+81929a2a-3b19-4e4a-8e7d-67530e7d872a,C037,2026-03-07T07:23:11.652126,60.41,USD,Alpha Crypto Exchange,Crypto,Canada,AND-58182,Card,Success
+d301be76-2a18-4ef9-803c-1a7c1c2ffc37,C074,2026-03-12T07:43:56.652132,75.5,USD,Lucky Spin Casino,Casino,United States,IPH-83207,Wallet,Success
+7c9e4c34-bec2-446b-969b-8b0af3dfdec8,C012,2026-04-27T12:36:09.652137,88.9,USD,Shell,Fuel,Germany,AND-32119,Card,Success
+a03c7475-b593-493a-92c8-8d8533080532,C077,2026-03-19T05:58:10.652142,11.73,USD,Lucky Spin Casino,Casino,United Kingdom,IPH-58224,Card,Success
+41663236-c4e7-4dae-8489-4646ed2ed91e,C002,2026-06-16T06:23:16.652147,59.0,USD,Walmart,Retail,United Arab Emirates,AND-69468,Wallet,Success
+2fd330b3-354c-4c5a-afa4-8fec44f26ceb,C092,2026-03-08T04:16:20.652153,39.89,USD,Shell,Fuel,Germany,AND-47743,Wallet,Success
+ec5b264c-eda6-40d8-a59c-85bc2d024609,C056,2026-07-13T00:22:10.652158,29.92,USD,Apple,Electronics,Germany,WEB-38254,Bank Transfer,Success
+1f6629da-cd4e-4b95-92df-4caf49c8fa93,C054,2026-03-03T18:07:51.652163,57.23,USD,Shell,Fuel,Nigeria,IPH-13771,Bank Transfer,Failed
+d55d81f0-c2b3-4611-8489-f52a354423b6,C080,2026-04-25T07:15:00.652168,371.64,USD,Shell,Fuel,Germany,AND-86402,Wallet,Success
+e6e86f8c-4258-4958-b77f-b09354b8d963,C002,2026-04-28T18:41:35.652174,131.2,USD,Walmart,Retail,United Kingdom,AND-62108,Wallet,Success
+0a524c98-9a5a-4b37-bf28-36ef404b2a6d,C091,2026-04-19T22:13:30.652180,44.08,USD,Lucky Spin Casino,Casino,Singapore,IPH-22488,Wallet,Success
+9e6f7ecc-4b9b-4882-82d2-4d41f0ed84e1,C031,2026-04-29T04:15:01.652186,123.39,USD,Alpha Crypto Exchange,Crypto,India,WEB-97921,Wallet,Success
+cb55342f-fd2a-45e9-af5a-e7ac4ce62535,C018,2026-07-21T17:32:47.652189,12745.0,USD,Alpha Crypto Exchange,Crypto,Nigeria,IPH-43247,Bank Transfer,Success
+4f38bd0e-707d-4b02-9bd6-3322ddc975da,C018,2026-07-21T17:35:47.652189,20266.0,USD,Alpha Crypto Exchange,Crypto,Nigeria,WEB-59930,Bank Transfer,Success
+04ee9281-3434-4ee6-8f31-111ef50e9692,C018,2026-07-21T17:38:47.652189,16956.0,USD,Alpha Crypto Exchange,Crypto,Nigeria,AND-97983,Bank Transfer,Success
+61af2f73-dc58-4e3d-a67f-226e6edfa4c4,C018,2026-07-21T17:41:47.652189,18076.0,USD,Alpha Crypto Exchange,Crypto,Nigeria,IPH-83342,Bank Transfer,Success
+56c8f85b-6218-4d96-80ab-d97dd1b0f51f,C018,2026-07-21T17:44:47.652189,12673.0,USD,Alpha Crypto Exchange,Crypto,Nigeria,WEB-33510,Bank Transfer,Success
+3f77dcad-72be-4181-b69b-d879fa3fb8d1,C018,2026-07-21T17:47:47.652189,16264.0,USD,Alpha Crypto Exchange,Crypto,Nigeria,IPH-76027,Bank Transfer,Success
+3e426aa9-1662-45df-b0b0-08835160781b,C018,2026-07-21T17:50:47.652189,20074.0,USD,Alpha Crypto Exchange,Crypto,Nigeria,AND-71352,Bank Transfer,Success
+ccb8b635-7f38-478f-8de8-384c10049a58,C018,2026-07-21T17:53:47.652189,14161.0,USD,Alpha Crypto Exchange,Crypto,Nigeria,IPH-51591,Bank Transfer,Success
+682a0265-e78a-4e29-a891-ac242b695afe,C018,2026-07-21T17:56:47.652189,23636.0,USD,Alpha Crypto Exchange,Crypto,Nigeria,WEB-66744,Bank Transfer,Success
+21e688e0-78b1-4c68-90e0-3d3e3af5acaa,C018,2026-07-21T17:59:47.652189,14323.0,USD,Alpha Crypto Exchange,Crypto,Nigeria,AND-25314,Bank Transfer,Success
+142e5338-8c83-4575-8a72-3c4c61052aa2,C018,2026-07-21T18:02:47.652189,17132.0,USD,Alpha Crypto Exchange,Crypto,Nigeria,IPH-26760,Bank Transfer,Success
+2005832c-bdb9-4dcc-8234-c5e9e7bd5e69,C018,2026-07-21T18:05:47.652189,20179.0,USD,Alpha Crypto Exchange,Crypto,Nigeria,AND-57263,Bank Transfer,Success
+753e2d87-4f9d-4a5b-a615-4a3d1523c18a,C018,2026-07-21T18:08:47.652189,19046.0,USD,Alpha Crypto Exchange,Crypto,Nigeria,AND-44500,Bank Transfer,Success
+6c3ebdd9-ffa0-4d90-ad2a-6b2acdf9811d,C018,2026-07-21T18:11:47.652189,22042.0,USD,Alpha Crypto Exchange,Crypto,Nigeria,AND-77760,Bank Transfer,Success
+b9c6c624-da3d-4e79-a5dc-97c70711aa85,C018,2026-07-21T18:14:47.652189,17128.0,USD,Alpha Crypto Exchange,Crypto,Nigeria,AND-31624,Bank Transfer,Success
+f147d740-73c1-4aad-9593-31bfbebe7872,C052,2026-07-24T17:32:47.652245,9761.0,USD,Quick Transfer,Money Transfer,United States,WEB-74392,Bank Transfer,Success
+f8cd1b6f-0ab8-48c6-8cb2-5a4b61baacff,C052,2026-07-24T17:33:47.652245,9677.0,USD,Quick Transfer,Money Transfer,United States,WEB-96169,Bank Transfer,Success
+12fc9650-8676-41e8-8d17-ee81a115ca12,C052,2026-07-24T17:34:47.652245,9825.0,USD,Quick Transfer,Money Transfer,United States,IPH-34762,Bank Transfer,Success
+08cbd59d-e0b6-41c5-818c-7376e695fa01,C052,2026-07-24T17:35:47.652245,9676.0,USD,Quick Transfer,Money Transfer,United States,IPH-40128,Bank Transfer,Success
+8524e7a7-55f8-409f-a3e2-4004f0c37a74,C052,2026-07-24T17:36:47.652245,9693.0,USD,Quick Transfer,Money Transfer,United States,IPH-71636,Bank Transfer,Success
+def1e802-2a8e-4440-a987-b85ff82cc75d,C052,2026-07-24T17:37:47.652245,9733.0,USD,Quick Transfer,Money Transfer,United States,IPH-71228,Bank Transfer,Success
+ab896a33-a43b-462c-b3a9-b2b2a9663c8e,C052,2026-07-24T17:38:47.652245,9823.0,USD,Quick Transfer,Money Transfer,United States,IPH-74868,Bank Transfer,Success
+364820bf-54ff-47e1-aeca-82e6bea466b3,C052,2026-07-24T17:39:47.652245,9620.0,USD,Quick Transfer,Money Transfer,United States,AND-56729,Bank Transfer,Success
+d76d7b16-951e-43f5-b615-cf5984ce57d8,C052,2026-07-24T17:40:47.652245,9887.0,USD,Quick Transfer,Money Transfer,United States,AND-69999,Bank Transfer,Success
+6f23c673-9661-4a27-a36a-00e1802cb6cd,C052,2026-07-24T17:41:47.652245,9852.0,USD,Quick Transfer,Money Transfer,United States,IPH-29405,Bank Transfer,Success
+c615280d-5c91-40f2-adb3-d9e229ceb06e,C052,2026-07-24T17:42:47.652245,9663.0,USD,Quick Transfer,Money Transfer,United States,AND-22265,Bank Transfer,Success
+97e454c0-6360-4e35-9f93-eafec86fadfe,C052,2026-07-24T17:43:47.652245,9704.0,USD,Quick Transfer,Money Transfer,United States,AND-33678,Bank Transfer,Success
+705fc05a-c7d4-4f87-bfde-2d9512ee0d0c,C052,2026-07-24T17:44:47.652245,9686.0,USD,Quick Transfer,Money Transfer,United States,WEB-76681,Bank Transfer,Success
+ba0b50e4-9e94-4812-8771-e4f1bc603f29,C052,2026-07-24T17:45:47.652245,9739.0,USD,Quick Transfer,Money Transfer,United States,WEB-96918,Bank Transfer,Success
+91d32f96-564f-45ca-904c-da3d7c9acb72,C052,2026-07-24T17:46:47.652245,9899.0,USD,Quick Transfer,Money Transfer,United States,IPH-86486,Bank Transfer,Success
+39f9d8bf-dd5b-451a-9df9-5fdc78e3c291,C052,2026-07-24T17:47:47.652245,9602.0,USD,Quick Transfer,Money Transfer,United States,WEB-84814,Bank Transfer,Success
+45791fbb-bec4-4045-9554-35fa2c9a5ad0,C052,2026-07-24T17:48:47.652245,9692.0,USD,Quick Transfer,Money Transfer,United States,AND-20070,Bank Transfer,Success
+7d85603a-a76d-408a-883c-60b358a0b649,C052,2026-07-24T17:49:47.652245,9726.0,USD,Quick Transfer,Money Transfer,United States,AND-98723,Bank Transfer,Success
+df8f47d8-386d-47f8-80f0-3b313f71be15,C052,2026-07-24T17:50:47.652245,9648.0,USD,Quick Transfer,Money Transfer,United States,AND-13402,Bank Transfer,Success
+ab8d412b-a5ca-4779-94c5-a3ded7725b9a,C052,2026-07-24T17:51:47.652245,9745.0,USD,Quick Transfer,Money Transfer,United States,WEB-99212,Bank Transfer,Success
+d2baf669-542a-48a1-b383-1badfdd4123b,C031,2026-07-25T17:32:47.652313,112.0,USD,Amazon,Retail,Canada,AND-58963,Card,Failed
+ef6f4304-5d3f-4978-bda4-4310c4d7ae38,C031,2026-07-25T17:33:47.652313,352.0,USD,Amazon,Retail,Canada,IPH-52406,Card,Failed
+9bbe8858-083b-4d27-acbb-d6e1b8513ec1,C031,2026-07-25T17:34:47.652313,128.0,USD,Amazon,Retail,Canada,IPH-20625,Card,Failed
+1d0f16b1-5f37-4076-b7d5-2bde37c4b94a,C031,2026-07-25T17:35:47.652313,285.0,USD,Amazon,Retail,Canada,WEB-96447,Card,Failed
+4cd8c607-677b-47d6-9544-ad8a8d21c7b9,C031,2026-07-25T17:36:47.652313,295.0,USD,Amazon,Retail,Canada,AND-92359,Card,Failed
+51af18f0-71c2-40ba-bbd1-c381e684beec,C031,2026-07-25T17:37:47.652313,187.0,USD,Amazon,Retail,Canada,WEB-96246,Card,Failed
+a7cbd4ee-9f0b-4680-8421-de00adc757c2,C031,2026-07-25T17:38:47.652313,52.0,USD,Amazon,Retail,Canada,AND-15747,Card,Failed
+4017571d-8fbf-4f01-bf5f-a81485dbd9be,C031,2026-07-25T17:39:47.652313,385.0,USD,Amazon,Retail,Canada,WEB-69388,Card,Failed
+18d67cc2-83b8-4ebd-8b3a-6799adba3652,C031,2026-07-25T17:40:47.652313,216.0,USD,Amazon,Retail,Canada,WEB-84600,Card,Failed
+1dd80d4d-9c18-42a8-9fa9-f5367e7085b6,C031,2026-07-25T17:41:47.652313,116.0,USD,Amazon,Retail,Canada,IPH-16380,Card,Failed
+48f63436-e72a-440f-8118-b7be3a4cd81b,C031,2026-07-25T17:42:47.652313,379.0,USD,Amazon,Retail,Canada,AND-52358,Card,Failed
+a6597297-b120-4ffd-9f63-5f8eff1e6013,C031,2026-07-25T17:43:47.652313,78.0,USD,Amazon,Retail,Canada,WEB-19269,Card,Failed
+2d0f1a54-1e4f-430b-be16-afbe5d96b0c6,C031,2026-07-25T17:52:47.652313,3500.0,USD,Apple,Electronics,Canada,WEB-88943,Card,Success
+b3b9c582-3602-47b6-8b8d-3f5c634d0881,C005,2026-07-22T17:32:47.652359,27497.0,USD,Alpha Crypto Exchange,Crypto,Nigeria,IPH-62279,Bank Transfer,Success
+e5891eef-92e4-4339-b036-e67855bd6904,C005,2026-07-22T18:32:47.652359,23361.0,USD,Alpha Crypto Exchange,Crypto,Nigeria,IPH-41467,Bank Transfer,Success
+d990212b-46cf-4838-9b30-89967eaa7091,C005,2026-07-22T19:32:47.652359,28071.0,USD,Alpha Crypto Exchange,Crypto,Nigeria,IPH-12688,Bank Transfer,Success
+c3c42859-686e-4c3e-a608-f4d2d6af2ed8,C005,2026-07-22T20:32:47.652359,21823.0,USD,Alpha Crypto Exchange,Crypto,Nigeria,IPH-60921,Bank Transfer,Success
+a64c1b70-a436-45b2-ab25-7c993b9e39ba,C005,2026-07-22T21:32:47.652359,28185.0,USD,Alpha Crypto Exchange,Crypto,Nigeria,AND-94825,Bank Transfer,Success
+d02b353a-7a28-40d8-9254-56f7f8a42d12,C005,2026-07-22T22:32:47.652359,39659.0,USD,Alpha Crypto Exchange,Crypto,Nigeria,WEB-30202,Bank Transfer,Success
+14e404df-9bc2-4fe6-a82f-fd81bcdbef3a,C005,2026-07-22T23:32:47.652359,18951.0,USD,Alpha Crypto Exchange,Crypto,Nigeria,AND-74336,Bank Transfer,Success
+9380799e-ac83-4351-bc4d-bdc0acd1352d,C005,2026-07-23T00:32:47.652359,29167.0,USD,Alpha Crypto Exchange,Crypto,Nigeria,WEB-50645,Bank Transfer,Success
+1044951b-919c-4f34-8e68-1b10177e88e8,C005,2026-07-23T01:32:47.652359,37444.0,USD,Alpha Crypto Exchange,Crypto,Nigeria,WEB-27208,Bank Transfer,Success
+557d8e26-897f-421a-a227-3259684176d2,C005,2026-07-23T02:32:47.652359,26765.0,USD,Alpha Crypto Exchange,Crypto,Nigeria,WEB-22597,Bank Transfer,Success
+8d566b0f-e8d0-4d08-970f-033ae44afe49,C070,2026-07-26T17:32:47.652397,90000.0,USD,Quick Transfer,Money Transfer,Russia,AND-77194,Bank Transfer,Success
