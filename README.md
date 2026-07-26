@@ -241,7 +241,7 @@ The prototype assumes:
 ## Clone repository
 
 ```bash
-git clone <repository_url>
+git clone <https://github.com/abhaysinghiit/Financial-Risk-Signal-Aggregator>
 
 cd Financial-Risk-Signal-Aggregator
 ```
